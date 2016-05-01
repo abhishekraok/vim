@@ -10,7 +10,7 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1462142303771">
+      <file name="/Python Console" timestamp="1462143159119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1461706862057">
@@ -84,12 +84,12 @@
         <mark key="^" line="70" column="30" />
         <mark key="." line="70" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" timestamp="1462142372373">
-        <mark key="'" line="297" column="16" />
-        <mark key="[" line="317" column="0" />
-        <mark key="]" line="317" column="8" />
-        <mark key="." line="317" column="8" />
-        <mark key="^" line="315" column="17" />
+      <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" timestamp="1462143042065">
+        <mark key="'" line="184" column="35" />
+        <mark key="[" line="190" column="84" />
+        <mark key="]" line="183" column="83" />
+        <mark key="." line="190" column="85" />
+        <mark key="^" line="183" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/DataObtainer.py" timestamp="1461255785904">
         <mark key="'" line="44" column="34" />
@@ -143,22 +143,17 @@
       <file name="/a.regexp" timestamp="1460819554955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/MainFunctions.py" timestamp="1461167385041">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="74" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/LanguageDemo.py" timestamp="1462141828932">
         <mark key="[" line="11" column="75" />
         <mark key="]" line="11" column="74" />
         <mark key="." line="11" column="74" />
         <mark key="^" line="11" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Pop.py" timestamp="1461039133991">
-        <mark key="[" line="54" column="29" />
-        <mark key="]" line="54" column="41" />
-        <mark key="." line="54" column="41" />
-        <mark key="^" line="54" column="41" />
+      <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Pop.py" timestamp="1462143050433">
+        <mark key="[" line="139" column="15" />
+        <mark key="]" line="139" column="20" />
+        <mark key="." line="139" column="20" />
+        <mark key="^" line="139" column="20" />
       </file>
       <file name="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" timestamp="1461884850729">
         <mark key="'" line="48" column="20" />
@@ -176,11 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="67" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="180" column="64" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="185" column="33" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="187" column="32" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="16" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="90" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="134" column="8" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="148" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
@@ -262,7 +252,6 @@
       <jump line="114" column="8" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
       <jump line="10" column="1" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/LanguageDemo.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/LanguageDemo.py" />
-      <jump line="184" column="29" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
       <jump line="268" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
       <jump line="286" column="41" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
       <jump line="287" column="27" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
@@ -276,66 +265,68 @@
       <jump line="177" column="8" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
       <jump line="315" column="16" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
       <jump line="297" column="16" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
+      <jump line="300" column="8" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
+      <jump line="141" column="8" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/Pop.py" />
+      <jump line="278" column="22" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
+      <jump line="183" column="66" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
+      <jump line="190" column="68" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
+      <jump line="184" column="35" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>choose_next_word</text>
+        <text>generated_output</text>
       </register>
       <register name="-" type="4">
-        <text>choose_next_word</text>
+        <text>generated_output</text>
       </register>
       <register name="/" type="4">
-        <text>nothing</text>
+        <text encoding="base64">XDxwcmludF9jb21wb25lbnRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZW5lcmF0ZV93b3JkcyhzZWxmLCB3b3JkX2xlbmd0aCwgc2VlZD1Ob25lKToKICAgICAgICBwcmludCAnR2VuZXJhdGluZyB3b3JkcyB3aXRoIHdvcmQgY291bnQgPSAnLCB3b3JkX2xlbmd0aAogICAgICAgIGN1cnJlbnRfcG9wID0gbnAucmFuZG9tLmNob2ljZShzZWxmLnBhdHRlcm5zX2NvbGxlY3Rpb24udmFsdWVzKCkpIFwKICAgICAgICAgICAgaWYgc2VlZCBpcyBOb25lIG9yICcnIGVsc2Ugc2VsZi5maW5kX25leHRfcGF0dGVybihzZWVkKQogICAgICAgIGN1cnJlbnRfd29yZCA9IGN1cnJlbnRfcG9wLnVucm9sbGVkX3BhdHRlcm4KICAgICAgICBnZW5lcmF0ZWRfb3V0cHV0ID0gW2N1cnJlbnRfd29yZF0KICAgICAgICBmb3IgaSBpbiByYW5nZSh3b3JkX2xlbmd0aCk6CiAgICAgICAgICAgIG5leHRfd29yZCA9IHNlbGYuY2hvb3NlX25leHRfd29yZChnZW5lcmF0ZWRfb3V0cHV0KQogICAgICAgICAgICBpZiBuZXh0X3dvcmQgPT0gJyc6CiAgICAgICAgICAgICAgICBuZXh0X3dvcmQgPSBucC5yYW5kb20uY2hvaWNlKFtwb3AudW5yb2xsZWRfcGF0dGVybgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIGtleSwgcG9wIGluIHNlbGYucGF0dGVybnNfY29sbGVjdGlvbi5pdGVyaXRlbXMoKV0pCiAgICAgICAgICAgIGdlbmVyYXRlZF9vdXRwdXQgKz0gbmV4dF93b3JkCiAgICAgICAgcmV0dXJuIGdlbmVyYXRlZF9vdXRwdXQK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGFibGVfb3V0cHV0ID0gc2VsZi5wYXR0ZXJuc19jb2xsZWN0aW9uW2N1cnJlbnRfd29yZF0ucHJpbnRfY29tcG9uZW50cwo=</text>
       </register>
       <register name="1" type="4">
-        <text>choose_next_word</text>
+        <text>generated_output</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwppbXBvcnQgbmx0awoK</text>
+      <register name="2" type="4">
+        <text>current_word</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z2V0X2lweXRob24oKS5tYWdpYyh1J3B5bGFiIGlubGluZScpCmdldF9pcHl0aG9uKCkubWFnaWModSdsb2FkX2V4dCBhdXRvcmVsb2FkJykKZ2V0X2lweXRob24oKS5tYWdpYyh1J2F1dG9yZWxvYWQgMicpCnN5cy5wYXRoLmluc2VydCgwLCcuLi9zb3VyY2UvJykKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRhYmxlX291dHB1dCA9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNlY29uZF9jb21wb25lbnQ6CiAgICAgICAgICAgIG91dCA9IG91dCArIHNlbGYuc2Vjb25kX2NvbXBvbmVudC5wcmludF9jb21wb25lbnRzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgICAgICBvdXQgPSAnJwo=</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text>choose_next_word</text>
       </register>
-      <register name="7" type="4">
-        <text>/</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHN5cwppbXBvcnQgbmx0awoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+        <text encoding="base64">Z2V0X2lweXRob24oKS5tYWdpYyh1J3B5bGFiIGlubGluZScpCmdldF9pcHl0aG9uKCkubWFnaWModSdsb2FkX2V4dCBhdXRvcmVsb2FkJykKZ2V0X2lweXRob24oKS5tYWdpYyh1J2F1dG9yZWxvYWQgMicpCnN5cy5wYXRoLmluc2VydCgwLCcuLi9zb3VyY2UvJykKCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICsgcGF0aCArICcqIC1yJw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>nothing</last-search>
+      <last-search encoding="base64">XDxwcmludF9jb21wb25lbnRzXD4=</last-search>
       <last-offset />
-      <last-pattern>nothing</last-pattern>
-      <last-replace />
-      <last-substitute>\#.+\n</last-substitute>
+      <last-pattern encoding="base64">XDxwcmludF9jb21wb25lbnRzXD4=</last-pattern>
+      <last-replace>second</last-replace>
+      <last-substitute>first</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXBvX2ZvbGRlclw+</entry>
-        <entry>relpath</entry>
-        <entry encoding="base64">XDxkZWxldGVfYnlfYmxvYl9pZFw+</entry>
-        <entry encoding="base64">XDxnb2xkX3NoYXJlXD4=</entry>
         <entry encoding="base64">XDx3b3JraW5nX2Rpclw+</entry>
         <entry encoding="base64">XDxkZWxldGVfZmlsZXNfYW5kX21ha2VfY29tbWl0XD4=</entry>
         <entry>commit</entry>
@@ -352,6 +343,10 @@
         <entry encoding="base64">XDxjdXJyZW50X3dvcmRcPg==</entry>
         <entry>generate</entry>
         <entry>nothing</entry>
+        <entry encoding="base64">XDxjaG9vc2VfbmV4dF93b3JkX3dvcmRfbGlzdFw+</entry>
+        <entry>first</entry>
+        <entry>printabl</entry>
+        <entry encoding="base64">XDxwcmludF9jb21wb25lbnRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>
@@ -361,6 +356,7 @@
         <entry encoding="base64">JzwsJz5zL1xcL1xcXFwvZw==</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s/\#.+\n//g</entry>
+        <entry encoding="base64">JzwsJz5zL2ZpcnN0L3NlY29uZC9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

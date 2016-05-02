@@ -10,10 +10,10 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1462143159119">
+      <file name="/Python Console" timestamp="1462228415704">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1461706862057">
+      <file name="/fragment.py" timestamp="1462228458783">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -132,14 +132,6 @@
         <mark key="^" line="2" column="92" />
         <mark key="." line="2" column="92" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/test_PatternOfPatterns.py" timestamp="1461254932306">
-        <mark key="c" line="12" column="0" />
-        <mark key="'" line="212" column="43" />
-        <mark key="[" line="211" column="60" />
-        <mark key="]" line="212" column="43" />
-        <mark key="." line="212" column="43" />
-        <mark key="^" line="212" column="43" />
-      </file>
       <file name="/a.regexp" timestamp="1460819554955">
         <mark key="[" line="0" column="0" />
       </file>
@@ -161,6 +153,12 @@
         <mark key="]" line="8" column="106" />
         <mark key="." line="8" column="106" />
         <mark key="^" line="8" column="134" />
+      </file>
+      <file name="D:/Github/gym_experiments/FirstExperiment.py" timestamp="1462228477146">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="61" />
+        <mark key="^" line="5" column="61" />
+        <mark key="." line="5" column="61" />
       </file>
       <file name="$USER_HOME$/Source/Repos/promisigin-patterns/JanaComp/RememberingMachine.py" timestamp="1454872576650">
         <mark key="'" line="150" column="54" />

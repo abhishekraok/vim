@@ -10,7 +10,7 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1462228415704">
+      <file name="/Python Console" timestamp="1462229672633">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1462228458783">
@@ -154,11 +154,12 @@
         <mark key="." line="8" column="106" />
         <mark key="^" line="8" column="134" />
       </file>
-      <file name="D:/Github/gym_experiments/FirstExperiment.py" timestamp="1462228477146">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="61" />
-        <mark key="^" line="5" column="61" />
-        <mark key="." line="5" column="61" />
+      <file name="D:/Github/gym_experiments/FirstExperiment.py" timestamp="1462229710286">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="5" column="62" />
+        <mark key="]" line="18" column="16" />
+        <mark key="^" line="18" column="16" />
+        <mark key="." line="18" column="16" />
       </file>
       <file name="$USER_HOME$/Source/Repos/promisigin-patterns/JanaComp/RememberingMachine.py" timestamp="1454872576650">
         <mark key="'" line="150" column="54" />
@@ -169,8 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="134" column="8" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="148" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="99" column="47" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="123" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
@@ -269,6 +268,8 @@
       <jump line="183" column="66" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
       <jump line="190" column="68" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
       <jump line="184" column="35" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
+      <jump line="18" column="16" filename="D:/Github/gym_experiments/FirstExperiment.py" />
+      <jump line="6" column="0" filename="D:/Github/gym_experiments/FirstExperiment.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

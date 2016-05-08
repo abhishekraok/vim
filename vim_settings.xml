@@ -10,10 +10,10 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1462229672633">
+      <file name="/Python Console" timestamp="1462750630985">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1462228458783">
+      <file name="/fragment.py" timestamp="1462750813147">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -84,11 +84,11 @@
         <mark key="^" line="70" column="30" />
         <mark key="." line="70" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" timestamp="1462143042065">
+      <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" timestamp="1462751032384">
         <mark key="'" line="184" column="35" />
-        <mark key="[" line="190" column="84" />
-        <mark key="]" line="183" column="83" />
-        <mark key="." line="190" column="85" />
+        <mark key="[" line="109" column="28" />
+        <mark key="]" line="109" column="28" />
+        <mark key="." line="109" column="28" />
         <mark key="^" line="183" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/DataObtainer.py" timestamp="1461255785904">
@@ -119,6 +119,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/code.py" timestamp="1462751376645">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="46" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+      </file>
       <file name="C:/Repos/OctaneMainNoBranchBRZ/FilterGit.py" timestamp="1461370682829">
         <mark key="'" line="43" column="30" />
         <mark key="[" line="34" column="0" />
@@ -135,13 +141,12 @@
       <file name="/a.regexp" timestamp="1460819554955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/LanguageDemo.py" timestamp="1462141828932">
-        <mark key="[" line="11" column="75" />
-        <mark key="]" line="11" column="74" />
-        <mark key="." line="11" column="74" />
-        <mark key="^" line="11" column="74" />
+      <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/LanguageDemo.py" timestamp="1462750623989">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Pop.py" timestamp="1462143050433">
+      <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Pop.py" timestamp="1462750953568">
         <mark key="[" line="139" column="15" />
         <mark key="]" line="139" column="20" />
         <mark key="." line="139" column="20" />
@@ -273,43 +278,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>generated_output</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>generated_output</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludF9jb21wb25lbnRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGFibGVfb3V0cHV0ID0gc2VsZi5wYXR0ZXJuc19jb2xsZWN0aW9uW2N1cnJlbnRfd29yZF0ucHJpbnRfY29tcG9uZW50cwo=</text>
+        <text encoding="base64">d3AuY2FsY3VsYXRlX3BlcnBsZXhpdHkoWyd3aGVyZScsICdpcycsICd0aGUnXSkK</text>
       </register>
       <register name="1" type="4">
-        <text>generated_output</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>current_word</text>
+        <text>1</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRhYmxlX291dHB1dCA9Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNlY29uZF9jb21wb25lbnQ6CiAgICAgICAgICAgIG91dCA9IG91dCArIHNlbGYuc2Vjb25kX2NvbXBvbmVudC5wcmludF9jb21wb25lbnRzCg==</text>
+      <register name="4" type="4">
+        <text>-</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQgPSAnJwo=</text>
+        <text encoding="base64">IyBJblsgXToK</text>
       </register>
-      <register name="6" type="4">
-        <text>choose_next_word</text>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpbnQgYQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwppbXBvcnQgbmx0awoK</text>
+      <register name="7" type="4">
+        <text>generated_output</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Z2V0X2lweXRob24oKS5tYWdpYyh1J3B5bGFiIGlubGluZScpCmdldF9pcHl0aG9uKCkubWFnaWModSdsb2FkX2V4dCBhdXRvcmVsb2FkJykKZ2V0X2lweXRob24oKS5tYWdpYyh1J2F1dG9yZWxvYWQgMicpCnN5cy5wYXRoLmluc2VydCgwLCcuLi9zb3VyY2UvJykKCg==</text>
+      <register name="8" type="4">
+        <text>current_word</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRhYmxlX291dHB1dCA9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -391,6 +396,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

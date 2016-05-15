@@ -10,7 +10,7 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1462750630985">
+      <file name="/Python Console" timestamp="1463278162442">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1462750813147">
@@ -98,6 +98,12 @@
         <mark key="." line="47" column="46" />
         <mark key="^" line="47" column="46" />
       </file>
+      <file name="D:/Github/EducationBot/Socrates.py" timestamp="1463278224157">
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="17" column="42" />
+        <mark key="^" line="21" column="106" />
+        <mark key="." line="17" column="42" />
+      </file>
       <file name="$USER_HOME$/Source/Repos/promisigin-patterns/JanaComp/School.py" timestamp="1454265331762">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -119,7 +125,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/code.py" timestamp="1462751376645">
+      <file name="/code.py" timestamp="1463277466033">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="25" />
@@ -138,7 +144,6 @@
         <mark key="^" line="2" column="92" />
         <mark key="." line="2" column="92" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/test_PatternOfPatterns.py" timestamp="1462809954560" />
       <file name="/a.regexp" timestamp="1460819554955">
         <mark key="[" line="0" column="0" />
       </file>
@@ -176,14 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="99" column="47" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="123" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="188" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="172" column="20" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="173" column="20" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="14" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="15" column="54" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="11" column="44" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="22" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="130" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
@@ -276,13 +273,21 @@
       <jump line="184" column="35" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
       <jump line="18" column="16" filename="D:/Github/gym_experiments/FirstExperiment.py" />
       <jump line="6" column="0" filename="D:/Github/gym_experiments/FirstExperiment.py" />
+      <jump line="0" column="0" filename="D:/Github/EducationBot/Socrates.py" />
+      <jump line="45" column="0" filename="D:/Github/EducationBot/Socrates.py" />
+      <jump line="24" column="0" filename="D:/Github/EducationBot/Socrates.py" />
+      <jump line="20" column="4" filename="D:/Github/EducationBot/Socrates.py" />
+      <jump line="21" column="0" filename="D:/Github/EducationBot/Socrates.py" />
+      <jump line="34" column="0" filename="D:/Github/EducationBot/Socrates.py" />
+      <jump line="36" column="0" filename="D:/Github/EducationBot/Socrates.py" />
+      <jump line="46" column="0" filename="D:/Github/EducationBot/Socrates.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludF9jb21wb25lbnRzXD4=</text>
@@ -291,31 +296,31 @@
         <text encoding="base64">d3AuY2FsY3VsYXRlX3BlcnBsZXhpdHkoWyd3aGVyZScsICdpcycsICd0aGUnXSkK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="2" type="4">
-        <text>1</text>
+        <text>{</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGhlYWRlcnM=</text>
       </register>
-      <register name="4" type="4">
-        <text>-</text>
+      <register name="4" type="2">
+        <text encoding="base64">cGFyYW1zID0gdXJsbGliLnVybGVuY29kZSh7Cn0pCgp0cnk6CiAgICBjb25uID0gaHR0cGxpYi5IVFRQU0Nvbm5lY3Rpb24oJ2FwaS5wcm9qZWN0b3hmb3JkLmFpJykKICAgIGNvbm4ucmVxdWVzdCgiUE9TVCIsICIvbHVpcy92MS4wL3Byb2cvYXBwcy97YXBwSWR9L2FjdGlvbnM/JXMiICUgcGFyYW1zLCAie2JvZHl9IiwgaGVhZGVycykKICAgIHJlc3BvbnNlID0gY29ubi5nZXRyZXNwb25zZSgpCiAgICBkYXRhID0gcmVzcG9uc2UucmVhZCgpCiAgICBwcmludChkYXRhKQogICAgY29ubi5jbG9zZSgpCmV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgIHByaW50KCJbRXJybm8gezB9XSB7MX0iLmZvcm1hdChlLmVycm5vLCBlLnN0cmVycm9yKSkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBJblsgXToK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">cHJpbnQgYQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IHBhcmFt</text>
       </register>
-      <register name="7" type="4">
-        <text>generated_output</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>current_word</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRhYmxlX291dHB1dCA9Cg==</text>
+      <register name="9" type="4">
+        <text>{subscription key}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

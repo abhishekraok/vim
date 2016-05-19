@@ -10,7 +10,7 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1463630394128">
+      <file name="/Python Console" timestamp="1463631848180">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1463630453122">
@@ -21,17 +21,18 @@
       <file name="/a.dummy" timestamp="1463442436910">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Github/EducationBot/test_Socrates.py" timestamp="1463629956639">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="26" column="47" />
-        <mark key="." line="3" column="0" />
+      <file name="D:/Github/EducationBot/test_Socrates.py" timestamp="1463631472609">
+        <mark key="'" line="4" column="25" />
+        <mark key="[" line="33" column="33" />
+        <mark key="]" line="33" column="40" />
+        <mark key="^" line="33" column="40" />
+        <mark key="." line="33" column="40" />
       </file>
-      <file name="D:/Github/EducationBot/Brain.py" timestamp="1463630552891">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="18" column="95" />
-        <mark key="." line="20" column="0" />
+      <file name="D:/Github/EducationBot/Brain.py" timestamp="1463631666426">
+        <mark key="[" line="20" column="88" />
+        <mark key="]" line="20" column="99" />
+        <mark key="^" line="20" column="99" />
+        <mark key="." line="20" column="99" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/StreamPredictor.py" timestamp="1461343230304">
         <mark key="'" line="38" column="0" />
@@ -55,11 +56,11 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/Github/EducationBot/State.py" timestamp="1463630516857">
-        <mark key="[" line="23" column="46" />
-        <mark key="]" line="23" column="45" />
-        <mark key="^" line="23" column="45" />
-        <mark key="." line="23" column="45" />
+      <file name="D:/Github/EducationBot/State.py" timestamp="1463631837562">
+        <mark key="[" line="20" column="44" />
+        <mark key="]" line="20" column="51" />
+        <mark key="^" line="20" column="51" />
+        <mark key="." line="20" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/ProtobufManager.py" timestamp="1461037569001">
         <mark key="'" line="102" column="0" />
@@ -122,17 +123,18 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="D:/Github/EducationBot/states.json" timestamp="1463627842686">
-        <mark key="[" line="36" column="34" />
-        <mark key="]" line="36" column="34" />
-        <mark key="." line="36" column="34" />
-        <mark key="^" line="36" column="32" />
+      <file name="D:/Github/EducationBot/states.json" timestamp="1463631716498">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="15" />
+        <mark key="." line="26" column="15" />
+        <mark key="^" line="23" column="8" />
       </file>
-      <file name="D:/Github/EducationBot/Result.py" timestamp="1463628982145">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="3" column="25" />
-        <mark key="^" line="3" column="25" />
-        <mark key="." line="3" column="25" />
+      <file name="D:/Github/EducationBot/Result.py" timestamp="1463631323829">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="$USER_HOME$/Source/Repos/promisigin-patterns/JanaComp/School.py" timestamp="1454265331762">
         <mark key="[" line="11" column="0" />
@@ -177,12 +179,12 @@
       <file name="/a.regexp" timestamp="1460819554955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Github/EducationBot/Action.py" timestamp="1463630882065">
-        <mark key="'" line="1" column="15" />
-        <mark key="[" line="10" column="54" />
-        <mark key="]" line="10" column="53" />
-        <mark key="." line="10" column="53" />
-        <mark key="^" line="10" column="53" />
+      <file name="D:/Github/EducationBot/Action.py" timestamp="1463632093755">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="36" column="36" />
+        <mark key="]" line="37" column="33" />
+        <mark key="^" line="37" column="33" />
+        <mark key="." line="37" column="33" />
       </file>
       <file name="D:/Github/EducationBot/Luis.py" timestamp="1463444261795">
         <mark key="'" line="0" column="0" />
@@ -225,12 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="21" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="27" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="57" column="19" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="8" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="58" column="8" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="48" column="20" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/WordPredictor.py" />
       <jump line="114" column="8" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
@@ -297,7 +293,6 @@
       <jump line="35" column="0" filename="D:/Github/EducationBot/Action.py" />
       <jump line="7" column="0" filename="D:/Github/EducationBot/Action.py" />
       <jump line="26" column="16" filename="D:/Github/EducationBot/Action.py" />
-      <jump line="23" column="15" filename="D:/Github/EducationBot/test_Socrates.py" />
       <jump line="3" column="40" filename="D:/Github/EducationBot/test_Socrates.py" />
       <jump line="49" column="54" filename="D:/Github/EducationBot/Action.py" />
       <jump line="16" column="19" filename="D:/Github/EducationBot/Action.py" />
@@ -320,60 +315,67 @@
       <jump line="30" column="0" filename="D:/Github/EducationBot/Action.py" />
       <jump line="13" column="7" filename="D:/Github/EducationBot/Action.py" />
       <jump line="8" column="0" filename="D:/Github/EducationBot/Action.py" />
-      <jump line="0" column="0" filename="D:/Github/EducationBot/Action.py" />
       <jump line="20" column="18" filename="D:/Github/EducationBot/Brain.py" />
       <jump line="19" column="0" filename="D:/Github/EducationBot/Action.py" />
       <jump line="58" column="12" filename="D:/Github/EducationBot/Action.py" />
       <jump line="1" column="15" filename="D:/Github/EducationBot/Action.py" />
+      <jump line="56" column="24" filename="D:/Github/EducationBot/Action.py" />
+      <jump line="23" column="0" filename="D:/Github/EducationBot/test_Socrates.py" />
+      <jump line="31" column="17" filename="D:/Github/EducationBot/test_Socrates.py" />
+      <jump line="4" column="25" filename="D:/Github/EducationBot/test_Socrates.py" />
+      <jump line="9" column="47" filename="D:/Github/EducationBot/Action.py" />
+      <jump line="4" column="12" filename="D:/Github/EducationBot/states.json" />
+      <jump line="31" column="0" filename="D:/Github/EducationBot/states.json" />
+      <jump line="0" column="8" filename="D:/Github/EducationBot/Action.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbnRleHQK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc2tcPg==</text>
+        <text>choose</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBzdGFydCgpOgogICAgICAgIHJlcGx5ID0gJ1N0YXJ0aW5nIFNvY3JhdGVzIEJvdCcKICAgICAgICBBY3Rpb24uc2F5KHJlcGx5KQogICAgICAgIHJldHVybiBSZXN1bHQoVHJ1ZSwgcmVwbHksICcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAiY2hvb3NlX3RvcGljIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbnRleHQK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJEaWQgbm90IGZpbmQgYXJ0aWNsZSBpbiBXaWtpcGVkaWEgZm9yICIgKyB3Lm1lc3NhZ2UK</text>
+      <register name="2" type="4">
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>,</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAjICAgICBpZiAoYWN0aW9uID09IEFjdGlvbkxpc3QuQ2xhcmlmeSk6CiAgICAgICAgMjEgICMgdHJ5OgogICAgICAgIDIyICAjIHJldHVybiB3aWtpcGVkaWEuc3VtbWFyeSh0b3BpYykKICAgICAgICAyMyAgIyBleGNlcHQgd2lraXBlZGlhLmV4Y2VwdGlvbnMuV2lraXBlZGlhRXhjZXB0aW9uIGFzIHc6</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAwLjIK</text>
       </register>
-      <register name="5" type="4">
-        <text>Socrates Bot</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAidGVhY2giCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">U3RhcnRpbmcg</text>
+        <text>start</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IHN0YXJ0</text>
+        <text>quit</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZGVmIGludGVudF90b19zdGF0ZShzZWxmLCBpbnRlbnQpOgogICAgIyAgICAgc2VsZi5jdXJyZW50X3N0YXRlID0gc2VsZi5jdXJyZW50X3N0YXRlLm5leHRfc3RhdGUoaW50ZW50KQogICAgIwogICAgIyBkZWYgaW50ZW50X3RvX2FjdGlvbihzZWxmLCBpbnRlbnQpOgogICAgIyAgICAgaWYgaW50ZW50Lmxvd2VyKCkgPT0gJ2xlYXJuJzoKICAgICMgICAgICAgICByZXR1cm4gQWN0aW9uTGlzdC5DbGFyaWZ5CiAgICAjCiAgICAjICAgICBpZiBpbnRlbnQubG93ZXIoKSA9PSAncXVpdCc6CiAgICAjICAgICAgICAgcmV0dXJuIEFjdGlvbkxpc3QuUXVpdAogICAgIwogICAgIyAgICAgcmV0dXJuIEFjdGlvbkxpc3QuRGlkTm90VW5kZXJzdGFuZAoK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IHJlc3VsdA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IwojIGNsYXNzIEFjdGlvbkxpc3QoRW51bSk6CiMgICAgIEFza1F1ZXN0aW9uID0gMCwKIyAgICAgQ2xhcmlmeSA9IDEsCiMgICAgIERpZE5vdFVuZGVyc3RhbmQgPSAyLAojICAgICBRdWl0ID0gMwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGludGVudA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc2tcPg==</last-search>
+      <last-search>choose</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc2tcPg==</last-pattern>
+      <last-pattern>choose</last-pattern>
       <last-replace>second</last-replace>
       <last-substitute>first</last-substitute>
       <last-dir>1</last-dir>
@@ -381,7 +383,6 @@
     </search>
     <history>
       <history-search>
-        <entry>#.+\n</entry>
         <entry>#\.\+\n</entry>
         <entry>\#.+\n</entry>
         <entry encoding="base64">XDxyZXBvX2xvY2F0aW9uXD4=</entry>
@@ -401,6 +402,7 @@
         <entry>raw</entry>
         <entry encoding="base64">XDxkZWNvZGVfanNvblw+</entry>
         <entry encoding="base64">XDxhc2tcPg==</entry>
+        <entry>choose</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>
@@ -412,6 +414,7 @@
         <entry>s/\#.+\n//g</entry>
         <entry encoding="base64">JzwsJz5zL2ZpcnN0L3NlY29uZC9n</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />

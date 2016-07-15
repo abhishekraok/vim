@@ -16,7 +16,7 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1468609320858">
+      <file name="/Python Console" timestamp="1468610445464">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1467411953701">
@@ -109,11 +109,12 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" timestamp="1468609318791">
-        <mark key="[" line="43" column="32" />
-        <mark key="]" line="43" column="32" />
-        <mark key="^" line="43" column="33" />
-        <mark key="." line="43" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" timestamp="1468610267568">
+        <mark key="'" line="36" column="8" />
+        <mark key="[" line="38" column="11" />
+        <mark key="]" line="38" column="11" />
+        <mark key="^" line="38" column="11" />
+        <mark key="." line="38" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Generalizer.py" timestamp="1460859396461">
         <mark key="'" line="3" column="7" />
@@ -168,6 +169,9 @@
         <mark key="^" line="70" column="33" />
         <mark key="." line="70" column="33" />
       </file>
+      <file name="/Dummy.txt" timestamp="1468610457217">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/code.py" timestamp="1463277466033">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
@@ -210,6 +214,12 @@
         <mark key="]" line="8" column="24" />
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/Nodes.py" timestamp="1468610437760">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="37" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="6" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/KnowledgeGraph/src/Graph.py" timestamp="1467412068700">
         <mark key="'" line="14" column="0" />
@@ -260,7 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="19" filename="D:/Github/EducationBot/Socrates.py" />
       <jump line="29" column="19" filename="D:/Github/EducationBot/Luis.py" />
       <jump line="33" column="8" filename="D:/Github/EducationBot/Luis.py" />
       <jump line="11" column="8" filename="D:/Github/EducationBot/Socrates.py" />
@@ -360,55 +369,56 @@
       <jump line="48" column="29" filename="$USER_HOME$/PycharmProjects/KnowledgeGraph/src/TestEntity.py" />
       <jump line="3" column="8" filename="$USER_HOME$/PycharmProjects/KnowledgeGraph/src/TestEntity.py" />
       <jump line="9" column="33" filename="$USER_HOME$/PycharmProjects/KnowledgeGraph/src/TestEntity.py" />
+      <jump line="36" column="8" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text encoding="base64">aW5wdXQg</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">aW5wdXQg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub2Rlc1w+</text>
+        <text encoding="base64">XDxhY3RpdmF0ZV9ub2RlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5vZGVfZnggPSBOb2RlRnVuY3Rpb24oInBsdXMiLCAyLCBsYW1iZGEgYSxiIDogYStiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5wdXRfbGlzdCBpcyBOb25lOgogICAgICAgICAgICAgICAgcmFpc2UoImlucHV0IGxpc3QgY2Fubm90IGJlIG5vbmUgaWYgbGV2ZWwgaXMgbm90IDAiKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>*</text>
+        <text encoding="base64">aW5wdXQg</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGZ4</text>
+        <text encoding="base64">bGlzdCA=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IG5vZGVfZng=</text>
+        <text encoding="base64">aW5wdXRfbGlzdCA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlCg==</text>
+      <register name="4" type="4">
+        <text>input_list is None:</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0Xwo=</text>
+      <register name="5" type="4">
+        <text>, 1</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IHNlcmlhbGl6ZQ==</text>
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bmFtZSA=</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="8" type="4">
-        <text>print</text>
+        <text>,</text>
       </register>
       <register name="9" type="4">
-        <text>'cat' in serialized</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub2Rlc1w+</last-search>
+      <last-search encoding="base64">XDxhY3RpdmF0ZV9ub2RlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub2Rlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxhY3RpdmF0ZV9ub2RlXD4=</last-pattern>
       <last-replace>entity</last-replace>
       <last-substitute>cat_entity</last-substitute>
       <last-dir>1</last-dir>
@@ -416,8 +426,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9jZXNzX3JlbGVhc2VcPg==</entry>
-        <entry encoding="base64">XDxjb3B5X2FuZF9jaGRpclw+</entry>
         <entry encoding="base64">XDxjaG9vc2VfbmV4dF93b3JkXD4=</entry>
         <entry encoding="base64">XDxpbnB1dF93b3JkXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50X3dvcmRcPg==</entry>
@@ -436,6 +444,8 @@
         <entry>cat_entity</entry>
         <entry encoding="base64">XDxub2RlX2FcPg==</entry>
         <entry encoding="base64">XDxub2Rlc1w+</entry>
+        <entry>prior</entry>
+        <entry encoding="base64">XDxhY3RpdmF0ZV9ub2RlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>

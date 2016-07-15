@@ -10,7 +10,7 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1468617485116">
+      <file name="/Python Console" timestamp="1468621335046">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1467411953701">
@@ -103,18 +103,18 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" timestamp="1468617503806">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="60" column="35" />
-        <mark key="]" line="60" column="34" />
-        <mark key="^" line="60" column="34" />
-        <mark key="." line="60" column="34" />
+      <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" timestamp="1468621834177">
+        <mark key="'" line="9" column="31" />
+        <mark key="[" line="34" column="34" />
+        <mark key="]" line="34" column="31" />
+        <mark key="." line="34" column="31" />
+        <mark key="^" line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/test_function_resolver.py" timestamp="1468617465784">
-        <mark key="[" line="10" column="41" />
-        <mark key="]" line="10" column="42" />
-        <mark key="." line="10" column="42" />
-        <mark key="^" line="10" column="40" />
+      <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/test_function_resolver.py" timestamp="1468621779050">
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="26" column="47" />
+        <mark key="." line="26" column="47" />
+        <mark key="^" line="25" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Generalizer.py" timestamp="1460859396461">
         <mark key="'" line="3" column="7" />
@@ -267,15 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="28" filename="D:/Github/EducationBot/Brain.py" />
-      <jump line="1" column="36" filename="D:/Github/EducationBot/Brain.py" />
-      <jump line="24" column="0" filename="D:/Github/EducationBot/Luis.py" />
-      <jump line="32" column="8" filename="D:/Github/EducationBot/Luis.py" />
-      <jump line="0" column="0" filename="D:/Github/EducationBot/Luis.py" />
-      <jump line="7" column="26" filename="D:/Github/EducationBot/test_Socrates.py" />
-      <jump line="10" column="0" filename="D:/Github/EducationBot/test_Socrates.py" />
-      <jump line="1" column="14" filename="D:/Github/EducationBot/test_Socrates.py" />
-      <jump line="10" column="27" filename="D:/Github/EducationBot/Socrates.py" />
       <jump line="12" column="0" filename="D:/Github/EducationBot/Socrates.py" />
       <jump line="21" column="0" filename="D:/Github/EducationBot/Brain.py" />
       <jump line="29" column="43" filename="D:/Github/EducationBot/Brain.py" />
@@ -359,7 +350,6 @@
       <jump line="36" column="8" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
       <jump line="45" column="0" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/test_function_resolver.py" />
       <jump line="7" column="15" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
       <jump line="52" column="0" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
       <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/test_function_resolver.py" />
       <jump line="24" column="8" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/test_function_resolver.py" />
@@ -367,55 +357,65 @@
       <jump line="47" column="29" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
       <jump line="58" column="0" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
       <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
+      <jump line="61" column="34" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
+      <jump line="13" column="20" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
+      <jump line="68" column="37" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
+      <jump line="80" column="20" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
+      <jump line="2" column="34" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
+      <jump line="9" column="31" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZyLmdldF92YWx1ZSgieF8wIiksIDIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>increment_fx</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>2</text>
+        <text encoding="base64">XDxTdGFuZGFyZE5vZGVGdW5jdGlvbnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmFwcGVuZChOb2RlRnVuY3Rpb24oIm5lZ2F0ZV9meCIsIDEsIGxhbWJkYSBhOiAtYSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZyLmdldF92YWx1ZSgieF8wIiksIDIpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbGlzdAo=</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text>increment_fx</text>
+        <text>zip(</text>
       </register>
       <register name="3" type="4">
-        <text>b</text>
+        <text>X</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>%</text>
-      </register>
-      <register name="6" type="4">
-        <text>b</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="8" type="4">
         <text>,</text>
       </register>
+      <register name="6" type="4">
+        <text>:</text>
+      </register>
+      <register name="7" type="4">
+        <text>i</text>
+      </register>
+      <register name="8" type="4">
+        <text>_</text>
+      </register>
       <register name="9" type="4">
-        <text>self</text>
+        <text>x</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY3RpdmF0ZV9ub2RlXD4=</last-search>
+      <last-search encoding="base64">XDxTdGFuZGFyZE5vZGVGdW5jdGlvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern>2</last-pattern>
+      <last-pattern encoding="base64">XDxTdGFuZGFyZE5vZGVGdW5jdGlvbnNcPg==</last-pattern>
       <last-replace>3</last-replace>
       <last-substitute>2</last-substitute>
       <last-dir>1</last-dir>
@@ -423,7 +423,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnB1dF93b3JkXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50X3dvcmRcPg==</entry>
         <entry>generate</entry>
         <entry>nothing</entry>
@@ -443,6 +442,7 @@
         <entry>prior</entry>
         <entry encoding="base64">XDxhY3RpdmF0ZV9ub2RlXD4=</entry>
         <entry>2</entry>
+        <entry encoding="base64">XDxTdGFuZGFyZE5vZGVGdW5jdGlvbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>

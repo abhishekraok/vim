@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeFunction.py" timestamp="1468608922346">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="10" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+      </file>
       <file name="C:/Repos/OctaneMainNoBranchBRZ/FilterGit_bfg.py" timestamp="1461610783947">
         <mark key="'" line="73" column="38" />
         <mark key="[" line="74" column="105" />
@@ -10,7 +16,7 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1467411934690">
+      <file name="/Python Console" timestamp="1468609320858">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1467411953701">
@@ -103,6 +109,12 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" timestamp="1468609318791">
+        <mark key="[" line="43" column="32" />
+        <mark key="]" line="43" column="32" />
+        <mark key="^" line="43" column="33" />
+        <mark key="." line="43" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Generalizer.py" timestamp="1460859396461">
         <mark key="'" line="3" column="7" />
         <mark key="[" line="70" column="27" />
@@ -155,9 +167,6 @@
         <mark key="]" line="70" column="33" />
         <mark key="^" line="70" column="33" />
         <mark key="." line="70" column="33" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1463628618777">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1463277466033">
         <mark key="[" line="0" column="0" />
@@ -353,44 +362,44 @@
       <jump line="9" column="33" filename="$USER_HOME$/PycharmProjects/KnowledgeGraph/src/TestEntity.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYXQgPSBzZWxmLmNyZWF0ZV9jYXRfZW50aXR5KCkK</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNlcmlhbGl6ZQ==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub2Rlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYXQgPSBzZWxmLmNyZWF0ZV9jYXRfZW50aXR5KCkK</text>
+        <text encoding="base64">ICAgIG5vZGVfZnggPSBOb2RlRnVuY3Rpb24oInBsdXMiLCAyLCBsYW1iZGEgYSxiIDogYStiKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlCg==</text>
+      <register name="1" type="4">
+        <text>*</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0Xwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGZ4</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IHNlcmlhbGl6ZQ==</text>
+        <text encoding="base64">IG5vZGVfZng=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">bmFtZSA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBlCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>print</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0Xwo=</text>
       </register>
       <register name="6" type="4">
-        <text>'cat' in serialized</text>
+        <text encoding="base64">IHNlcmlhbGl6ZQ==</text>
       </register>
       <register name="7" type="4">
-        <text>\</text>
+        <text encoding="base64">bmFtZSA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnJwo=</text>
+      <register name="8" type="4">
+        <text>print</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'cat' in serialized</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

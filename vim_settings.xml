@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" timestamp="1469075806372">
+        <mark key="'" line="31" column="38" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="C:/Repos/OctaneMainNoBranchBRZ/FilterGit_bfg.py" timestamp="1461610783947">
         <mark key="'" line="73" column="38" />
         <mark key="[" line="74" column="105" />
@@ -10,7 +16,7 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1469072982028">
+      <file name="/Python Console" timestamp="1469075716611">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1468622699277">
@@ -25,6 +31,9 @@
         <mark key="." line="49" column="46" />
         <mark key="^" line="49" column="46" />
       </file>
+      <file name="/a.dummy" timestamp="1469074574917">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Github/EducationBot/test_Socrates.py" timestamp="1463631472609">
         <mark key="'" line="4" column="25" />
         <mark key="[" line="33" column="33" />
@@ -38,11 +47,11 @@
         <mark key="^" line="20" column="99" />
         <mark key="." line="20" column="99" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/Seq.py" timestamp="1469073811715">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="45" />
-        <mark key="^" line="4" column="45" />
-        <mark key="." line="4" column="45" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/Seq.py" timestamp="1469074565237">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="16" column="5" />
+        <mark key="^" line="16" column="5" />
+        <mark key="." line="16" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/StreamPredictor.py" timestamp="1461343230304">
         <mark key="'" line="38" column="0" />
@@ -278,16 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="D:/Github/EducationBot/Action.py" />
-      <jump line="60" column="8" filename="D:/Github/EducationBot/Action.py" />
-      <jump line="62" column="0" filename="D:/Github/EducationBot/Action.py" />
-      <jump line="41" column="6" filename="D:/Github/EducationBot/Action.py" />
-      <jump line="40" column="0" filename="D:/Github/EducationBot/Action.py" />
-      <jump line="34" column="0" filename="D:/Github/EducationBot/Action.py" />
-      <jump line="14" column="34" filename="D:/Github/EducationBot/Action.py" />
-      <jump line="30" column="0" filename="D:/Github/EducationBot/Action.py" />
-      <jump line="13" column="7" filename="D:/Github/EducationBot/Action.py" />
-      <jump line="8" column="0" filename="D:/Github/EducationBot/Action.py" />
       <jump line="20" column="18" filename="D:/Github/EducationBot/Brain.py" />
       <jump line="19" column="0" filename="D:/Github/EducationBot/Action.py" />
       <jump line="58" column="12" filename="D:/Github/EducationBot/Action.py" />
@@ -378,55 +377,65 @@
       <jump line="127" column="16" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
       <jump line="157" column="18" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
+      <jump line="37" column="4" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
+      <jump line="25" column="39" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
+      <jump line="9" column="32" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
+      <jump line="19" column="40" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
+      <jump line="32" column="38" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBEZW5zZSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93X2dyYXBoXD4=</text>
+        <text encoding="base64">XDw3ODRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzYW1wbGUgPSBnZXRfc2FtcGxlX2Z1bmN0aW9uX3Jlc29sdmVyKCkK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X21vZGVsX2NvbXBpbGVzKHNlbGYpOgogICAgICAgIG1vZGVsID0gU2VxdWVudGlhbChbCiAgICAgICAgICAgIERlbnNlKDMyLCBpbnB1dF9kaW09Nzg0KSwKICAgICAgICAgICAgQWN0aXZhdGlvbigncmVsdScpLAogICAgICAgICAgICBEZW5zZSgxMCksCiAgICAgICAgICAgIEFjdGl2YXRpb24oJ3NvZnRtYXgnKSwKICAgICAgICBdKQogICAgICAgIHNlbGYuYXNzZXJ0SXNOb3ROb25lKG1vZGVsKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>e</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBEZW5zZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>function_input_names</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEcuYWRkX25vZGUobm9kZS5uYW1lKQo=</text>
+      <register name="4" type="4">
+        <text>ata</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW3NlbGYucHJlZGljdF9sYWJlbCh4KSBmb3IgeCBpbiBYXQo=</text>
+      <register name="5" type="4">
+        <text>]*i[1] for i in d</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IHByZWRpY3Q=</text>
+        <text>i[0</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text>+ 0.1*np.random.randint(2, size=(1000, 1))</text>
       </register>
-      <register name="9" type="4">
-        <text>)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG93X2dyYXBoXD4=</last-search>
+      <last-search encoding="base64">XDw3ODRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93X2dyYXBoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDw3ODRcPg==</last-pattern>
       <last-replace>3</last-replace>
       <last-substitute>2</last-substitute>
       <last-dir>1</last-dir>
@@ -434,7 +443,6 @@
     </search>
     <history>
       <history-search>
-        <entry>raw</entry>
         <entry encoding="base64">XDxkZWNvZGVfanNvblw+</entry>
         <entry encoding="base64">XDxhc2tcPg==</entry>
         <entry>choose</entry>
@@ -454,6 +462,7 @@
         <entry encoding="base64">XDxpbnB1dF9kaW1lbnNpb25cPg==</entry>
         <entry encoding="base64">XDxueFw+</entry>
         <entry encoding="base64">XDxzaG93X2dyYXBoXD4=</entry>
+        <entry encoding="base64">XDw3ODRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>

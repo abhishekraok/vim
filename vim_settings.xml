@@ -3,26 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" timestamp="1469075806372">
-        <mark key="'" line="31" column="38" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="C:/Repos/OctaneMainNoBranchBRZ/FilterGit_bfg.py" timestamp="1461610783947">
         <mark key="'" line="73" column="38" />
         <mark key="[" line="74" column="105" />
         <mark key="]" line="69" column="29" />
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
-      </file>
-      <file name="/Python Console" timestamp="1469076522797">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1468622699277">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/KnowledgeGraph/src/TestEntity.py" timestamp="1467412351381">
         <mark key="'" line="9" column="33" />
@@ -31,40 +17,13 @@
         <mark key="." line="49" column="46" />
         <mark key="^" line="49" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1469074574917">
+      <file name="/a.dummy" timestamp="1469077135612">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Github/EducationBot/test_Socrates.py" timestamp="1463631472609">
-        <mark key="'" line="4" column="25" />
-        <mark key="[" line="33" column="33" />
-        <mark key="]" line="33" column="40" />
-        <mark key="^" line="33" column="40" />
-        <mark key="." line="33" column="40" />
-      </file>
-      <file name="D:/Github/EducationBot/Brain.py" timestamp="1463631666426">
-        <mark key="[" line="20" column="88" />
-        <mark key="]" line="20" column="99" />
-        <mark key="^" line="20" column="99" />
-        <mark key="." line="20" column="99" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/text.py" timestamp="1469076546966">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/Seq.py" timestamp="1469074565237">
-        <mark key="[" line="14" column="2" />
-        <mark key="]" line="16" column="5" />
-        <mark key="^" line="16" column="5" />
-        <mark key="." line="16" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/StreamPredictor.py" timestamp="1461343230304">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="50" column="30" />
-        <mark key="^" line="15" column="90" />
-        <mark key="." line="15" column="90" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/test_text.py" timestamp="1469077167720">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Source/Repos/promisigin-patterns/PersistencyMatrix/PersistencyMatrix/PythonClusteringApplication1/clustering.py" timestamp="1444611660951">
         <mark key="[" line="319" column="123" />
@@ -100,6 +59,131 @@
         <mark key="^" line="17" column="12" />
         <mark key="." line="17" column="12" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/test_function_resolver.py" timestamp="1468625699534">
+        <mark key="'" line="15" column="44" />
+        <mark key="[" line="49" column="43" />
+        <mark key="]" line="50" column="40" />
+        <mark key="." line="50" column="40" />
+        <mark key="^" line="50" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/DataObtainer.py" timestamp="1461255785904">
+        <mark key="'" line="44" column="34" />
+        <mark key="[" line="47" column="37" />
+        <mark key="]" line="47" column="46" />
+        <mark key="." line="47" column="46" />
+        <mark key="^" line="47" column="46" />
+      </file>
+      <file name="D:/Github/EducationBot/Result.py" timestamp="1463631323829">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/KnowledgeGraph/src/Entity.py" timestamp="1467412208700">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="14" column="34" />
+        <mark key="^" line="14" column="34" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/text_preprocessing.py" timestamp="1469077347591">
+        <mark key="[" line="22" column="46" />
+      </file>
+      <file name="D:/Github/EducationBot/Action.py" timestamp="1463632093755">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="36" column="36" />
+        <mark key="]" line="37" column="33" />
+        <mark key="^" line="37" column="33" />
+        <mark key="." line="37" column="33" />
+      </file>
+      <file name="D:/Github/EducationBot/Luis.py" timestamp="1463444261795">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/StandardNodeFunctions.py" timestamp="1468625374538">
+        <mark key="'" line="13" column="54" />
+        <mark key="[" line="16" column="54" />
+        <mark key="]" line="16" column="54" />
+        <mark key="." line="16" column="54" />
+        <mark key="^" line="16" column="54" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/KnowledgeGraph/Sample.py" timestamp="1467409913489">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+      </file>
+      <file name="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" timestamp="1461884850729">
+        <mark key="'" line="48" column="20" />
+        <mark key="[" line="8" column="106" />
+        <mark key="]" line="8" column="106" />
+        <mark key="." line="8" column="106" />
+        <mark key="^" line="8" column="134" />
+      </file>
+      <file name="D:/Github/gym_experiments/FirstExperiment.py" timestamp="1462229710286">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="5" column="62" />
+        <mark key="]" line="18" column="16" />
+        <mark key="^" line="18" column="16" />
+        <mark key="." line="18" column="16" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/HackerRank/Kevin.py" timestamp="1465950464558">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="16" column="62" />
+        <mark key="]" line="16" column="61" />
+        <mark key="^" line="16" column="61" />
+        <mark key="." line="16" column="61" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" timestamp="1469077336158">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1469076924758">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1468622699277">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Github/EducationBot/test_Socrates.py" timestamp="1463631472609">
+        <mark key="'" line="4" column="25" />
+        <mark key="[" line="33" column="33" />
+        <mark key="]" line="33" column="40" />
+        <mark key="^" line="33" column="40" />
+        <mark key="." line="33" column="40" />
+      </file>
+      <file name="D:/Github/EducationBot/Brain.py" timestamp="1463631666426">
+        <mark key="[" line="20" column="88" />
+        <mark key="]" line="20" column="99" />
+        <mark key="^" line="20" column="99" />
+        <mark key="." line="20" column="99" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/text.py" timestamp="1469077082545">
+        <mark key="'" line="27" column="15" />
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="29" column="13" />
+        <mark key="^" line="29" column="13" />
+        <mark key="." line="29" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/Seq.py" timestamp="1469074565237">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="16" column="5" />
+        <mark key="^" line="16" column="5" />
+        <mark key="." line="16" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/StreamPredictor.py" timestamp="1461343230304">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="50" column="30" />
+        <mark key="^" line="15" column="90" />
+        <mark key="." line="15" column="90" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Experiment.py" timestamp="1461341843268">
         <mark key="'" line="148" column="6" />
         <mark key="[" line="150" column="4" />
@@ -128,13 +212,6 @@
         <mark key="." line="130" column="40" />
         <mark key="^" line="130" column="40" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/test_function_resolver.py" timestamp="1468625699534">
-        <mark key="'" line="15" column="44" />
-        <mark key="[" line="49" column="43" />
-        <mark key="]" line="50" column="40" />
-        <mark key="." line="50" column="40" />
-        <mark key="^" line="50" column="40" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Generalizer.py" timestamp="1460859396461">
         <mark key="'" line="3" column="7" />
         <mark key="[" line="70" column="27" />
@@ -149,13 +226,6 @@
         <mark key="." line="109" column="28" />
         <mark key="^" line="183" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/DataObtainer.py" timestamp="1461255785904">
-        <mark key="'" line="44" column="34" />
-        <mark key="[" line="47" column="37" />
-        <mark key="]" line="47" column="46" />
-        <mark key="." line="47" column="46" />
-        <mark key="^" line="47" column="46" />
-      </file>
       <file name="D:/Github/EducationBot/Socrates.py" timestamp="1463445101097">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -168,12 +238,6 @@
         <mark key="]" line="26" column="15" />
         <mark key="." line="26" column="15" />
         <mark key="^" line="23" column="8" />
-      </file>
-      <file name="D:/Github/EducationBot/Result.py" timestamp="1463631323829">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="15" />
-        <mark key="^" line="9" column="15" />
-        <mark key="." line="9" column="15" />
       </file>
       <file name="$USER_HOME$/Source/Repos/promisigin-patterns/JanaComp/School.py" timestamp="1454265331762">
         <mark key="[" line="11" column="0" />
@@ -197,13 +261,6 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/KnowledgeGraph/src/Entity.py" timestamp="1467412208700">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="34" />
-        <mark key="." line="14" column="34" />
-        <mark key="^" line="14" column="34" />
-      </file>
       <file name="C:/Repos/OctaneMainNoBranchBRZ/FilterGit.py" timestamp="1461370682829">
         <mark key="'" line="43" column="30" />
         <mark key="[" line="34" column="0" />
@@ -220,20 +277,6 @@
       <file name="/a.regexp" timestamp="1460819554955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Github/EducationBot/Action.py" timestamp="1463632093755">
-        <mark key="'" line="0" column="8" />
-        <mark key="[" line="36" column="36" />
-        <mark key="]" line="37" column="33" />
-        <mark key="^" line="37" column="33" />
-        <mark key="." line="37" column="33" />
-      </file>
-      <file name="D:/Github/EducationBot/Luis.py" timestamp="1463444261795">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="8" column="24" />
-        <mark key="^" line="8" column="24" />
-        <mark key="." line="8" column="24" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/Nodes.py" timestamp="1468617294289">
         <mark key="[" line="13" column="26" />
       </file>
@@ -244,38 +287,11 @@
         <mark key="." line="29" column="23" />
         <mark key="^" line="29" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/StandardNodeFunctions.py" timestamp="1468625374538">
-        <mark key="'" line="13" column="54" />
-        <mark key="[" line="16" column="54" />
-        <mark key="]" line="16" column="54" />
-        <mark key="." line="16" column="54" />
-        <mark key="^" line="16" column="54" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/KnowledgeGraph/Sample.py" timestamp="1467409913489">
-        <mark key="[" line="9" column="9" />
-        <mark key="]" line="9" column="26" />
-        <mark key="^" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Pop.py" timestamp="1462750953568">
         <mark key="[" line="139" column="15" />
         <mark key="]" line="139" column="20" />
         <mark key="." line="139" column="20" />
         <mark key="^" line="139" column="20" />
-      </file>
-      <file name="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" timestamp="1461884850729">
-        <mark key="'" line="48" column="20" />
-        <mark key="[" line="8" column="106" />
-        <mark key="]" line="8" column="106" />
-        <mark key="." line="8" column="106" />
-        <mark key="^" line="8" column="134" />
-      </file>
-      <file name="D:/Github/gym_experiments/FirstExperiment.py" timestamp="1462229710286">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="5" column="62" />
-        <mark key="]" line="18" column="16" />
-        <mark key="^" line="18" column="16" />
-        <mark key="." line="18" column="16" />
       </file>
       <file name="$USER_HOME$/Source/Repos/promisigin-patterns/JanaComp/RememberingMachine.py" timestamp="1454872576650">
         <mark key="'" line="150" column="54" />
@@ -284,26 +300,8 @@
         <mark key="." line="685" column="57" />
         <mark key="^" line="685" column="57" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/HackerRank/Kevin.py" timestamp="1465950464558">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="16" column="62" />
-        <mark key="]" line="16" column="61" />
-        <mark key="^" line="16" column="61" />
-        <mark key="." line="16" column="61" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="18" filename="D:/Github/EducationBot/Brain.py" />
-      <jump line="19" column="0" filename="D:/Github/EducationBot/Action.py" />
-      <jump line="58" column="12" filename="D:/Github/EducationBot/Action.py" />
-      <jump line="1" column="15" filename="D:/Github/EducationBot/Action.py" />
-      <jump line="56" column="24" filename="D:/Github/EducationBot/Action.py" />
-      <jump line="23" column="0" filename="D:/Github/EducationBot/test_Socrates.py" />
-      <jump line="31" column="17" filename="D:/Github/EducationBot/test_Socrates.py" />
-      <jump line="4" column="25" filename="D:/Github/EducationBot/test_Socrates.py" />
-      <jump line="9" column="47" filename="D:/Github/EducationBot/Action.py" />
-      <jump line="4" column="12" filename="D:/Github/EducationBot/states.json" />
-      <jump line="31" column="0" filename="D:/Github/EducationBot/states.json" />
       <jump line="0" column="8" filename="D:/Github/EducationBot/Action.py" />
       <jump line="13" column="8" filename="$USER_HOME$/PycharmProjects/HackerRank/Kevin.py" />
       <jump line="17" column="14" filename="$USER_HOME$/PycharmProjects/HackerRank/Kevin.py" />
@@ -384,7 +382,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
       <jump line="157" column="18" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
       <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
-      <jump line="37" column="4" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
       <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
       <jump line="25" column="39" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
@@ -393,55 +390,67 @@
       <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
       <jump line="19" column="40" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
       <jump line="32" column="38" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/text.py" />
+      <jump line="9" column="19" filename="$USER_HOME$/PycharmProjects/Socrates/src/text.py" />
+      <jump line="5" column="15" filename="$USER_HOME$/PycharmProjects/Socrates/src/text.py" />
+      <jump line="12" column="26" filename="$USER_HOME$/PycharmProjects/Socrates/src/text.py" />
+      <jump line="6" column="10" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
+      <jump line="27" column="15" filename="$USER_HOME$/PycharmProjects/Socrates/src/text.py" />
+      <jump line="40" column="60" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
+      <jump line="2" column="33" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_text.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_text.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBEZW5zZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[:max_input_length]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDw3ODRcPg==</text>
+        <text encoding="base64">XDxjbGVhbl90ZXh0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X21vZGVsX2NvbXBpbGVzKHNlbGYpOgogICAgICAgIG1vZGVsID0gU2VxdWVudGlhbChbCiAgICAgICAgICAgIERlbnNlKDMyLCBpbnB1dF9kaW09Nzg0KSwKICAgICAgICAgICAgQWN0aXZhdGlvbigncmVsdScpLAogICAgICAgICAgICBEZW5zZSgxMCksCiAgICAgICAgICAgIEFjdGl2YXRpb24oJ3NvZnRtYXgnKSwKICAgICAgICBdKQogICAgICAgIHNlbGYuYXNzZXJ0SXNOb3ROb25lKG1vZGVsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEZW5zZSgpCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBzcmMgaW1wb3J0IHRleHRfcHJlcHJvY2Vzc2luZwoKCmNsYXNzIFRlc3RUZXh0KFRlc3RDYXNlKToKICAgIGRlZiB0ZXN0X3dvcmRzX3RvX251bXMoc2VsZik6CiAgICAgICAgd29yZHNfbGlzdCA9IFsnYWhhJywgJ2JhdCcsICdjYXQnLCAnYWhhJ10KICAgICAgICBudW1zID0gdGV4dF9wcmVwcm9jZXNzaW5nLndvcmRzX3RvX251bWJlcnMod29yZHNfbGlzdCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFswLDEsMiwwXSwgbnVtcykK</text>
       </register>
-      <register name="4" type="4">
-        <text>ata</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBudQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>]*i[1] for i in d</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>i[0</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIHN0cmluZ190b192ZWN0b3Ioc3RyaW5nKToKCgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHN0cmluZyA9IGYucmVhZCgpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHdpdGggb3BlbignLi4vZGF0YS9wcmlkZS50eHQnLCAncicpIGFzIGY6CiAgICAgICAgc3RyaW5nID0gZi5yZWFkKCkKICAgICAgICBwcmludCBzdHJpbmdbOjIwMF0K</text>
       </register>
       <register name="8" type="4">
-        <text>+ 0.1*np.random.randint(2, size=(1000, 1))</text>
+        <text>[:max_input_length]</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDw3ODRcPg==</last-search>
+      <last-search encoding="base64">XDxjbGVhbl90ZXh0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDw3ODRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjbGVhbl90ZXh0XD4=</last-pattern>
       <last-replace>3</last-replace>
       <last-substitute>2</last-substitute>
       <last-dir>1</last-dir>
@@ -449,7 +458,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWNvZGVfanNvblw+</entry>
         <entry encoding="base64">XDxhc2tcPg==</entry>
         <entry>choose</entry>
         <entry encoding="base64">XDxuZXdfYW5zXD4=</entry>
@@ -469,6 +477,7 @@
         <entry encoding="base64">XDxueFw+</entry>
         <entry encoding="base64">XDxzaG93X2dyYXBoXD4=</entry>
         <entry encoding="base64">XDw3ODRcPg==</entry>
+        <entry encoding="base64">XDxjbGVhbl90ZXh0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>

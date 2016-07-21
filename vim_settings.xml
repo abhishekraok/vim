@@ -10,6 +10,12 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/word_sequence.py" timestamp="1469080951911">
+        <mark key="[" line="26" column="72" />
+        <mark key="]" line="27" column="24" />
+        <mark key="." line="27" column="24" />
+        <mark key="^" line="27" column="24" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/KnowledgeGraph/src/TestEntity.py" timestamp="1467412351381">
         <mark key="'" line="9" column="33" />
         <mark key="[" line="49" column="30" />
@@ -86,11 +92,12 @@
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/text_preprocessing.py" timestamp="1469078197590">
-        <mark key="[" line="32" column="34" />
-        <mark key="]" line="32" column="34" />
-        <mark key="^" line="32" column="34" />
-        <mark key="." line="32" column="34" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/text_preprocessing.py" timestamp="1469080199141">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="45" column="37" />
+        <mark key="]" line="46" column="52" />
+        <mark key="." line="46" column="52" />
+        <mark key="^" line="46" column="52" />
       </file>
       <file name="D:/Github/EducationBot/Action.py" timestamp="1463632093755">
         <mark key="'" line="0" column="8" />
@@ -105,6 +112,9 @@
         <mark key="]" line="8" column="24" />
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
+      </file>
+      <file name="/" timestamp="1469078526043">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/StandardNodeFunctions.py" timestamp="1468625374538">
         <mark key="'" line="13" column="54" />
@@ -140,14 +150,14 @@
         <mark key="^" line="16" column="61" />
         <mark key="." line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" timestamp="1469078463728">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="31" />
-        <mark key="^" line="22" column="31" />
-        <mark key="." line="22" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" timestamp="1469079081415">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="24" column="64" />
+        <mark key="]" line="24" column="70" />
+        <mark key="^" line="24" column="70" />
+        <mark key="." line="24" column="70" />
       </file>
-      <file name="/Python Console" timestamp="1469078370549">
+      <file name="/Python Console" timestamp="1469080954630">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1469078396324">
@@ -256,7 +266,7 @@
         <mark key="^" line="70" column="33" />
         <mark key="." line="70" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1468622767018">
+      <file name="/Dummy.txt" timestamp="1469080679590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1463277466033">
@@ -306,11 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="8" filename="D:/Github/EducationBot/Action.py" />
-      <jump line="13" column="8" filename="$USER_HOME$/PycharmProjects/HackerRank/Kevin.py" />
-      <jump line="17" column="14" filename="$USER_HOME$/PycharmProjects/HackerRank/Kevin.py" />
-      <jump line="20" column="10" filename="$USER_HOME$/PycharmProjects/HackerRank/Kevin.py" />
-      <jump line="1" column="10" filename="$USER_HOME$/PycharmProjects/HackerRank/Kevin.py" />
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/HackerRank/Kevin.py" />
       <jump line="23" column="0" filename="$USER_HOME$/PycharmProjects/HackerRank/Kevin.py" />
       <jump line="21" column="46" filename="$USER_HOME$/PycharmProjects/KnowledgeGraph/src/TestEntity.py" />
@@ -406,55 +411,60 @@
       <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_text.py" />
       <jump line="37" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
       <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
+      <jump line="12" column="34" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/text_preprocessing.py" />
+      <jump line="13" column="50" filename="$USER_HOME$/PycharmProjects/Socrates/src/word_sequence.py" />
+      <jump line="31" column="48" filename="$USER_HOME$/PycharmProjects/Socrates/src/word_sequence.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoYWxsKGk9PWogZm9yIGksaiBpbiB6aXAoZGVjb2RlLCBYKSkpCg==</text>
+        <text encoding="base64">ICAgIG1vZGVsLnMK</text>
       </register>
       <register name="-" type="4">
-        <text>assertEqual</text>
+        <text encoding="base64">IGxhYmVscw==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGVhbl90ZXh0XD4=</text>
+        <text encoding="base64">XDx3b3Jkc190b19udW1iZXJzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoYWxsKGk9PWogZm9yIGksaiBpbiB6aXAoZGVjb2RlLCBYKSkpCg==</text>
+        <text encoding="base64">ICAgIHN0cmluZyA9IHRleHRfcHJlcHJvY2Vzc2luZy5nZXRfY2xlYW5fd29yZHNfZnJvbV9maWxlKCcuLi9kYXRhL3ByaWRlLnR4dCcsIDEwKio2KQogICAgWCwgdm9jYWIgPSB0ZXh0X3ByZXByb2Nlc3Npbmcud29yZF9saXN0X3RvX29uZV9ob3Qoc3RyaW5nKQogICAgcHJpbnQgJ1RoZSB2b2NhYnVsYXJ5IHNpemUgaXMgJywgbGVuKHZvY2FiKQogICAgcHJpbnQgWC5zaGFwZQogICAgeSA9IFhbMTpdCiAgICBYID0gWFs6LTFdCiAgICBwcmludCAnRG9lcyBzaGFwZSBvZiBYID0gc2hhcGUgb2YgeT8gQW5zOicsIFguc2hhcGUgPT0geS5zaGFwZQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>assertEqual</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG1vZGVsLnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbXQo=</text>
+        <text encoding="base64">ICAgIG91dHB1dF9kaW0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gU2VxdWVudGlhbCgpCiAgICBtb2RlbC5hZGQoRGVuc2UoMzIsIGlucHV0X3NoYXBlPSg1MDAsKSkpCiAgICBtb2RlbC5hZGQoRGVuc2UoMTAsIGFjdGl2YXRpb249J3NvZnRtYXgnKSkKICAgIG1vZGVsLmNvbXBpbGUob3B0aW1pemVyPSdybXNwcm9wJywKICAgICAgICAgIGxvc3M9J2NhdGVnb3JpY2FsX2Nyb3NzZW50cm9weScsCiAgICAgICAgICBtZXRyaWNzPVsnYWNjdXJhY3knXSkK</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text encoding="base64">IGxhYmVscw==</text>
       </register>
       <register name="5" type="4">
-        <text>3</text>
+        <text>data</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAjIGdlbmVyYXRlIGR1bW15IGRhdGEKICAgIGltcG9ydCBudW1weSBhcyBucAoKICAgIGRhdGEgPSBucC5yYW5kb20ucmFuZG9tKCgxMDAwLCA3ODQpKQogICAgbGFiZWxzID0gbnAucmFuZG9tLnJhbmRpbnQoMiwgc2l6ZT0oMTAwMCwgMSkpCgogICAgIyB0cmFpbiB0aGUgbW9kZWwsIGl0ZXJhdGluZyBvbiB0aGUgZGF0YSBpbiBiYXRjaGVzCiAgICAjIG9mIDMyIHNhbXBsZXMK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>784</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgbW9kZWwgPSBTaW1wbGVTZXEyc2VxKGlucHV0X2RpbT1pbnB1dF9kaW1lbnNpb24sIGhpZGRlbl9kaW09MTAsIG91dHB1dF9sZW5ndGg9OCwgb3V0cHV0X2RpbT1pbnB1dF9kaW1lbnNpb24sIGRlcHRoPSg0LCA1KSkKICAgICMgbW9kZWwuY29tcGlsZShsb3NzPSdtc2UnLCBvcHRpbWl6ZXI9J3Jtc3Byb3AnKQogICAgIyBmb3IgYSBzaW5nbGUtaW5wdXQgbW9kZWwgd2l0aCAyIGNsYXNzZXMgKGJpbmFyeSk6Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzcmMgaW1wb3J0IHRleHRfcHJlcHJvY2Vzc2luZwoKCmNsYXNzIFRlc3RUZXh0KFRlc3RDYXNlKToKICAgIGRlZiB0ZXN0X3dvcmRzX3RvX251bXMoc2VsZik6CiAgICAgICAgd29yZHNfbGlzdCA9IFsnYWhhJywgJ2JhdCcsICdjYXQnLCAnYWhhJ10KICAgICAgICBudW1zID0gdGV4dF9wcmVwcm9jZXNzaW5nLndvcmRzX3RvX251bWJlcnMod29yZHNfbGlzdCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFswLDEsMiwwXSwgbnVtcykK</text>
+        <text encoding="base64">bW9kZWwgPSBTaW1wbGVTZXEyc2VxKGlucHV0X2RpbT01LCBoaWRkZW5fZGltPTEwLCBvdXRwdXRfbGVuZ3RoPTgsIG91dHB1dF9kaW09MjAsIGRlcHRoPSg0LCA1KSkKbW9kZWwuY29tcGlsZShsb3NzPSdtc2UnLCBvcHRpbWl6ZXI9J3Jtc3Byb3AnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGVhbl90ZXh0XD4=</last-search>
+      <last-search encoding="base64">XDx3b3Jkc190b19udW1iZXJzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGVhbl90ZXh0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDx3b3Jkc190b19udW1iZXJzXD4=</last-pattern>
       <last-replace>3</last-replace>
       <last-substitute>2</last-substitute>
       <last-dir>1</last-dir>
@@ -462,7 +472,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhc2tcPg==</entry>
         <entry>choose</entry>
         <entry encoding="base64">XDxuZXdfYW5zXD4=</entry>
         <entry>cat_entity</entry>
@@ -482,6 +491,7 @@
         <entry encoding="base64">XDxzaG93X2dyYXBoXD4=</entry>
         <entry encoding="base64">XDw3ODRcPg==</entry>
         <entry encoding="base64">XDxjbGVhbl90ZXh0XD4=</entry>
+        <entry encoding="base64">XDx3b3Jkc190b19udW1iZXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>
@@ -534,6 +544,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

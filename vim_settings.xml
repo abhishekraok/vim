@@ -164,6 +164,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/chatbot.py" timestamp="1469126930336">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+      </file>
       <file name="D:/Github/EducationBot/test_Socrates.py" timestamp="1463631472609">
         <mark key="'" line="4" column="25" />
         <mark key="[" line="33" column="33" />
@@ -421,7 +427,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>feed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3b3Jkc190b19udW1iZXJzXD4=</text>
@@ -432,29 +438,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>)</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>0</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text>feed</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGlja2xlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAxICAjIFNhdmUgYSBkaWN0aW9uYXJ5IGludG8gYSBwaWNrbGUgZmlsZS4K</text>
+      <register name="6" type="4">
+        <text>)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAyCg==</text>
+      <register name="7" type="4">
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>favorite_color</text>
+        <text>0</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmYXZvcml0ZV9jb2xvciA9IHsibGlvbiI6ICJ5ZWxsb3ciLCAia2l0dHkiOiAicmVkIn0K</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGlja2xlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

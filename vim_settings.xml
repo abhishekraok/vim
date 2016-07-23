@@ -62,6 +62,7 @@
         <mark key="^" line="68" column="91" />
         <mark key="." line="68" column="91" />
       </file>
+      <file name="C:/Anaconda/Lib/site-packages/nltk/tokenize/punkt.py" timestamp="1469300621008" />
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/test_word_predictor.py" timestamp="1461343626625">
         <mark key="[" line="17" column="8" />
         <mark key="]" line="17" column="12" />
@@ -114,11 +115,11 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" timestamp="1469299428668">
-        <mark key="[" line="11" column="52" />
-        <mark key="]" line="12" column="33" />
-        <mark key="^" line="12" column="33" />
-        <mark key="." line="12" column="33" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" timestamp="1469301162745">
+        <mark key="[" line="22" column="38" />
+        <mark key="]" line="22" column="58" />
+        <mark key="^" line="22" column="58" />
+        <mark key="." line="22" column="58" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/text_preprocessing.py" timestamp="1469230948273">
         <mark key="'" line="60" column="0" />
@@ -144,11 +145,11 @@
       <file name="/" timestamp="1469078526043">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" timestamp="1469298043344">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="14" />
-        <mark key="^" line="23" column="14" />
-        <mark key="." line="23" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" timestamp="1469301234717">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="37" />
+        <mark key="^" line="10" column="37" />
+        <mark key="." line="10" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/StandardNodeFunctions.py" timestamp="1468625374538">
         <mark key="'" line="13" column="54" />
@@ -197,10 +198,10 @@
         <mark key="^" line="40" column="43" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1469298475575">
+      <file name="/Python Console" timestamp="1469301171122">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1469245464151">
+      <file name="/fragment.py" timestamp="1469301236800">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/chatbot.py" timestamp="1469217947312">
@@ -242,12 +243,11 @@
         <mark key="^" line="15" column="90" />
         <mark key="." line="15" column="90" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" timestamp="1469298461083">
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" timestamp="1469301103372">
         <mark key="'" line="26" column="43" />
-        <mark key="[" line="23" column="32" />
-        <mark key="]" line="23" column="39" />
-        <mark key="." line="23" column="39" />
-        <mark key="^" line="23" column="39" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Experiment.py" timestamp="1461341843268">
         <mark key="'" line="148" column="6" />
@@ -352,9 +352,8 @@
         <mark key="." line="29" column="23" />
         <mark key="^" line="29" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" timestamp="1469299451612">
-        <mark key="'" line="38" column="0" />
-        <mark key="^" line="8" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" timestamp="1469299984665">
+        <mark key="'" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Pop.py" timestamp="1462750953568">
         <mark key="[" line="139" column="15" />
@@ -371,9 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
-      <jump line="2" column="33" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_text.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_text.py" />
       <jump line="37" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
       <jump line="12" column="34" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
       <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/text_preprocessing.py" />
@@ -471,13 +467,16 @@
       <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="38" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
+      <jump line="25" column="4" filename="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" />
+      <jump line="3" column="13" filename="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" />
+      <jump line="29" column="16" filename="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnRleHRfcHJvY2Vzc29yIGlzIE5vbmU6CiAgICAgICAgICAgIHNlbGYudGV4dF9wcm9jZXNzb3IgPSBUZXh0UHJlUHJvY2Vzc29yLlRleHRQcmVQcm9jZXNzb3IuY3JlYXRlX2Zyb21fdGV4dF9maWxlKHRleHRfZmlsZV9uYW1lPXRleHRfZmlsZV9uYW1lKQo=</text>
+      <register name="&quot;" type="4">
+        <text>text_to_vector</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>text_to_vector</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXh0UHJlUHJvY2Vzc29yXD4=</text>
@@ -485,32 +484,32 @@
       <register name="0" type="4">
         <text>'created_dictionary.txt'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnRleHRfcHJvY2Vzc29yIGlzIE5vbmU6CiAgICAgICAgICAgIHNlbGYudGV4dF9wcm9jZXNzb3IgPSBUZXh0UHJlUHJvY2Vzc29yLlRleHRQcmVQcm9jZXNzb3IuY3JlYXRlX2Zyb21fdGV4dF9maWxlKHRleHRfZmlsZV9uYW1lPXRleHRfZmlsZV9uYW1lKQo=</text>
+      <register name="1" type="4">
+        <text>text_to_vector</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBkZWYgdHJhaW4oc2VsZiwgeCwgeSk6CiAgICAgICAgc2VsZi5tb2RlbC50cmFpbih4LCB5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>object</text>
+        <text>TextPredictor</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiB0cmFpbl93b3JkcyhzZWxmLCB0ZXh0X2ZpbGVfbmFtZSk6CiAgICAgICAgcHJpbnQgJ0J1aWxkIG1vZGVsLi4uJwogICAgICAgIHRleHQgPSBUZXh0UHJlUHJvY2Vzc29yLmdldF9jbGVhbl93b3Jkc19mcm9tX2ZpbGUodGV4dF9maWxlX25hbWUsIDEwICoqIDcpCiAgICAgICAgaWYgc2VsZi50ZXh0X3Byb2Nlc3NvciBpcyBOb25lOgogICAgICAgICAgICBzZWxmLnRleHRfcHJvY2Vzc29yID0gVGV4dFByZVByb2Nlc3Nvci5UZXh0UHJlUHJvY2Vzc29yLmNyZWF0ZV9mcm9tX3RleHRfZmlsZSh0ZXh0X2ZpbGVfbmFtZT10ZXh0X2ZpbGVfbmFtZSkKICAgICAgICB0cmFpbl94ID0gc2VsZi50ZXh0X3Byb2Nlc3Nvci50ZXh0X3RvX3ZlY3Rvcih0ZXh0KQogICAgICAgIHkgPSB0cmFpbl94WzE6XQogICAgICAgIHggPSB0cmFpbl94WzotMV0KICAgICAgICBwcmludCAnU2hhcGUgb2YgWCAnLCB4LnNoYXBlLCAnIHNoYXBlIG9mIHkgJywgeS5zaGFwZQogICAgICAgIHNlbGYubW9kZWwudHJhaW4oeCwgeSkKICAgICAgICBwcmludCAnVHJhaW5pbmcgZG9uZScKICAgICAgICByZXR1cm4gc2VsZi5tb2RlbC5ldmFsdWF0ZSh4LCB5KQoK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IFRleHRQcmVkaWN0b3I=</text>
       </register>
       <register name="5" type="4">
-        <text>(text_file_name)</text>
+        <text>TextPredictor</text>
       </register>
-      <register name="6" type="4">
-        <text>dictionary_file=dictionary_txt</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIE1heFZvY2FidWxhcnkgPSAxMDAwCiAgICBQcmV2aW91c1dvcmRzID0gMjAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAnU2hhcGUgb2YgWCAnLCB4LnNoYXBlLCAnIHNoYXBlIG9mIHkgJywgeS5zaGFwZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50IHRwLm1vZGVsLmV2YWx1YXRlKCkK</text>
+        <text encoding="base64">Y2xhc3MgQ29uc3RhbnRzOgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>)</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

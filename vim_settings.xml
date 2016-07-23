@@ -93,12 +93,12 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" timestamp="1469230730555">
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" timestamp="1469249335141">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="18" column="64" />
-        <mark key="]" line="18" column="55" />
-        <mark key="." line="18" column="55" />
-        <mark key="^" line="18" column="55" />
+        <mark key="[" line="43" column="34" />
+        <mark key="]" line="43" column="40" />
+        <mark key="." line="43" column="40" />
+        <mark key="^" line="43" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/KnowledgeGraph/src/Entity.py" timestamp="1467412208700">
         <mark key="'" line="0" column="0" />
@@ -107,12 +107,11 @@
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/ChatEngine.py" timestamp="1469232974567">
-        <mark key="'" line="18" column="19" />
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-        <mark key="^" line="18" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/ChatEngine.py" timestamp="1469249025720">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="46" />
+        <mark key="." line="11" column="46" />
+        <mark key="^" line="11" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/text_preprocessing.py" timestamp="1469230948273">
         <mark key="'" line="60" column="0" />
@@ -180,7 +179,7 @@
         <mark key="^" line="40" column="43" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1469247225061">
+      <file name="/Python Console" timestamp="1469249337097">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1469245464151">
@@ -331,12 +330,12 @@
         <mark key="." line="29" column="23" />
         <mark key="^" line="29" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" timestamp="1469232587656">
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" timestamp="1469249063211">
         <mark key="'" line="2" column="24" />
-        <mark key="[" line="18" column="47" />
-        <mark key="]" line="19" column="61" />
-        <mark key="^" line="19" column="61" />
-        <mark key="." line="19" column="61" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="78" />
+        <mark key="^" line="28" column="7" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Pop.py" timestamp="1462750953568">
         <mark key="[" line="139" column="15" />
@@ -455,44 +454,44 @@
       <jump line="46" column="32" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreprocessor.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>word_list</text>
       </register>
       <register name="-" type="4">
-        <text>['here', 'are', 'are', 'hi', TextPreProcessor.Unknown]</text>
+        <text>word_list</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXh0UHJlUHJvY2Vzc29yXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3RleHRfcHJlcHJvY2VzcyhzZWxmKToKICAgICAgICB3b3JkX2xpc3QgPSBbJ3RoZXJlJywgJ2hlcmUnLCAnYXJlJywgJ3lvdScsICdoaSddCiAgICAgICAgd20gPSBXb3JkTWFwKHdvcmRzX2xpc3Q9d29yZF9saXN0KQogICAgICAgIHNhdmVfZmlsZV9uYW1lID0gJ3Rlc3QudHN2JwogICAgICAgIHdtLnNhdmVfZGljdGlvbmFyeShzYXZlX2ZpbGVfbmFtZSkKICAgICAgICB0cCA9IFRleHRQcmVQcm9jZXNzb3Ioc2F2ZV9maWxlX25hbWUpCiAgICAgICAgdmVjdG9yID0gdHAudGV4dF90b192ZWN0b3IoJ2hlcmUgYXJlIGFyZSBoaSB3b29ob28nKQogICAgICAgIGRlY29kZWRfbWVzc2FnZSA9IHRwLnZlY3Rvcl90b193b3Jkcyh2ZWN0b3IpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChkZWNvZGVkX21lc3NhZ2UsIFsnaGVyZScsICdhcmUnLCAnYXJlJywgJ2hpJywgVGV4dFByZVByb2Nlc3Nvci5Vbmtub3duXSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRleHRfcHJvY2Vzc29yID0gVGV4dFByZVByb2Nlc3Nvci5UZXh0UHJlUHJvY2Vzc29yKHdvcmRfbWFwX2ZpbGUpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>word_list</text>
       </register>
       <register name="2" type="4">
-        <text>['here', 'are', 'are', 'hi', TextPreProcessor.Unknown]</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>vector_to_words</text>
+        <text encoding="base64">IER1bW15VGV4dFByZWRpY3Rvcg==</text>
       </register>
       <register name="4" type="4">
-        <text>u</text>
+        <text>user_text</text>
       </register>
       <register name="5" type="4">
-        <text>u</text>
+        <text encoding="base64">IFRleHRQcmVkaWN0b3I=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHdvb2hvbw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBUZXh0UHJlZGljdG9yLl9faW5pdF9fKHNlbGYsIG1vZGVsX2ZpbGVfbmFtZSwgd29yZF9tYXBfZmlsZSkK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHJlcGx5X3ZlY3Rvcg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXBseV9udW1iZXJzID0gVGV4dFByZXByb2Nlc3Nvci5vbmVfaG90X3RvX251bWJlcnMocmVwbHlfdmVjdG9yKQogICAgICAgIHJlcGx5X3dvcmRzID0gc2VsZi53b3JkX21hcC5udW1iZXJzX3RvX3dvcmRzKHJlcGx5X251bWJlcnMpCiAgICAgICAgcmV0dXJuICcgJy5qb2luKHJlcGx5X3dvcmRzKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>TextPreprocessor(numbers)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlZiB0cmFpbihzZWxmLCB0ZXh0KToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

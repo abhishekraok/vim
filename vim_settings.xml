@@ -83,6 +83,9 @@
         <mark key="." line="50" column="40" />
         <mark key="^" line="50" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/keras/examples/inception_v3.py" timestamp="1469297156631">
+        <mark key="'" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/DataObtainer.py" timestamp="1461255785904">
         <mark key="'" line="44" column="34" />
         <mark key="[" line="47" column="37" />
@@ -174,7 +177,12 @@
         <mark key="^" line="16" column="61" />
         <mark key="." line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/keras/examples/lstm_text_generation.py" timestamp="1469295491293" />
+      <file name="$USER_HOME$/Documents/Github/keras/examples/lstm_text_generation.py" timestamp="1469297155534">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="20" column="10" />
+        <mark key="." line="57" column="28" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" timestamp="1469231626797">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="6" column="0" />
@@ -333,12 +341,12 @@
         <mark key="." line="29" column="23" />
         <mark key="^" line="29" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" timestamp="1469249063211">
-        <mark key="'" line="2" column="24" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="78" />
-        <mark key="^" line="28" column="7" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" timestamp="1469297288709">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="35" column="46" />
+        <mark key="]" line="35" column="72" />
+        <mark key="." line="35" column="72" />
+        <mark key="^" line="35" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Pop.py" timestamp="1462750953568">
         <mark key="[" line="139" column="15" />
@@ -355,14 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="114" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/StandardNodeFunctions.py" />
-      <jump line="12" column="54" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/StandardNodeFunctions.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
-      <jump line="128" column="62" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
-      <jump line="15" column="13" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
-      <jump line="22" column="37" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
       <jump line="19" column="31" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
       <jump line="20" column="26" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
       <jump line="121" column="20" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
@@ -455,46 +455,54 @@
       <jump line="46" column="32" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreprocessor.py" />
       <jump line="58" column="11" filename="$USER_HOME$/Documents/Github/keras/examples/pretrained_word_embeddings.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/Github/keras/examples/pretrained_word_embeddings.py" />
+      <jump line="57" column="28" filename="$USER_HOME$/Documents/Github/keras/examples/lstm_text_generation.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/Github/keras/examples/lstm_text_generation.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/Github/keras/examples/lstm_text_generation.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/Github/keras/examples/lstm_text_generation.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/Github/keras/examples/lstm_text_generation.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/Github/keras/examples/inception_v3.py" />
+      <jump line="24" column="30" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>word_list</text>
+        <text>maxlen</text>
       </register>
       <register name="-" type="4">
-        <text>word_list</text>
+        <text>maxlen</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXh0UHJlUHJvY2Vzc29yXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRleHRfcHJvY2Vzc29yID0gVGV4dFByZVByb2Nlc3Nvci5UZXh0UHJlUHJvY2Vzc29yKHdvcmRfbWFwX2ZpbGUpCg==</text>
+        <text encoding="base64">ZnJvbSBrZXJhcy5tb2RlbHMgaW1wb3J0IFNlcXVlbnRpYWwKZnJvbSBrZXJhcy5sYXllcnMgaW1wb3J0IERlbnNlLCBBY3RpdmF0aW9uLCBEcm9wb3V0CmZyb20ga2VyYXMubGF5ZXJzIGltcG9ydCBMU1RNCmZyb20ga2VyYXMub3B0aW1pemVycyBpbXBvcnQgUk1TcHJvcApmcm9tIGtlcmFzLnV0aWxzLmRhdGFfdXRpbHMgaW1wb3J0IGdldF9maWxlCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgcmFuZG9tCmltcG9ydCBzeXMK</text>
       </register>
       <register name="1" type="4">
-        <text>word_list</text>
+        <text>maxlen</text>
       </register>
       <register name="2" type="4">
         <text>)</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IER1bW15VGV4dFByZWRpY3Rvcg==</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text>user_text</text>
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IFRleHRQcmVkaWN0b3I=</text>
+        <text>a</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUZXh0UHJlZGljdG9yLl9faW5pdF9fKHNlbGYsIG1vZGVsX2ZpbGVfbmFtZSwgd29yZF9tYXBfZmlsZSkK</text>
+      <register name="6" type="4">
+        <text>h</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text>c</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text>(</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0cmFpbihzZWxmLCB0ZXh0KToK</text>
+      <register name="9" type="4">
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

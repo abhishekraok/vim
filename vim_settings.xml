@@ -10,7 +10,8 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPreprocessor.py" timestamp="1469232956299">
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPreprocessor.py" timestamp="1469241185151">
+        <mark key="'" line="46" column="32" />
         <mark key="[" line="43" column="18" />
         <mark key="]" line="43" column="32" />
         <mark key="." line="43" column="32" />
@@ -22,13 +23,6 @@
         <mark key="]" line="25" column="27" />
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="38" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" timestamp="1469232727909">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="30" column="42" />
-        <mark key="]" line="30" column="54" />
-        <mark key="." line="30" column="54" />
-        <mark key="^" line="30" column="54" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/KnowledgeGraph/src/TestEntity.py" timestamp="1467412351381">
         <mark key="'" line="9" column="33" />
@@ -358,7 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="19" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/NodeCollection.py" />
       <jump line="22" column="0" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/test_function_resolver.py" />
       <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/test_function_resolver.py" />
       <jump line="10" column="114" filename="$USER_HOME$/PycharmProjects/FunctionResolvers/src/StandardNodeFunctions.py" />
@@ -458,6 +451,7 @@
       <jump line="10" column="6" filename="$USER_HOME$/PycharmProjects/Socrates/src/ChatEngine.py" />
       <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
       <jump line="18" column="19" filename="$USER_HOME$/PycharmProjects/Socrates/src/ChatEngine.py" />
+      <jump line="46" column="32" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreprocessor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

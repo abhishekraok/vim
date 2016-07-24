@@ -29,15 +29,19 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" timestamp="1469330677539">
+        <mark key="'" line="74" column="45" />
+        <mark key="[" line="20" column="69" />
+        <mark key="]" line="20" column="69" />
+        <mark key="^" line="20" column="69" />
+        <mark key="." line="20" column="69" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/KnowledgeGraph/src/TestEntity.py" timestamp="1467412351381">
         <mark key="'" line="9" column="33" />
         <mark key="[" line="49" column="30" />
         <mark key="]" line="49" column="46" />
         <mark key="." line="49" column="46" />
         <mark key="^" line="49" column="46" />
-      </file>
-      <file name="/a.dummy" timestamp="1469231662534">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/test_text.py" timestamp="1469077167720">
         <mark key="[" line="2" column="0" />
@@ -105,11 +109,11 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" timestamp="1469328889734">
-        <mark key="'" line="52" column="25" />
-        <mark key="[" line="14" column="115" />
-        <mark key="]" line="14" column="115" />
-        <mark key="." line="14" column="115" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" timestamp="1469330238664">
+        <mark key="'" line="51" column="25" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
         <mark key="^" line="14" column="115" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/KnowledgeGraph/src/Entity.py" timestamp="1467412208700">
@@ -131,12 +135,12 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" timestamp="1469328101015">
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" timestamp="1469330901975">
         <mark key="'" line="21" column="29" />
-        <mark key="[" line="35" column="35" />
-        <mark key="]" line="35" column="35" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
         <mark key="^" line="35" column="35" />
-        <mark key="." line="35" column="35" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/text_preprocessing.py" timestamp="1469230948273">
         <mark key="'" line="60" column="0" />
@@ -215,10 +219,7 @@
         <mark key="^" line="40" column="43" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1469326844889">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1469301236800">
+      <file name="/Python Console" timestamp="1469330245907">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/chatbot.py" timestamp="1469217947312">
@@ -260,12 +261,12 @@
         <mark key="^" line="15" column="90" />
         <mark key="." line="15" column="90" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" timestamp="1469328214530">
-        <mark key="'" line="95" column="20" />
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="78" />
-        <mark key="." line="14" column="78" />
-        <mark key="^" line="14" column="78" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" timestamp="1469330915653">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="71" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Experiment.py" timestamp="1461341843268">
         <mark key="'" line="148" column="6" />
@@ -392,11 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="48" filename="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/text_preprocessing.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/text_preprocessing.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/text_preprocessing.py" />
-      <jump line="64" column="42" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
       <jump line="37" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" />
       <jump line="19" column="8" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
       <jump line="16" column="24" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
@@ -492,13 +488,18 @@
       <jump line="51" column="20" filename="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" />
       <jump line="13" column="85" filename="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" />
       <jump line="52" column="25" filename="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" />
+      <jump line="35" column="33" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
+      <jump line="8" column="30" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
+      <jump line="74" column="45" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
+      <jump line="70" column="29" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">ZnJvbSBzcmMuQ29uc3RhbnRzIA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ZnJvbSBzcmMuQ29uc3RhbnRzIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3b3JkX2xpc3RfdG9fb25lX2hvdFw+</text>
@@ -507,31 +508,31 @@
         <text encoding="base64">Zm9yIGkgaW4gcmFuZ2UoMCwgbGVuKHRleHQpIC0gbWF4bGVuLCBzdGVwKToKICAgIHNlbnRlbmNlcy5hcHBlbmQodGV4dFtpOiBpICsgbWF4bGVuXSkKICAgIG5leHRfY2hhcnMuYXBwZW5kKHRleHRbaSArIG1heGxlbl0pCnByaW50KCduYiBzZXF1ZW5jZXM6JywgbGVuKHNlbnRlbmNlcykpCgpwcmludCgnVmVjdG9yaXphdGlvbi4uLicpClggPSBucC56ZXJvcygobGVuKHNlbnRlbmNlcyksIG1heGxlbiwgbGVuKGNoYXJzKSksIGR0eXBlPW5wLmJvb2wpCnkgPSBucC56ZXJvcygobGVuKHNlbnRlbmNlcyksIGxlbihjaGFycykpLCBkdHlwZT1ucC5ib29sKQpmb3IgaSwgc2VudGVuY2UgaW4gZW51bWVyYXRlKHNlbnRlbmNlcyk6CiAgICBmb3IgdCwgY2hhciBpbiBlbnVtZXJhdGUoc2VudGVuY2UpOgogICAgICAgIFhbaSwgdCwgY2hhcl9pbmRpY2VzW2NoYXJdXSA9IDEKICAgIHlbaSwgY2hhcl9pbmRpY2VzW25leHRfY2hhcnNbaV1dXSA9IDEK</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text encoding="base64">ZnJvbSBzcmMuQ29uc3RhbnRzIA==</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text encoding="base64">ZnJvbSBzcmMg</text>
       </register>
       <register name="3" type="4">
-        <text>.iteritems(</text>
+        <text encoding="base64">ZnJvbSBzcmMg</text>
       </register>
       <register name="4" type="4">
-        <text>train_words</text>
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text>c</text>
-      </register>
-      <register name="6" type="4">
-        <text>c</text>
-      </register>
-      <register name="7" type="4">
-        <text>c</text>
-      </register>
-      <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBmdXR1cmVfYnVpbHRpbnMK</text>
+      <register name="6" type="4">
+        <text>TextPreProcessor.Unknown]</text>
+      </register>
+      <register name="7" type="4">
+        <text>'</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSB7fQo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>y</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

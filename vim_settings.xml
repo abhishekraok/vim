@@ -131,12 +131,12 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/ChatEngine.py" timestamp="1469334105079">
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/ChatEngine.py" timestamp="1469385824661">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="46" />
-        <mark key="." line="11" column="46" />
-        <mark key="^" line="11" column="46" />
+        <mark key="[" line="36" column="25" />
+        <mark key="]" line="36" column="52" />
+        <mark key="." line="36" column="52" />
+        <mark key="^" line="36" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" timestamp="1469383864675">
         <mark key="'" line="5" column="0" />
@@ -521,11 +521,11 @@
       <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IE5vbmU=</text>
       </register>
       <register name="-" type="4">
-        <text>train</text>
+        <text encoding="base64">IE5vbmU=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvc1w+</text>
@@ -533,32 +533,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBtb2RlbF90eXBlID09IE1vZGVsVHlwZS5GaXJzdExTVE1Nb2RlbDoKICAgICAgICAgICAgcmV0dXJuIE1vZGVsRmFjdG9yeS5nZXRfZmlyc3RfbHN0bV9tb2RlbCgpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IE5vbmU=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHRwLnNhdmUoJ2ZpcnN0bHN0bV9wcmlkZV81MGVwb2NoJykK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>train</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBtb2RlbC50cmFpbigpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBtb2RlbC5jb21waWxlKCkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHRwLnNhdmUoJ2ZpcnN0bHN0bV9wcmlkZV81MGVwb2NoJykK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>src.</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZnJvbSBzcmMuTW9kZWxGYWN0b3J5IA==</text>
-      </register>
       <register name="9" type="4">
-        <text>FirstLSTMModel</text>
+        <text encoding="base64">ZnJvbSBzcmMuTW9kZWxGYWN0b3J5IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

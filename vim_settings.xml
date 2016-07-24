@@ -29,12 +29,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" timestamp="1469382907247">
-        <mark key="'" line="126" column="8" />
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="21" column="65" />
-        <mark key="^" line="21" column="65" />
-        <mark key="." line="21" column="65" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" timestamp="1469386623456">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="43" column="32" />
+        <mark key="]" line="43" column="49" />
+        <mark key="^" line="43" column="49" />
+        <mark key="." line="43" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/KnowledgeGraph/src/TestEntity.py" timestamp="1467412351381">
         <mark key="'" line="9" column="33" />
@@ -111,12 +111,12 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" timestamp="1469330238664">
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" timestamp="1469386944755">
         <mark key="'" line="51" column="25" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="14" column="115" />
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="66" />
+        <mark key="." line="15" column="66" />
+        <mark key="^" line="15" column="66" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/KnowledgeGraph/src/Entity.py" timestamp="1467412208700">
         <mark key="'" line="0" column="0" />
@@ -138,12 +138,12 @@
         <mark key="." line="36" column="52" />
         <mark key="^" line="36" column="52" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" timestamp="1469383864675">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="46" column="44" />
-        <mark key="]" line="46" column="59" />
-        <mark key="." line="46" column="59" />
-        <mark key="^" line="46" column="59" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" timestamp="1469387274455">
+        <mark key="'" line="19" column="13" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="19" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/text_preprocessing.py" timestamp="1469230948273">
         <mark key="'" line="60" column="0" />
@@ -223,10 +223,10 @@
         <mark key="^" line="40" column="43" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1469383814038">
+      <file name="/Python Console" timestamp="1469386863685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1469383577768">
+      <file name="/fragment.py" timestamp="1469386947085">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/chatbot.py" timestamp="1469334148977">
@@ -275,12 +275,12 @@
         <mark key="^" line="15" column="90" />
         <mark key="." line="15" column="90" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" timestamp="1469380978208">
-        <mark key="'" line="90" column="4" />
-        <mark key="[" line="86" column="64" />
-        <mark key="]" line="86" column="65" />
-        <mark key="." line="86" column="65" />
-        <mark key="^" line="86" column="65" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" timestamp="1469386468820">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="76" />
+        <mark key="]" line="39" column="76" />
+        <mark key="." line="39" column="76" />
+        <mark key="^" line="39" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Experiment.py" timestamp="1461341843268">
         <mark key="'" line="148" column="6" />
@@ -397,12 +397,11 @@
         <mark key="." line="29" column="23" />
         <mark key="^" line="29" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" timestamp="1469334233357">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="31" column="30" />
-        <mark key="]" line="31" column="33" />
-        <mark key="^" line="31" column="33" />
-        <mark key="." line="31" column="33" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" timestamp="1469387225950">
+        <mark key="[" line="16" column="57" />
+        <mark key="]" line="16" column="77" />
+        <mark key="." line="16" column="77" />
+        <mark key="^" line="16" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Pop.py" timestamp="1462750953568">
         <mark key="[" line="139" column="15" />
@@ -419,33 +418,12 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
-      <jump line="25" column="4" filename="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" />
-      <jump line="3" column="13" filename="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" />
-      <jump line="45" column="34" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
-      <jump line="49" column="12" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
-      <jump line="58" column="26" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
-      <jump line="33" column="8" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
-      <jump line="92" column="20" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
-      <jump line="29" column="33" filename="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" />
-      <jump line="23" column="29" filename="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" />
-      <jump line="4" column="7" filename="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" />
-      <jump line="18" column="16" filename="$USER_HOME$/PycharmProjects/Socrates/src/word_sequence.py" />
-      <jump line="51" column="20" filename="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" />
-      <jump line="13" column="85" filename="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" />
       <jump line="52" column="25" filename="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" />
       <jump line="35" column="33" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
       <jump line="8" column="30" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
       <jump line="74" column="45" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
-      <jump line="70" column="29" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
       <jump line="98" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
       <jump line="24" column="63" filename="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" />
-      <jump line="6" column="14" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
       <jump line="94" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
       <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
       <jump line="20" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
@@ -456,14 +434,12 @@
       <jump line="47" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
       <jump line="60" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
       <jump line="68" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
       <jump line="76" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
       <jump line="83" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
       <jump line="93" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
       <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
       <jump line="23" column="27" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
       <jump line="90" column="4" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
       <jump line="1" column="7" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="10" column="22" filename="$USER_HOME$/PycharmProjects/Socrates/src/chatbot.py" />
@@ -519,55 +495,78 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" />
       <jump line="67" column="40" filename="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" />
       <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" />
+      <jump line="48" column="8" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="49" column="11" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="50" column="91" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="72" column="36" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="59" column="73" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="89" column="65" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
+      <jump line="27" column="20" filename="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" />
+      <jump line="19" column="13" filename="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IE5vbmU=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnRleHRfcHJvY2Vzc29yIGlzIE5vbmU6CiAgICAgICAgICAgIHNlbGYudGV4dF9wcm9jZXNzb3IgPSBUZXh0UHJlUHJvY2Vzc29yLlRleHRQcmVQcm9jZXNzb3IuY3JlYXRlX2Zyb21fdGV4dF9maWxlKHRleHRfZmlsZV9uYW1lPXRleHRfZmlsZV9uYW1lKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IE5vbmU=</text>
+        <text>pickle.load(open(model_file_name, 'rb'))</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvc1w+</text>
+        <text encoding="base64">XDx0ZXh0X3Byb2Nlc3Nvclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtb2RlbF90eXBlID09IE1vZGVsVHlwZS5GaXJzdExTVE1Nb2RlbDoKICAgICAgICAgICAgcmV0dXJuIE1vZGVsRmFjdG9yeS5nZXRfZmlyc3RfbHN0bV9tb2RlbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB3b3JkX2xpc3QgPSBbJ2FoYScsICdiYXQnLCAnY2F0J10KICAgICAgICB3bSA9IFdvcmRNYXAod29yZHNfbGlzdD13b3JkX2xpc3QpCiAgICAgICAgdHAgPSBUZXh0UHJlUHJvY2Vzc29yKHdvcmRfbWFwPXdtKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IE5vbmU=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnRleHRfcHJvY2Vzc29yIGlzIE5vbmU6CiAgICAgICAgICAgIHNlbGYudGV4dF9wcm9jZXNzb3IgPSBUZXh0UHJlUHJvY2Vzc29yLlRleHRQcmVQcm9jZXNzb3IuY3JlYXRlX2Zyb21fdGV4dF9maWxlKHRleHRfZmlsZV9uYW1lPXRleHRfZmlsZV9uYW1lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiB3b3JkX21hcF9maWxlIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZWxmLnRleHRfcHJvY2Vzc29yID0gVGV4dFByZVByb2Nlc3Nvci5UZXh0UHJlUHJvY2Vzc29yKHdvcmRfbWFwX2ZpbGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRwLnNhdmUoJ2ZpcnN0bHN0bV9wcmlkZV81MGVwb2NoJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5tb2RlbAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>train</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyByYWlzZSBFeGNlcHRpb24oIm1vZGVsIGZpbGUgbm90IGZvdW5kICIgKyBtb2RlbF9maWxlX25hbWUpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC50cmFpbigpCg==</text>
+      <register name="5" type="4">
+        <text>pickle.load(open(model_file_name, 'rb'))</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5jb21waWxlKCkK</text>
+      <register name="6" type="4">
+        <text>cabulary</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRwLnNhdmUoJ2ZpcnN0bHN0bV9wcmlkZV81MGVwb2NoJykK</text>
+      <register name="7" type="4">
+        <text>Constants.MaxVo</text>
       </register>
       <register name="8" type="4">
-        <text>src.</text>
+        <text encoding="base64">IFRleHRQcmVQcm9jZXNzb3I=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZnJvbSBzcmMuTW9kZWxGYWN0b3J5IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0cCA9IFRleHRQcmVQcm9jZXNzb3IoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvc1w+</last-search>
+      <last-search encoding="base64">XDx0ZXh0X3Byb2Nlc3Nvclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvc1w+</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXh0X3Byb2Nlc3Nvclw+</last-pattern>
       <last-replace>3</last-replace>
       <last-substitute>2</last-substitute>
       <last-dir>1</last-dir>
@@ -575,9 +574,6 @@
     </search>
     <history>
       <history-search>
-        <entry>2</entry>
-        <entry encoding="base64">XDxTdGFuZGFyZE5vZGVGdW5jdGlvbnNcPg==</entry>
-        <entry encoding="base64">XDxhY3RpdmF0ZV9hbGxcPg==</entry>
         <entry encoding="base64">XDxub2RlX2xpc3RcPg==</entry>
         <entry>,</entry>
         <entry>),</entry>
@@ -595,6 +591,9 @@
         <entry encoding="base64">XDx3b3JkX2xpc3RfdG9fb25lX2hvdFw+</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxvc1w+</entry>
+        <entry encoding="base64">XDxtYXhfdmFsdWVcPg==</entry>
+        <entry>MaxVo</entry>
+        <entry encoding="base64">XDx0ZXh0X3Byb2Nlc3Nvclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>

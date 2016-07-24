@@ -142,12 +142,12 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" timestamp="1469334711057">
-        <mark key="'" line="24" column="63" />
-        <mark key="[" line="39" column="28" />
-        <mark key="]" line="39" column="35" />
-        <mark key="^" line="39" column="35" />
-        <mark key="." line="39" column="35" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" timestamp="1469380083516">
+        <mark key="'" line="32" column="9" />
+        <mark key="[" line="36" column="31" />
+        <mark key="]" line="36" column="24" />
+        <mark key="^" line="36" column="24" />
+        <mark key="." line="36" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/text_preprocessing.py" timestamp="1469230948273">
         <mark key="'" line="60" column="0" />
@@ -173,11 +173,11 @@
       <file name="/" timestamp="1469078526043">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" timestamp="1469334676954">
-        <mark key="'" line="4" column="7" />
-        <mark key="[" line="33" column="19" />
-        <mark key="]" line="33" column="21" />
-        <mark key="." line="33" column="21" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" timestamp="1469380040776">
+        <mark key="'" line="34" column="20" />
+        <mark key="[" line="36" column="44" />
+        <mark key="]" line="36" column="44" />
+        <mark key="." line="36" column="44" />
         <mark key="^" line="33" column="21" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/StandardNodeFunctions.py" timestamp="1468625374538">
@@ -402,9 +402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
-      <jump line="35" column="7" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
       <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
       <jump line="28" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
       <jump line="10" column="6" filename="$USER_HOME$/PycharmProjects/Socrates/src/ChatEngine.py" />
@@ -449,7 +446,6 @@
       <jump line="92" column="20" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
       <jump line="29" column="33" filename="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" />
       <jump line="23" column="29" filename="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" />
-      <jump line="34" column="14" filename="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" />
       <jump line="4" column="7" filename="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" />
       <jump line="18" column="16" filename="$USER_HOME$/PycharmProjects/Socrates/src/word_sequence.py" />
       <jump line="51" column="20" filename="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" />
@@ -502,46 +498,50 @@
       <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
+      <jump line="32" column="9" filename="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" />
+      <jump line="34" column="20" filename="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" />
+      <jump line="30" column="13" filename="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TextPreProcessor.TextPreProcessor(word_map_file)</text>
+        <text>'my_model_weights.h5'</text>
       </register>
       <register name="-" type="4">
-        <text>TextPreProcessor.TextPreProcessor(word_map_file)</text>
+        <text>'my_model_weights.h5'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3b3JkX2xpc3RfdG9fb25lX2hvdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Zm9yIGkgaW4gcmFuZ2UoMCwgbGVuKHRleHQpIC0gbWF4bGVuLCBzdGVwKToKICAgIHNlbnRlbmNlcy5hcHBlbmQodGV4dFtpOiBpICsgbWF4bGVuXSkKICAgIG5leHRfY2hhcnMuYXBwZW5kKHRleHRbaSArIG1heGxlbl0pCnByaW50KCduYiBzZXF1ZW5jZXM6JywgbGVuKHNlbnRlbmNlcykpCgpwcmludCgnVmVjdG9yaXphdGlvbi4uLicpClggPSBucC56ZXJvcygobGVuKHNlbnRlbmNlcyksIG1heGxlbiwgbGVuKGNoYXJzKSksIGR0eXBlPW5wLmJvb2wpCnkgPSBucC56ZXJvcygobGVuKHNlbnRlbmNlcyksIGxlbihjaGFycykpLCBkdHlwZT1ucC5ib29sKQpmb3IgaSwgc2VudGVuY2UgaW4gZW51bWVyYXRlKHNlbnRlbmNlcyk6CiAgICBmb3IgdCwgY2hhciBpbiBlbnVtZXJhdGUoc2VudGVuY2UpOgogICAgICAgIFhbaSwgdCwgY2hhcl9pbmRpY2VzW2NoYXJdXSA9IDEKICAgIHlbaSwgY2hhcl9pbmRpY2VzW25leHRfY2hhcnNbaV1dXSA9IDEK</text>
+      <register name="0" type="4">
+        <text>file_name + '.h5'</text>
       </register>
       <register name="1" type="4">
-        <text>TextPreProcessor.TextPreProcessor(word_map_file)</text>
+        <text>'my_model_weights.h5'</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBidWlsdGlucyBpbXBvcnQgaW5wdXQK</text>
+      <register name="2" type="4">
+        <text>'my_model_architecture.json'</text>
       </register>
-      <register name="3" type="4">
-        <text>_</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>w</text>
+        <text>my_model_weights</text>
       </register>
       <register name="5" type="4">
-        <text>a</text>
+        <text>my_model_architecture.json</text>
       </register>
-      <register name="6" type="4">
-        <text>r</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwaWNrbGUuZHVtcHMoc2VsZi5tb2RlbCkK</text>
       </register>
-      <register name="7" type="4">
-        <text>P</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
       </register>
       <register name="8" type="4">
-        <text>c</text>
+        <text>TextPreProcessor.TextPreProcessor(word_map_file)</text>
       </register>
-      <register name="9" type="4">
-        <text>P</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSBidWlsdGlucyBpbXBvcnQgaW5wdXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

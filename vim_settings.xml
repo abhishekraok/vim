@@ -48,6 +48,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/LSTMModelFitEpoch50.py" timestamp="1469334629999">
+        <mark key="[" line="21" column="39" />
+        <mark key="]" line="21" column="38" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="21" column="38" />
+      </file>
       <file name="$USER_HOME$/Source/Repos/promisigin-patterns/PersistencyMatrix/PersistencyMatrix/PythonClusteringApplication1/clustering.py" timestamp="1444611660951">
         <mark key="[" line="319" column="123" />
         <mark key="]" line="319" column="123" />
@@ -129,18 +135,19 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/ChatEngine.py" timestamp="1469249025720">
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/ChatEngine.py" timestamp="1469334105079">
+        <mark key="'" line="37" column="0" />
         <mark key="[" line="11" column="33" />
         <mark key="]" line="11" column="46" />
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" timestamp="1469332989065">
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TPModel.py" timestamp="1469334711057">
         <mark key="'" line="24" column="63" />
-        <mark key="[" line="25" column="64" />
-        <mark key="]" line="25" column="83" />
-        <mark key="^" line="25" column="83" />
-        <mark key="." line="25" column="83" />
+        <mark key="[" line="39" column="28" />
+        <mark key="]" line="39" column="35" />
+        <mark key="^" line="39" column="35" />
+        <mark key="." line="39" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/text_preprocessing.py" timestamp="1469230948273">
         <mark key="'" line="60" column="0" />
@@ -166,11 +173,12 @@
       <file name="/" timestamp="1469078526043">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" timestamp="1469328180835">
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" timestamp="1469334676954">
         <mark key="'" line="4" column="7" />
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="27" column="9" />
-        <mark key="." line="27" column="9" />
+        <mark key="[" line="33" column="19" />
+        <mark key="]" line="33" column="21" />
+        <mark key="." line="33" column="21" />
+        <mark key="^" line="33" column="21" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/StandardNodeFunctions.py" timestamp="1468625374538">
         <mark key="'" line="13" column="54" />
@@ -219,15 +227,15 @@
         <mark key="^" line="40" column="43" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1469333119566">
+      <file name="/Python Console" timestamp="1469334731235">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/chatbot.py" timestamp="1469333560854">
-        <mark key="'" line="10" column="22" />
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="24" />
-        <mark key="^" line="2" column="25" />
-        <mark key="." line="11" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/chatbot.py" timestamp="1469334148977">
+        <mark key="'" line="9" column="22" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="6" column="47" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/Github/EducationBot/test_Socrates.py" timestamp="1463631472609">
         <mark key="'" line="4" column="25" />
@@ -372,12 +380,12 @@
         <mark key="." line="29" column="23" />
         <mark key="^" line="29" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" timestamp="1469333454435">
-        <mark key="'" line="1" column="7" />
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="11" column="25" />
-        <mark key="^" line="11" column="25" />
-        <mark key="." line="11" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" timestamp="1469334233357">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="31" column="33" />
+        <mark key="^" line="31" column="33" />
+        <mark key="." line="31" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Pop.py" timestamp="1462750953568">
         <mark key="[" line="139" column="15" />
@@ -394,20 +402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
-      <jump line="14" column="43" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
-      <jump line="17" column="13" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
-      <jump line="20" column="71" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
-      <jump line="6" column="16" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
-      <jump line="8" column="29" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
       <jump line="47" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
       <jump line="35" column="7" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
       <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_keras.py" />
@@ -427,15 +421,12 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/Github/keras/examples/inception_v3.py" />
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="39" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="50" column="71" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="48" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="43" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="24" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="59" column="4" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="56" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
@@ -446,9 +437,7 @@
       <jump line="27" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="38" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="25" column="4" filename="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" />
       <jump line="3" column="13" filename="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" />
@@ -494,13 +483,32 @@
       <jump line="90" column="4" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" />
       <jump line="1" column="7" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="10" column="22" filename="$USER_HOME$/PycharmProjects/Socrates/src/chatbot.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/ChatEngine.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/ChatEngine.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/ChatEngine.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/ChatEngine.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/ChatEngine.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/ChatEngine.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/ChatEngine.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/ChatEngine.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>TextPreProcessor.TextPreProcessor(word_map_file)</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>TextPreProcessor.TextPreProcessor(word_map_file)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3b3JkX2xpc3RfdG9fb25lX2hvdFw+</text>
@@ -509,22 +517,22 @@
         <text encoding="base64">Zm9yIGkgaW4gcmFuZ2UoMCwgbGVuKHRleHQpIC0gbWF4bGVuLCBzdGVwKToKICAgIHNlbnRlbmNlcy5hcHBlbmQodGV4dFtpOiBpICsgbWF4bGVuXSkKICAgIG5leHRfY2hhcnMuYXBwZW5kKHRleHRbaSArIG1heGxlbl0pCnByaW50KCduYiBzZXF1ZW5jZXM6JywgbGVuKHNlbnRlbmNlcykpCgpwcmludCgnVmVjdG9yaXphdGlvbi4uLicpClggPSBucC56ZXJvcygobGVuKHNlbnRlbmNlcyksIG1heGxlbiwgbGVuKGNoYXJzKSksIGR0eXBlPW5wLmJvb2wpCnkgPSBucC56ZXJvcygobGVuKHNlbnRlbmNlcyksIGxlbihjaGFycykpLCBkdHlwZT1ucC5ib29sKQpmb3IgaSwgc2VudGVuY2UgaW4gZW51bWVyYXRlKHNlbnRlbmNlcyk6CiAgICBmb3IgdCwgY2hhciBpbiBlbnVtZXJhdGUoc2VudGVuY2UpOgogICAgICAgIFhbaSwgdCwgY2hhcl9pbmRpY2VzW2NoYXJdXSA9IDEKICAgIHlbaSwgY2hhcl9pbmRpY2VzW25leHRfY2hhcnNbaV1dXSA9IDEK</text>
       </register>
       <register name="1" type="4">
-        <text>_</text>
+        <text>TextPreProcessor.TextPreProcessor(word_map_file)</text>
       </register>
-      <register name="2" type="4">
-        <text>w</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBidWlsdGlucyBpbXBvcnQgaW5wdXQK</text>
       </register>
       <register name="3" type="4">
-        <text>a</text>
+        <text>_</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>w</text>
       </register>
       <register name="5" type="4">
-        <text>P</text>
+        <text>a</text>
       </register>
       <register name="6" type="4">
-        <text>c</text>
+        <text>r</text>
       </register>
       <register name="7" type="4">
         <text>P</text>
@@ -532,8 +540,8 @@
       <register name="8" type="4">
         <text>c</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IHByaW50X2Z1bmN0aW9uCg==</text>
+      <register name="9" type="4">
+        <text>P</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

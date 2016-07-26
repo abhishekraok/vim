@@ -38,12 +38,12 @@
         <mark key="." line="49" column="46" />
         <mark key="^" line="49" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/SequenceProcessor.py" timestamp="1469558574233">
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/SequenceProcessor.py" timestamp="1469563399650">
         <mark key="'" line="51" column="28" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="56" column="24" />
-        <mark key="^" line="35" column="22" />
-        <mark key="." line="48" column="56" />
+        <mark key="[" line="38" column="97" />
+        <mark key="]" line="38" column="96" />
+        <mark key="^" line="38" column="96" />
+        <mark key="." line="38" column="96" />
       </file>
       <file name="/a.dummy" timestamp="1469491140252">
         <mark key="[" line="0" column="0" />
@@ -95,12 +95,12 @@
         <mark key="." line="50" column="40" />
         <mark key="^" line="50" column="40" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/Word2Vec.py" timestamp="1469507469325">
-        <mark key="'" line="38" column="20" />
-        <mark key="[" line="38" column="17" />
-        <mark key="]" line="38" column="20" />
-        <mark key="." line="38" column="20" />
-        <mark key="^" line="38" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/Word2Vec.py" timestamp="1469563835624">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="28" column="31" />
+        <mark key="." line="28" column="31" />
+        <mark key="^" line="28" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" timestamp="1469559429374">
         <mark key="'" line="0" column="0" />
@@ -449,7 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
       <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
       <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
       <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
@@ -549,49 +548,50 @@
       <jump line="57" column="11" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
       <jump line="8" column="5" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/Word2Vec.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>None</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb252ZXJzYXRpb25Mb2FkZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oY29udmVyc2F0aW9uX2ZpbGUsICdyJykgYXMgZjoKICAgICAgICAgICAgbGluZXMgPSBmLnJlYWRsaW5lcygpCiAgICAgICAgICAgIHRlbnNvciA9IHNlbGYuY29udmVyc2F0aW9uX3RvX3RlbnNvcihsaW5lcykKICAgICAgICAgICAgcHJpbnQoJ0NyZWF0ZWQgYSB0ZW5zb3Igb2Ygc2hhcGUgJywgdGVuc29yLnNoYXBlLCAnIGZyb20gZmlsZSAnLCBjb252ZXJzYXRpb25fZmlsZSkKICAgICAgICAgICAgcmV0dXJuIHRlbnNvcgo=</text>
+        <text encoding="base64">ICAgIFVua25vd25WZWN0b3IgPSBucC5vbmVzKCgxLCBDb25zdGFudHMuV29yZDJWZWNDb25zdGFudCkpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>True</text>
+        <text>None</text>
       </register>
       <register name="2" type="4">
-        <text>conversation_file</text>
+        <text>self.model['uknown']</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVuc29yID0gc2VsZi5jb252ZXJzYXRpb25fdG9fdGVuc29yKGxpbmVzKQogICAgICAgICAgICBwcmludCgnQ3JlYXRlZCBhIHRlbnNvciBvZiBzaGFwZSAnLCB0ZW5zb3Iuc2hhcGUsICcgZnJvbSBmaWxlICcsIGNvbnZlcnNhdGlvbl9maWxlKQogICAgICAgICAgICByZXR1cm4gdGVuc29yCg==</text>
+        <text encoding="base64">ICAgIFVua25vd25WZWN0b3IgPSBucC5vbmVzKCgxLCBDb25zdGFudHMuV29yZDJWZWNDb25zdGFudCkpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>conversation_file</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBucC5hbGwoW2kgPT0gMSBmb3IgaSBpbiB2ZWN0b3JdKToKICAgICAgICAgICAgcmV0dXJuIENvbnN0YW50cy5Vbmtub3duV29yZAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnQ3JlYXRlZCBhIHRlbnNvciBvZiBzaGFwZSAnLCB0ZW5zb3Iuc2hhcGUsICcgZnJvbSBmaWxlICcsIGNvbnZlcnNhdGlvbl9maWxlKQo=</text>
+      <register name="5" type="4">
+        <text>Word2Vec.UnknownVector</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>True</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>conversation_file</text>
       </register>
-      <register name="8" type="4">
-        <text>' from file ', conversation_file</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGVuc29yID0gc2VsZi5jb252ZXJzYXRpb25fdG9fdGVuc29yKGxpbmVzKQogICAgICAgICAgICBwcmludCgnQ3JlYXRlZCBhIHRlbnNvciBvZiBzaGFwZSAnLCB0ZW5zb3Iuc2hhcGUsICcgZnJvbSBmaWxlICcsIGNvbnZlcnNhdGlvbl9maWxlKQogICAgICAgICAgICByZXR1cm4gdGVuc29yCg==</text>
       </register>
       <register name="9" type="4">
-        <text>lines</text>
+        <text>conversation_file</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -638,8 +638,8 @@
         <entry encoding="base64">JzwsJz5zL2NhdF9lbnRpdHkvZW50aXR5</entry>
         <entry>;w</entry>
         <entry encoding="base64">JzwsJz5zLzIvMy9n</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

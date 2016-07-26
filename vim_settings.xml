@@ -38,13 +38,14 @@
         <mark key="." line="49" column="46" />
         <mark key="^" line="49" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/SequenceProcessor.py" timestamp="1469564823144">
-        <mark key="[" line="39" column="98" />
-        <mark key="]" line="39" column="97" />
-        <mark key="." line="39" column="97" />
-        <mark key="^" line="39" column="97" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/SequenceProcessor.py" timestamp="1469569998214">
+        <mark key="'" line="46" column="10" />
+        <mark key="[" line="53" column="22" />
+        <mark key="]" line="53" column="21" />
+        <mark key="." line="53" column="21" />
+        <mark key="^" line="53" column="21" />
       </file>
-      <file name="/a.dummy" timestamp="1469491140252">
+      <file name="/a.dummy" timestamp="1469570139083">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/LSTMModelFitEpoch50.py" timestamp="1469334629999">
@@ -94,19 +95,19 @@
         <mark key="." line="50" column="40" />
         <mark key="^" line="50" column="40" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/Word2Vec.py" timestamp="1469564972541">
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/Word2Vec.py" timestamp="1469567957389">
         <mark key="'" line="22" column="31" />
         <mark key="[" line="28" column="19" />
-        <mark key="]" line="28" column="31" />
-        <mark key="." line="28" column="31" />
-        <mark key="^" line="28" column="31" />
+        <mark key="]" line="28" column="38" />
+        <mark key="." line="28" column="38" />
+        <mark key="^" line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" timestamp="1469559429374">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="61" />
-        <mark key="]" line="48" column="61" />
-        <mark key="." line="48" column="61" />
-        <mark key="^" line="48" column="61" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" timestamp="1469570135025">
+        <mark key="'" line="8" column="33" />
+        <mark key="[" line="62" column="82" />
+        <mark key="]" line="62" column="105" />
+        <mark key="." line="62" column="105" />
+        <mark key="^" line="62" column="105" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/DataObtainer.py" timestamp="1461255785904">
         <mark key="'" line="44" column="34" />
@@ -238,17 +239,17 @@
         <mark key="^" line="40" column="43" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" timestamp="1469560088147">
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" timestamp="1469570100438">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="46" column="43" />
-        <mark key="]" line="46" column="55" />
-        <mark key="." line="46" column="55" />
-        <mark key="^" line="46" column="55" />
+        <mark key="[" line="16" column="87" />
+        <mark key="]" line="16" column="91" />
+        <mark key="." line="16" column="91" />
+        <mark key="^" line="16" column="91" />
       </file>
-      <file name="/Python Console" timestamp="1469558149135">
+      <file name="/Python Console" timestamp="1469569045415">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1469559786175">
+      <file name="/fragment.py" timestamp="1469569208195">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/chatbot.py" timestamp="1469334148977">
@@ -345,12 +346,12 @@
         <mark key="^" line="70" column="30" />
         <mark key="." line="70" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/ModelFactory.py" timestamp="1469564999294">
-        <mark key="'" line="25" column="59" />
-        <mark key="[" line="71" column="14" />
-        <mark key="]" line="57" column="47" />
-        <mark key="." line="57" column="47" />
-        <mark key="^" line="57" column="47" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/ModelFactory.py" timestamp="1469569975035">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="85" column="113" />
+        <mark key="]" line="85" column="113" />
+        <mark key="." line="85" column="113" />
+        <mark key="^" line="85" column="113" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" timestamp="1462751032384">
         <mark key="'" line="184" column="35" />
@@ -394,11 +395,11 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/EnumsCollection.py" timestamp="1469551724478">
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="13" column="18" />
-        <mark key="^" line="13" column="18" />
-        <mark key="." line="13" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/EnumsCollection.py" timestamp="1469569840774">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="14" column="21" />
       </file>
       <file name="C:/Repos/OctaneMainNoBranchBRZ/FilterGit.py" timestamp="1461370682829">
         <mark key="'" line="43" column="30" />
@@ -448,13 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
-      <jump line="65" column="17" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
-      <jump line="66" column="19" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
       <jump line="59" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
       <jump line="50" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
       <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
@@ -543,51 +537,58 @@
       <jump line="65" column="16" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
       <jump line="51" column="28" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceProcessor.py" />
       <jump line="57" column="11" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
-      <jump line="8" column="5" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
       <jump line="42" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/Word2Vec.py" />
       <jump line="41" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceProcessor.py" />
       <jump line="22" column="31" filename="$USER_HOME$/PycharmProjects/Socrates/src/Word2Vec.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/ModelFactory.py" />
+      <jump line="81" column="16" filename="$USER_HOME$/PycharmProjects/Socrates/src/ModelFactory.py" />
+      <jump line="44" column="26" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceProcessor.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceProcessor.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/ModelFactory.py" />
+      <jump line="46" column="10" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceProcessor.py" />
+      <jump line="61" column="81" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
+      <jump line="8" column="33" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>matrix.shape[0]</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb252ZXJzYXRpb25Mb2FkZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFVua25vd25WZWN0b3IgPSBucC5vbmVzKCgxLCBDb25zdGFudHMuV29yZDJWZWNDb25zdGFudCkpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfMTBrX3NlcXVlbmNlX21vZGVsKGlucHV0X3NoYXBlLCBuYl9jbGFzc2VzLCBvdXRwdXRfbGVuZ3RoKToKICAgICAgICBpZiBub3Qgb3V0cHV0X2xlbmd0aDoKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCdPdXRwdXQgTGVuZ3RoIHJlcXVpcmVkIGZvciBzZXF1ZW5jZSBtb2RlbCcpCiAgICAgICAgd29yZDJ2ZWNfZGltZW5zaW9uID0gaW5wdXRfc2hhcGVbMV0KICAgICAgICBtb2RlbCA9IFNpbXBsZVNlcTJzZXEoaW5wdXRfZGltPXdvcmQydmVjX2RpbWVuc2lvbiwgaGlkZGVuX2RpbT0xMDAwLCBvdXRwdXRfbGVuZ3RoPW91dHB1dF9sZW5ndGgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG91dHB1dF9kaW09bmJfY2xhc3NlcykKICAgICAgICBtb2RlbC5jb21waWxlKGxvc3M9J2Nvc2luZV9wcm94aW1pdHknLCBvcHRpbWl6ZXI9J3Jtc3Byb3AnKQogICAgICAgIHJldHVybiBtb2RlbAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>0</text>
       </register>
       <register name="2" type="4">
-        <text>matrix.shape[0]</text>
+        <text>0</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBibGFua192ZWN0b3IgPQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="4">
-        <text>None</text>
+        <text>0</text>
       </register>
       <register name="5" type="4">
-        <text>self.model['uknown']</text>
+        <text>)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFVua25vd25WZWN0b3IgPSBucC5vbmVzKCgxLCBDb25zdGFudHMuV29yZDJWZWNDb25zdGFudCkpCg==</text>
+      <register name="6" type="4">
+        <text>self.vectorizer.get_top_word(i) for i in matrix if i is not ''</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBucC5hbGwoW2kgPT0gMSBmb3IgaSBpbiB2ZWN0b3JdKToKICAgICAgICAgICAgcmV0dXJuIENvbnN0YW50cy5Vbmtub3duV29yZAo=</text>
+      <register name="7" type="4">
+        <text>for i in words_list[:self.words_in_sentence]]</text>
       </register>
       <register name="8" type="4">
-        <text>Word2Vec.UnknownVector</text>
+        <text>st = [</text>
       </register>
       <register name="9" type="4">
-        <text>True</text>
+        <text>vector_li</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -340,12 +340,12 @@
         <mark key="^" line="70" column="30" />
         <mark key="." line="70" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/ModelFactory.py" timestamp="1469553311757">
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/ModelFactory.py" timestamp="1469555127006">
         <mark key="'" line="25" column="59" />
-        <mark key="[" line="71" column="30" />
-        <mark key="]" line="71" column="30" />
-        <mark key="." line="71" column="30" />
-        <mark key="^" line="75" column="73" />
+        <mark key="[" line="77" column="28" />
+        <mark key="]" line="77" column="43" />
+        <mark key="." line="77" column="43" />
+        <mark key="^" line="77" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" timestamp="1462751032384">
         <mark key="'" line="184" column="35" />
@@ -546,10 +546,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mean_squared_error</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mean_squared_error</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb25zdGFudHNcPg==</text>
@@ -558,31 +558,31 @@
         <text encoding="base64">ICAgICAgICBpZiBub3Qgb3V0cHV0X2xlbmd0aDoKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCdPdXRwdXQgTGVuZ3RoIHJlcXVpcmVkIGZvciBzZXF1ZW5jZSBtb2RlbCcpCiAgICAgICAgd29yZDJ2ZWNfZGltZW5zaW9uID0gaW5wdXRfc2hhcGVbMV0KICAgICAgICBtb2RlbCA9IFNpbXBsZVNlcTJzZXEoaW5wdXRfZGltPXdvcmQydmVjX2RpbWVuc2lvbiwgaGlkZGVuX2RpbT0xMDAsIG91dHB1dF9sZW5ndGg9b3V0cHV0X2xlbmd0aCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3V0cHV0X2RpbT1uYl9jbGFzc2VzKQogICAgICAgIG1vZGVsLmNvbXBpbGUobG9zcz0nbWVhbl9zcXVhcmVkX2Vycm9yJywgb3B0aW1pemVyPSdybXNwcm9wJykKICAgICAgICByZXR1cm4gbW9kZWwK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mean_squared_error</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
-      </register>
-      <register name="3" type="4">
-        <text>cls</text>
-      </register>
-      <register name="4" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="3" type="4">
+        <text>,</text>
+      </register>
+      <register name="4" type="4">
+        <text>cls</text>
+      </register>
       <register name="5" type="4">
-        <text>and verbose</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>classmethod</text>
+        <text>and verbose</text>
       </register>
       <register name="7" type="4">
-        <text>SequenceBitAdvanced</text>
+        <text>classmethod</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">b3V0cHV0X2xlbmd0aD1Ob25lLCA=</text>
+        <text>SequenceBitAdvanced</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dF9sZW5ndGggPSBzZXF1ZW5jZV9wcm9jZXNzb3Iud29yZHNfaW5fc2VudGVuY2UKICAgICAgICBvdXRwdXRfbGVuZ3RoID0gc2VxdWVuY2VfcHJvY2Vzc29yLndvcmRzX2luX3NlbnRlbmNlCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">b3V0cHV0X2xlbmd0aD1Ob25lLCA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -101,12 +101,12 @@
         <mark key="." line="38" column="20" />
         <mark key="^" line="38" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" timestamp="1469508676898">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="61" column="70" />
-        <mark key="]" line="61" column="70" />
-        <mark key="." line="61" column="70" />
-        <mark key="^" line="61" column="70" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" timestamp="1469551608498">
+        <mark key="'" line="65" column="16" />
+        <mark key="[" line="54" column="76" />
+        <mark key="]" line="54" column="97" />
+        <mark key="." line="54" column="97" />
+        <mark key="^" line="54" column="97" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/DataObtainer.py" timestamp="1461255785904">
         <mark key="'" line="44" column="34" />
@@ -238,12 +238,12 @@
         <mark key="^" line="40" column="43" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" timestamp="1469506547631">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="29" column="14" />
-        <mark key="." line="29" column="14" />
-        <mark key="^" line="29" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" timestamp="1469551449189">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="16" column="77" />
+        <mark key="]" line="17" column="35" />
+        <mark key="." line="17" column="35" />
+        <mark key="^" line="17" column="35" />
       </file>
       <file name="/Python Console" timestamp="1469507056165">
         <mark key="[" line="0" column="0" />
@@ -339,12 +339,12 @@
         <mark key="^" line="70" column="30" />
         <mark key="." line="70" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/ModelFactory.py" timestamp="1469501816337">
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/ModelFactory.py" timestamp="1469551777542">
         <mark key="'" line="25" column="59" />
-        <mark key="[" line="25" column="41" />
-        <mark key="]" line="25" column="59" />
-        <mark key="." line="25" column="59" />
-        <mark key="^" line="25" column="59" />
+        <mark key="[" line="75" column="72" />
+        <mark key="]" line="75" column="73" />
+        <mark key="." line="75" column="73" />
+        <mark key="^" line="75" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" timestamp="1462751032384">
         <mark key="'" line="184" column="35" />
@@ -388,11 +388,11 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/EnumsCollection.py" timestamp="1469501692758">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="15" />
-        <mark key="^" line="11" column="15" />
-        <mark key="." line="11" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/EnumsCollection.py" timestamp="1469551724478">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="18" />
       </file>
       <file name="C:/Repos/OctaneMainNoBranchBRZ/FilterGit.py" timestamp="1461370682829">
         <mark key="'" line="43" column="30" />
@@ -442,7 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
       <jump line="52" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
       <jump line="46" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
       <jump line="42" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
@@ -542,46 +541,47 @@
       <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
       <jump line="27" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
       <jump line="25" column="30" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
+      <jump line="65" column="16" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlcmllcy5hcHBlbmQocmVwbHkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3V0cHV0X2xlbmd0aDoKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCdPdXRwdXQgTGVuZ3RoIHJlcXVpcmVkIGZvciBzZXF1ZW5jZSBtb2RlbCcpCiAgICAgICAgd29yZDJ2ZWNfZGltZW5zaW9uID0gaW5wdXRfc2hhcGVbMV0KICAgICAgICBtb2RlbCA9IFNpbXBsZVNlcTJzZXEoaW5wdXRfZGltPXdvcmQydmVjX2RpbWVuc2lvbiwgaGlkZGVuX2RpbT0xMDAsIG91dHB1dF9sZW5ndGg9b3V0cHV0X2xlbmd0aCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3V0cHV0X2RpbT1uYl9jbGFzc2VzKQogICAgICAgIG1vZGVsLmNvbXBpbGUobG9zcz0nbWVhbl9zcXVhcmVkX2Vycm9yJywgb3B0aW1pemVyPSdybXNwcm9wJykKICAgICAgICByZXR1cm4gbW9kZWwK</text>
       </register>
       <register name="-" type="4">
-        <text>get_reply_from_history</text>
+        <text>classmethod</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb25zdGFudHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB4X2luID0gc2VsZi5zZXF1ZW5jZV9wcm9jZXNzb3IubGluZV90b19tYXRyaXgodXNlcl90ZXh0KQogICAgICAgIHJlcGx5X3ZlY3RvciA9IHNlbGYuc2VxdWVuY2VfbW9kZWwucHJlZGljdCh4X2luKQogICAgICAgIHJldHVybiBzZWxmLnNlcXVlbmNlX3Byb2Nlc3Nvci5tYXRyaXhfdG9fbGluZShyZXBseV92ZWN0b3IpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3V0cHV0X2xlbmd0aDoKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCdPdXRwdXQgTGVuZ3RoIHJlcXVpcmVkIGZvciBzZXF1ZW5jZSBtb2RlbCcpCiAgICAgICAgd29yZDJ2ZWNfZGltZW5zaW9uID0gaW5wdXRfc2hhcGVbMV0KICAgICAgICBtb2RlbCA9IFNpbXBsZVNlcTJzZXEoaW5wdXRfZGltPXdvcmQydmVjX2RpbWVuc2lvbiwgaGlkZGVuX2RpbT0xMDAsIG91dHB1dF9sZW5ndGg9b3V0cHV0X2xlbmd0aCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3V0cHV0X2RpbT1uYl9jbGFzc2VzKQogICAgICAgIG1vZGVsLmNvbXBpbGUobG9zcz0nbWVhbl9zcXVhcmVkX2Vycm9yJywgb3B0aW1pemVyPSdybXNwcm9wJykKICAgICAgICByZXR1cm4gbW9kZWwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlcmllcy5hcHBlbmQocmVwbHkpCg==</text>
+      <register name="1" type="4">
+        <text>classmethod</text>
       </register>
       <register name="2" type="4">
-        <text>get_reply_from_history</text>
+        <text>SequenceBitAdvanced</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXBseV92ZWN0b3Iuc2hhcGUpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">b3V0cHV0X2xlbmd0aD1Ob25lLCA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXBseV92ZWN0b3Iuc2hhcGUgaXMgbm90ICgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dF9sZW5ndGggPSBzZXF1ZW5jZV9wcm9jZXNzb3Iud29yZHNfaW5fc2VudGVuY2UKICAgICAgICBvdXRwdXRfbGVuZ3RoID0gc2VxdWVuY2VfcHJvY2Vzc29yLndvcmRzX2luX3NlbnRlbmNlCg==</text>
       </register>
       <register name="5" type="4">
-        <text>[</text>
+        <text encoding="base64">IG1vZGVsX2ZpbGVfbmFtZQ==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">eF9pbiA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBtb2RlbF9maWxlX25hbWUgYW5kIG9zLnBhdGguaXNmaWxlKG1vZGVsX2ZpbGVfbmFtZSk6CiAgICAgICAgICAgIHNlbGYuc2VxdWVuY2VfbW9kZWwgPSBTZXF1ZW5jZU1vZGVsLmxvYWQobW9kZWxfZmlsZV9uYW1lKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYuc2VxdWVuY2VfbW9kZWwgPSBTZXF1ZW5jZU1vZGVsKHZlY3Rvcl9kaW1lbnNpb249Q29uc3RhbnRzLldvcmQyVmVjQ29uc3RhbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlucHV0X2xlbmd0aD1pbnB1dF9sZW5ndGgsIG91dHB1dF9sZW5ndGg9b3V0cHV0X2xlbmd0aCkK</text>
       </register>
-      <register name="7" type="4">
-        <text>query</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcmllcy5hcHBlbmQocmVwbHkpCg==</text>
       </register>
       <register name="8" type="4">
-        <text>get_reply_for_single_query</text>
+        <text>get_reply_from_history</text>
       </register>
-      <register name="9" type="4">
-        <text>tp.get_reply_for_single_query(query</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChyZXBseV92ZWN0b3Iuc2hhcGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

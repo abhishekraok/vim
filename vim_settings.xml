@@ -38,12 +38,11 @@
         <mark key="." line="49" column="46" />
         <mark key="^" line="49" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/SequenceProcessor.py" timestamp="1469506568896">
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/SequenceProcessor.py" timestamp="1469507944263">
         <mark key="'" line="4" column="22" />
-        <mark key="[" line="44" column="101" />
-        <mark key="]" line="44" column="91" />
-        <mark key="." line="44" column="91" />
-        <mark key="^" line="44" column="91" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1469491140252">
         <mark key="[" line="0" column="0" />
@@ -95,19 +94,19 @@
         <mark key="." line="50" column="40" />
         <mark key="^" line="50" column="40" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/Word2Vec.py" timestamp="1469503173170">
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/Word2Vec.py" timestamp="1469507469325">
         <mark key="'" line="38" column="20" />
         <mark key="[" line="38" column="17" />
         <mark key="]" line="38" column="20" />
         <mark key="." line="38" column="20" />
         <mark key="^" line="38" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" timestamp="1469505967091">
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" timestamp="1469508676898">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="63" column="26" />
-        <mark key="]" line="63" column="26" />
-        <mark key="." line="63" column="26" />
-        <mark key="^" line="63" column="26" />
+        <mark key="[" line="61" column="70" />
+        <mark key="]" line="61" column="70" />
+        <mark key="." line="61" column="70" />
+        <mark key="^" line="61" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/DataObtainer.py" timestamp="1461255785904">
         <mark key="'" line="44" column="34" />
@@ -246,7 +245,7 @@
         <mark key="." line="29" column="14" />
         <mark key="^" line="29" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1469504497329">
+      <file name="/Python Console" timestamp="1469507056165">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1469388686556">
@@ -421,11 +420,12 @@
         <mark key="." line="29" column="23" />
         <mark key="^" line="29" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" timestamp="1469506104144">
+      <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" timestamp="1469508170969">
         <mark key="'" line="14" column="30" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
+        <mark key="[" line="23" column="66" />
+        <mark key="]" line="23" column="71" />
+        <mark key="^" line="23" column="71" />
+        <mark key="." line="23" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Pop.py" timestamp="1462750953568">
         <mark key="[" line="139" column="15" />
@@ -544,11 +544,11 @@
       <jump line="25" column="30" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcmllcy5hcHBlbmQocmVwbHkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>get_reply_from_history</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb25zdGFudHNcPg==</text>
@@ -556,32 +556,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB4X2luID0gc2VsZi5zZXF1ZW5jZV9wcm9jZXNzb3IubGluZV90b19tYXRyaXgodXNlcl90ZXh0KQogICAgICAgIHJlcGx5X3ZlY3RvciA9IHNlbGYuc2VxdWVuY2VfbW9kZWwucHJlZGljdCh4X2luKQogICAgICAgIHJldHVybiBzZWxmLnNlcXVlbmNlX3Byb2Nlc3Nvci5tYXRyaXhfdG9fbGluZShyZXBseV92ZWN0b3IpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>[</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcmllcy5hcHBlbmQocmVwbHkpCg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">eF9pbiA=</text>
+        <text>get_reply_from_history</text>
       </register>
-      <register name="3" type="4">
-        <text>query</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChyZXBseV92ZWN0b3Iuc2hhcGUpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>get_reply_for_single_query</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiByZXBseV92ZWN0b3Iuc2hhcGUgaXMgbm90ICgpCg==</text>
       </register>
       <register name="5" type="4">
-        <text>tp.get_reply_for_single_query(query</text>
+        <text>[</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1lvdTonLHF1ZXJ5KQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">eF9pbiA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnZlcnNhdGlvbiA9IFtdCg==</text>
+      <register name="7" type="4">
+        <text>query</text>
       </register>
       <register name="8" type="4">
-        <text>x_in</text>
+        <text>get_reply_for_single_query</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>tp.get_reply_for_single_query(query</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

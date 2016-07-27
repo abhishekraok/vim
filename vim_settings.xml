@@ -17,7 +17,7 @@
         <mark key="." line="158" column="49" />
         <mark key="^" line="158" column="49" />
       </file>
-      <file name="/Python Console" timestamp="1469580576346">
+      <file name="/Python Console" timestamp="1469658053926">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1469569208195">
@@ -217,11 +217,11 @@
         <mark key="." line="103" column="7" />
         <mark key="^" line="103" column="7" />
       </file>
-      <file name="D:/repos/Socrates/src/TextPredictor.py" timestamp="1469582010984">
-        <mark key="[" line="34" column="59" />
-        <mark key="]" line="34" column="58" />
-        <mark key="." line="34" column="58" />
-        <mark key="^" line="34" column="58" />
+      <file name="D:/repos/Socrates/src/TextPredictor.py" timestamp="1469658045260">
+        <mark key="[" line="33" column="51" />
+        <mark key="]" line="33" column="68" />
+        <mark key="." line="33" column="68" />
+        <mark key="^" line="33" column="68" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" timestamp="1469381532846">
         <mark key="'" line="15" column="0" />
@@ -255,12 +255,12 @@
         <mark key="." line="139" column="20" />
         <mark key="^" line="139" column="20" />
       </file>
-      <file name="D:/repos/Socrates/src/Trainer.py" timestamp="1469656268023">
+      <file name="D:/repos/Socrates/src/Trainer.py" timestamp="1469657999205">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="152" column="62" />
-        <mark key="]" line="152" column="78" />
-        <mark key="^" line="152" column="78" />
-        <mark key="." line="152" column="78" />
+        <mark key="]" line="152" column="71" />
+        <mark key="^" line="152" column="71" />
+        <mark key="." line="152" column="71" />
       </file>
     </filemarks>
     <jumps>
@@ -367,10 +367,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Sequence100Hidden</text>
+        <text>dummy_model</text>
       </register>
       <register name="-" type="4">
-        <text>Sequence100Hidden</text>
+        <text>dummy_model</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfc2luZ2xlX2xheWVyX0xTVE1cPg==</text>

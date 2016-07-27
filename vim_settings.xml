@@ -180,12 +180,12 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="D:/repos/Socrates/src/SequenceModel.py" timestamp="1469584785381">
-        <mark key="'" line="48" column="40" />
-        <mark key="[" line="46" column="8" />
-        <mark key="]" line="46" column="21" />
-        <mark key="^" line="46" column="21" />
-        <mark key="." line="46" column="21" />
+      <file name="D:/repos/Socrates/src/SequenceModel.py" timestamp="1469637532124">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="57" column="22" />
+        <mark key="]" line="57" column="51" />
+        <mark key="^" line="57" column="51" />
+        <mark key="." line="57" column="51" />
       </file>
       <file name="D:/repos/winexperiment - Copy - Copy - Copy/pyrun.py" timestamp="1461967822507">
         <mark key="[" line="2" column="92" />
@@ -247,17 +247,15 @@
         <mark key="." line="139" column="20" />
         <mark key="^" line="139" column="20" />
       </file>
-      <file name="D:/repos/Socrates/src/Trainer.py" timestamp="1469588933139">
+      <file name="D:/repos/Socrates/src/Trainer.py" timestamp="1469637299559">
         <mark key="'" line="64" column="0" />
-        <mark key="[" line="94" column="96" />
-        <mark key="]" line="94" column="105" />
-        <mark key="^" line="94" column="105" />
-        <mark key="." line="94" column="105" />
+        <mark key="[" line="91" column="7" />
+        <mark key="]" line="91" column="20" />
+        <mark key="." line="91" column="20" />
+        <mark key="^" line="91" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="20" filename="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" />
-      <jump line="23" column="52" filename="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" />
       <jump line="13" column="36" filename="$USER_HOME$/PycharmProjects/Socrates/src/Word2Vec.py" />
       <jump line="144" column="7" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
       <jump line="133" column="28" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
@@ -356,46 +354,48 @@
       <jump line="82" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="64" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="74" column="8" filename="D:/repos/Socrates/src/ModelFactory.py" />
+      <jump line="72" column="10" filename="D:/repos/Socrates/src/SequenceModel.py" />
+      <jump line="3" column="0" filename="D:/repos/Socrates/src/SequenceModel.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Sequence100Hidden</text>
+        <text>file_name</text>
       </register>
       <register name="-" type="4">
-        <text>Sequence100Hidden</text>
+        <text>file_name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfMWtfc2VxdWVuY2VfbW9kZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHRyYWluX21vdmllKCk6CiAgICBjb252ZXJzYXRpb25fZmlsZSA9ICcuLi9kYXRhL21vdmllX2xpbmVzX2NsZWFuZWRfMTBrLnR4dCcKICAgIGxpbmVzID0gQ29udmVyc2F0aW9uTG9hZGVyLmxvYWRfY29udmVyc2F0aW9uX2ZpbGUoY29udmVyc2F0aW9uX2ZpbGUsIHJldmVyc2U9RmFsc2UpCiAgICBtb2RlbF9maWxlX25hbWUgPSAnLi4vbW9kZWxzL21vdmllX2xpbmVzXzEwa19sc3RtMWtfMmxheWVyJwogICAgdzJ2ID0gV29yZDJWZWMoKQogICAgc3AgPSBTZXF1ZW5jZVByb2Nlc3Nvcih3b3JkMlZlYz13MnYsIHdvcmRzX2luX3NlbnRlbmNlPTQwKQogICAgaWYgb3MucGF0aC5pc2ZpbGUobW9kZWxfZmlsZV9uYW1lKToKICAgICAgICBtb2RlbCA9IFNlcXVlbmNlTW9kZWwubG9hZChtb2RlbF9maWxlX25hbWUpCiAgICBlbHNlOgogICAgICAgIG1vZGVsID0gU2VxdWVuY2VNb2RlbChDb25zdGFudHMuV29yZDJWZWNDb25zdGFudCwgaW5wdXRfbGVuZ3RoPTQwLCBtb2RlbF90eXBlPU1vZGVsVHlwZS5TZXFMYXllcjJEaW0xaykKICAgIHRyYWluZXIgPSBUcmFpbmVyKG1vZGVsX2ZpbGVfbmFtZT1tb2RlbF9maWxlX25hbWUsIHNlcXVlbmNlX3Byb2Nlc3Nvcj1zcCwgc2VxdWVuY2VfbW9kZWw9bW9kZWwpCiAgICB0cCA9IFRleHRQcmVkaWN0b3IobW9kZWw9dHJhaW5lci5zZXF1ZW5jZV9tb2RlbCwgc2VxdWVuY2VfcHJvY2Vzc29yPXNwKQogICAgZm9yIGkgaW4gcmFuZ2UoNTAwKToKICAgICAgICB0cmFpbmVyLnRyYWluX29uX2NvbnZlcnNhdGlvbihjb252ZXJzYXRpb249bGluZXMsIGVwb2Nocz0xKQogICAgICAgIHF1ZXJpZXMgPSBbJ3dobyBhcmUgeW91JywgJ2hvdyBhcmUgeW91JywgJ3doYXQgZG8geW91IHdhbnQnXQogICAgICAgIGZvciBxdWVyeSBpbiBxdWVyaWVzOgogICAgICAgICAgICBwcmludCgnWW91OicsIHF1ZXJ5KQogICAgICAgICAgICByZXBseSA9IHRwLmdldF9yZXBseV9mb3Jfc2luZ2xlX3F1ZXJ5KHF1ZXJ5KQogICAgICAgICAgICBwcmludCgnQm90OicsIHJlcGx5KQo=</text>
+        <text encoding="base64">ICAgICAgICBqc29uX2ZpbGVfbmFtZSwgaDVfZmlsZV9uYW1lID0gVHBNb2RlbC5nZXRfZnVsbF9maWxlX25hbWVzKGZpbGVfbmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2R1bW15KCkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyYWluX21vdmllKCkK</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHRyYWluX2R1bW15KCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRyYWluX21vdmllKCkK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAjIGRlZiB0ZXN0X3dvcmRzX3RvX251bXMoc2VsZik6CiAgICAgICAgIyAgICAgd29yZHNfbGlzdCA9IFsnYWhhJywgJ2JhdCcsICdjYXQnLCAnYWhhJ10KICAgICAgICAjICAgICBudW1zLCB2b2NhYiA9IHRleHRfcHJlcHJvY2Vzc2luZy53b3Jkc190b19udW1iZXJzKHdvcmRzX2xpc3QpCiAgICAgICAgIyAgICAgc2VsZi5hc3NlcnRFcXVhbChbMCwgMSwgMiwgMF0sIG51bXMpCiAgICAgICAgIwogICAgICAgICMgZGVmIHRlc3RfbnVtc190b193b3JkcyhzZWxmKToKICAgICAgICAjICAgICB3b3Jkc19saXN0ID0gWydhaGEnLCAnYmF0JywgJ2NhdCcsICdhaGEnXQogICAgICAgICMgICAgIG51bXMsIHZvY2FiID0gdGV4dF9wcmVwcm9jZXNzaW5nLndvcmRzX3RvX251bWJlcnMod29yZHNfbGlzdCkKICAgICAgICAjICAgICBkZWNvZGVkX3dvcmRzID0gdGV4dF9wcmVwcm9jZXNzaW5nLm51bWJlcnNfdG9fd29yZHMobnVtcywgdm9jYWIpCiAgICAgICAgIyAgICAgc2VsZi5hc3NlcnRFcXVhbChkZWNvZGVkX3dvcmRzLCB3b3Jkc19saXN0KQoKCiMgY2xhc3MgVGVzdFRleHQoVGVzdENhc2UpOgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>0</text>
-      </register>
-      <register name="5" type="4">
-        <text>0</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="4">
         <text>0</text>
       </register>
-      <register name="8" type="4">
-        <text>)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="4">
-        <text>self.vectorizer.get_top_word(i) for i in matrix if i is not ''</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

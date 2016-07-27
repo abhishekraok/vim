@@ -39,12 +39,12 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="D:/repos/Socrates/src/ModelFactory.py" timestamp="1469587518381">
-        <mark key="'" line="74" column="8" />
-        <mark key="[" line="74" column="13" />
-        <mark key="]" line="74" column="13" />
-        <mark key="." line="74" column="13" />
-        <mark key="^" line="90" column="45" />
+      <file name="D:/repos/Socrates/src/ModelFactory.py" timestamp="1469644737619">
+        <mark key="'" line="86" column="16" />
+        <mark key="[" line="72" column="13" />
+        <mark key="]" line="72" column="13" />
+        <mark key="." line="72" column="13" />
+        <mark key="^" line="88" column="45" />
       </file>
       <file name="D:/Github/EducationBot/Brain.py" timestamp="1463631666426">
         <mark key="[" line="20" column="88" />
@@ -247,54 +247,15 @@
         <mark key="." line="139" column="20" />
         <mark key="^" line="139" column="20" />
       </file>
-      <file name="D:/repos/Socrates/src/Trainer.py" timestamp="1469637299559">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="91" column="7" />
-        <mark key="]" line="91" column="20" />
-        <mark key="." line="91" column="20" />
-        <mark key="^" line="91" column="20" />
+      <file name="D:/repos/Socrates/src/Trainer.py" timestamp="1469644836420">
+        <mark key="'" line="68" column="17" />
+        <mark key="[" line="102" column="7" />
+        <mark key="]" line="102" column="20" />
+        <mark key="." line="102" column="20" />
+        <mark key="^" line="102" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="36" filename="$USER_HOME$/PycharmProjects/Socrates/src/Word2Vec.py" />
-      <jump line="144" column="7" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
-      <jump line="133" column="28" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
-      <jump line="48" column="40" filename="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/Word2Vec.py" />
-      <jump line="150" column="8" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
-      <jump line="141" column="14" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
-      <jump line="149" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
-      <jump line="51" column="23" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
-      <jump line="5" column="29" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
-      <jump line="35" column="59" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
-      <jump line="14" column="33" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
-      <jump line="44" column="4" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
-      <jump line="30" column="63" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceProcessor.py" />
-      <jump line="4" column="22" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceProcessor.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/ModelFactory.py" />
-      <jump line="57" column="71" filename="$USER_HOME$/PycharmProjects/Socrates/src/ModelFactory.py" />
-      <jump line="25" column="59" filename="$USER_HOME$/PycharmProjects/Socrates/src/ModelFactory.py" />
-      <jump line="155" column="50" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
-      <jump line="14" column="22" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
-      <jump line="127" column="26" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
-      <jump line="138" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
-      <jump line="42" column="33" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
-      <jump line="33" column="10" filename="$USER_HOME$/PycharmProjects/Socrates/src/Word2Vec.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/Word2Vec.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/Word2Vec.py" />
-      <jump line="38" column="20" filename="$USER_HOME$/PycharmProjects/Socrates/src/Word2Vec.py" />
-      <jump line="158" column="49" filename="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" />
-      <jump line="49" column="17" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
-      <jump line="34" column="11" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
-      <jump line="22" column="34" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
-      <jump line="43" column="33" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
-      <jump line="40" column="32" filename="$USER_HOME$/PycharmProjects/Socrates/src/Trainer.py" />
       <jump line="28" column="3" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="5" column="5" filename="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" />
       <jump line="7" column="36" filename="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" />
@@ -351,60 +312,99 @@
       <jump line="45" column="8" filename="D:/repos/Socrates/src/SequenceModel.py" />
       <jump line="46" column="8" filename="D:/repos/Socrates/src/SequenceModel.py" />
       <jump line="48" column="40" filename="D:/repos/Socrates/src/SequenceModel.py" />
-      <jump line="82" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="64" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="74" column="8" filename="D:/repos/Socrates/src/ModelFactory.py" />
       <jump line="72" column="10" filename="D:/repos/Socrates/src/SequenceModel.py" />
       <jump line="3" column="0" filename="D:/repos/Socrates/src/SequenceModel.py" />
+      <jump line="85" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="54" column="52" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="81" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="79" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="11" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="20" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="26" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="29" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="35" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="39" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="48" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="55" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="120" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="146" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="174" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="177" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="175" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="147" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="56" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="82" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="99" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="139" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="121" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="100" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="83" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="92" column="19" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="102" column="5" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="95" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="86" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="60" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="90" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="94" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="115" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="141" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="169" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="172" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="170" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="6" column="0" filename="D:/repos/Socrates/src/ModelFactory.py" />
+      <jump line="86" column="16" filename="D:/repos/Socrates/src/ModelFactory.py" />
+      <jump line="68" column="17" filename="D:/repos/Socrates/src/Trainer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>file_name</text>
+        <text>os.path.</text>
       </register>
       <register name="-" type="4">
-        <text>file_name</text>
+        <text>os.path.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfMWtfc2VxdWVuY2VfbW9kZWxcPg==</text>
+        <text>os.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uX2ZpbGVfbmFtZSwgaDVfZmlsZV9uYW1lID0gVHBNb2RlbC5nZXRfZnVsbF9maWxlX25hbWVzKGZpbGVfbmFtZSkK</text>
+        <text encoding="base64">ICAgIHBhcmFtcyA9IFRyYWluUGFyYW1ldGVycyhjb252ZXJzYXRpb25fZmlsZT1jb252ZXJzYXRpb25fZmlsZSwgbW9kZWxfZmlsZV9uYW1lPW1vZGVsX2ZpbGVfbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBxdWVyaWVzPVsnd2hvIGFyZSB5b3UnLCAnd2hhdCBkbyB5b3UgZG8nLCAnd2hhdCBjYW4geW91IHRlYWNoJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXBvY2hzPTEwMCwgbW9kZWxfdHlwZT1Nb2RlbFR5cGUuU2VxdWVuY2UsIHNlbnRlbmNlX2xlbmd0aD0xMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGxpbmVzID0gQ29udmVyc2F0aW9uTG9hZGVyLmxvYWRfY29udmVyc2F0aW9uX2ZpbGUoY29udmVyc2F0aW9uX2ZpbGUsIHJldmVyc2U9RmFsc2UpCiAgICB3MnYgPSBXb3JkMlZlYygpCiAgICBzcCA9IFNlcXVlbmNlUHJvY2Vzc29yKHdvcmQyVmVjPXcydiwgd29yZHNfaW5fc2VudGVuY2U9c2VudGVuY2VfbGVuZ3RoKQogICAgaWYgU2VxdWVuY2VNb2RlbC5pc2ZpbGUobW9kZWxfZmlsZV9uYW1lKToKICAgICAgICBtb2RlbCA9IFNlcXVlbmNlTW9kZWwubG9hZChtb2RlbF9maWxlX25hbWUpCiAgICBlbHNlOgogICAgICAgIHByaW50KCdEaWQgbm90IGZpbmQgYSBwcmV2aW91cyBtb2RlbCBmaWxlJykKICAgICAgICBtb2RlbCA9IFNlcXVlbmNlTW9kZWwoQ29uc3RhbnRzLldvcmQyVmVjQ29uc3RhbnQsIGlucHV0X2xlbmd0aD1zZW50ZW5jZV9sZW5ndGgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZGVsX3R5cGU9TW9kZWxUeXBlLlNlcXVlbmNlMTAwSGlkZGVuKQogICAgdHJhaW5lciA9IFRyYWluZXIobW9kZWxfZmlsZV9uYW1lPW1vZGVsX2ZpbGVfbmFtZSwgc2VxdWVuY2VfcHJvY2Vzc29yPXNwLCBzZXF1ZW5jZV9tb2RlbD1tb2RlbCkKICAgIHRwID0gVGV4dFByZWRpY3Rvcihtb2RlbD10cmFpbmVyLnNlcXVlbmNlX21vZGVsLCBzZXF1ZW5jZV9wcm9jZXNzb3I9c3ApCiAgICBmb3IgaSBpbiByYW5nZSg1MCk6CiAgICAgICAgdHJhaW5lci50cmFpbl9vbl9jb252ZXJzYXRpb24oY29udmVyc2F0aW9uPWxpbmVzLCBlcG9jaHM9MTApCiAgICAgICAgdHJ5OgogICAgICAgICAgICBmb3IgcXVlcnkgaW4gcXVlcmllczoKICAgICAgICAgICAgICAgIHByaW50KCdZb3U6JywgcXVlcnkpCiAgICAgICAgICAgICAgICByZXBseSA9IHRwLmdldF9yZXBseV9mb3Jfc2luZ2xlX3F1ZXJ5KHF1ZXJ5KQogICAgICAgICAgICAgICAgcHJpbnQoJ0JvdDonLCByZXBseSkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICBwcmludCgnR290IHNvbWUgZXhjZXB0aW9uJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICAgIHBhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2R1bW15KCkK</text>
+        <text encoding="base64">ICAgIHNlbnRlbmNlX2xlbmd0aCA9IDIwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyYWluX21vdmllKCkK</text>
+        <text encoding="base64">ICAgIGxpbmVzID0gQ29udmVyc2F0aW9uTG9hZGVyLmxvYWRfY29udmVyc2F0aW9uX2ZpbGUoY29udmVyc2F0aW9uX2ZpbGUsIHJldmVyc2U9RmFsc2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRlZiB0ZXN0X3dvcmRzX3RvX251bXMoc2VsZik6CiAgICAgICAgIyAgICAgd29yZHNfbGlzdCA9IFsnYWhhJywgJ2JhdCcsICdjYXQnLCAnYWhhJ10KICAgICAgICAjICAgICBudW1zLCB2b2NhYiA9IHRleHRfcHJlcHJvY2Vzc2luZy53b3Jkc190b19udW1iZXJzKHdvcmRzX2xpc3QpCiAgICAgICAgIyAgICAgc2VsZi5hc3NlcnRFcXVhbChbMCwgMSwgMiwgMF0sIG51bXMpCiAgICAgICAgIwogICAgICAgICMgZGVmIHRlc3RfbnVtc190b193b3JkcyhzZWxmKToKICAgICAgICAjICAgICB3b3Jkc19saXN0ID0gWydhaGEnLCAnYmF0JywgJ2NhdCcsICdhaGEnXQogICAgICAgICMgICAgIG51bXMsIHZvY2FiID0gdGV4dF9wcmVwcm9jZXNzaW5nLndvcmRzX3RvX251bWJlcnMod29yZHNfbGlzdCkKICAgICAgICAjICAgICBkZWNvZGVkX3dvcmRzID0gdGV4dF9wcmVwcm9jZXNzaW5nLm51bWJlcnNfdG9fd29yZHMobnVtcywgdm9jYWIpCiAgICAgICAgIyAgICAgc2VsZi5hc3NlcnRFcXVhbChkZWNvZGVkX3dvcmRzLCB3b3Jkc19saXN0KQoKCiMgY2xhc3MgVGVzdFRleHQoVGVzdENhc2UpOgo=</text>
+        <text encoding="base64">ICAgICAgICBxdWVyaWVzID0gWyd3aG8gYXJlIHlvdScsICd3aGF0IGlzIHRoZSBjYXBpdGFsIG9mIGphcGFuJywKICAgICAgICAgICAgICAgICAgICdkbyB5b3Ugd2FudCBtaWxrJ10K</text>
       </register>
-      <register name="6" type="4">
-        <text>0</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHcydiA9IFdvcmQyVmVjKCkKICAgIHNwID0gU2VxdWVuY2VQcm9jZXNzb3Iod29yZDJWZWM9dzJ2LCB3b3Jkc19pbl9zZW50ZW5jZT0xMCkKICAgIG1vZGVsID0gU2VxdWVuY2VNb2RlbChDb25zdGFudHMuV29yZDJWZWNDb25zdGFudCwgaW5wdXRfbGVuZ3RoPTEwLCBtb2RlbF90eXBlPU1vZGVsVHlwZS5TZXF1ZW5jZSkKICAgIHRyYWluZXIgPSBUcmFpbmVyKG1vZGVsX2ZpbGVfbmFtZT1tb2RlbF9maWxlX25hbWUsIHNlcXVlbmNlX3Byb2Nlc3Nvcj1zcCwgc2VxdWVuY2VfbW9kZWw9bW9kZWwpCiAgICB0cCA9IFRleHRQcmVkaWN0b3IobW9kZWw9dHJhaW5lci5zZXF1ZW5jZV9tb2RlbCwgc2VxdWVuY2VfcHJvY2Vzc29yPXNwKQogICAgZm9yIGkgaW4gcmFuZ2UoMTApOgogICAgICAgIHRyYWluZXIudHJhaW5fb25fY29udmVyc2F0aW9uX2ZpbGUoY29udmVyc2F0aW9uX2ZpbGUsIGVwb2Nocz0xMDApCiAgICAgICAgcXVlcmllcyA9IAogICAgICAgIGZvciBxdWVyeSBpbiBxdWVyaWVzOgogICAgICAgICAgICBwcmludCgnWW91OicsIHF1ZXJ5KQogICAgICAgICAgICByZXBseSA9IHRwLmdldF9yZXBseV9mb3Jfc2luZ2xlX3F1ZXJ5KHF1ZXJ5KQogICAgICAgICAgICBwcmludCgnQm90OicsIHJlcGx5KQoK</text>
       </register>
-      <register name="7" type="4">
-        <text>0</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHBhcmFtcyA9IFRyYWluUGFyYW1ldGVycygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcXVlcnkgaW4gcXVlcmllczoKICAgICAgICAgICAgcHJpbnQoJ1lvdTonLCBxdWVyeSkKICAgICAgICAgICAgcmVwbHkgPSB0cC5nZXRfcmVwbHlfZm9yX3NpbmdsZV9xdWVyeShxdWVyeSkKICAgICAgICAgICAgcHJpbnQoJ0JvdDonLCByZXBseSkK</text>
       </register>
-      <register name="9" type="4">
-        <text>0</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIFRyYWluaW5nIGZ1bmN0aW9uIHRoYXQgdHJhaW5zIGJhcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfMWtfc2VxdWVuY2VfbW9kZWxcPg==</last-search>
+      <last-search>os.</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfMWtfc2VxdWVuY2VfbW9kZWxcPg==</last-pattern>
+      <last-pattern>os.</last-pattern>
       <last-replace>3</last-replace>
       <last-substitute>2</last-substitute>
       <last-dir>1</last-dir>
@@ -412,8 +412,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxudW1iZXJzX3RvX3RlbnNvclw+</entry>
-        <entry encoding="base64">XDxjYXRlZ29yaWNhbF9jcm9zc2VudHJvcHlcPg==</entry>
         <entry encoding="base64">XDxUcE1vZGVsXD4=</entry>
         <entry encoding="base64">XDxzZXF1ZW5jZV9wcm9jZXNzb3JcPg==</entry>
         <entry encoding="base64">XDxpbnB1dF9sZW5ndGhcPg==</entry>
@@ -432,6 +430,8 @@
         <entry encoding="base64">XDxvc1w+</entry>
         <entry encoding="base64">XDxqc29uX3N0cmluZ1w+</entry>
         <entry encoding="base64">XDxnZXRfMWtfc2VxdWVuY2VfbW9kZWxcPg==</entry>
+        <entry encoding="base64">XDxTaW1wbGVTZXEyc2VxXD4=</entry>
+        <entry>os.</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>

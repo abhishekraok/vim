@@ -217,11 +217,11 @@
         <mark key="." line="103" column="7" />
         <mark key="^" line="103" column="7" />
       </file>
-      <file name="D:/repos/Socrates/src/TextPredictor.py" timestamp="1469658045260">
-        <mark key="[" line="33" column="51" />
-        <mark key="]" line="33" column="68" />
-        <mark key="." line="33" column="68" />
-        <mark key="^" line="33" column="68" />
+      <file name="D:/repos/Socrates/src/TextPredictor.py" timestamp="1469670439140">
+        <mark key="[" line="38" column="23" />
+        <mark key="]" line="38" column="23" />
+        <mark key="." line="38" column="23" />
+        <mark key="^" line="33" column="62" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" timestamp="1469381532846">
         <mark key="'" line="15" column="0" />
@@ -367,10 +367,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>train_child_talk</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>train_child_talk</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfc2luZ2xlX2xheWVyX0xTVE1cPg==</text>

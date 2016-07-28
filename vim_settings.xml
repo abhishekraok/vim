@@ -255,18 +255,15 @@
         <mark key="." line="139" column="20" />
         <mark key="^" line="139" column="20" />
       </file>
-      <file name="D:/repos/Socrates/src/Trainer.py" timestamp="1469657999205">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="152" column="62" />
-        <mark key="]" line="152" column="71" />
-        <mark key="^" line="152" column="71" />
-        <mark key="." line="152" column="71" />
+      <file name="D:/repos/Socrates/src/Trainer.py" timestamp="1469668499863">
+        <mark key="'" line="75" column="26" />
+        <mark key="[" line="177" column="4" />
+        <mark key="]" line="177" column="19" />
+        <mark key="^" line="177" column="19" />
+        <mark key="." line="177" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="12" filename="C:/Anaconda/Lib/site-packages/keras/models.py" />
-      <jump line="320" column="18" filename="C:/Anaconda/Lib/site-packages/keras/models.py" />
-      <jump line="8" column="0" filename="D:/repos/Socrates/src/ModelFactory.py" />
       <jump line="79" column="0" filename="D:/repos/Socrates/src/ModelFactory.py" />
       <jump line="69" column="0" filename="D:/repos/Socrates/src/ModelFactory.py" />
       <jump line="59" column="0" filename="D:/repos/Socrates/src/ModelFactory.py" />
@@ -347,7 +344,6 @@
       <jump line="38" column="8" filename="D:/repos/Socrates/src/ModelFactory.py" />
       <jump line="57" column="4" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="26" column="32" filename="D:/repos/Socrates/src/ModelFactory.py" />
-      <jump line="16" column="21" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="163" column="23" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="155" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="144" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
@@ -363,20 +359,24 @@
       <jump line="154" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="164" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="167" column="4" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="16" column="27" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="0" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="150" column="23" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="156" column="4" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="75" column="26" filename="D:/repos/Socrates/src/Trainer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dummy_model</text>
+        <text>train_child_talk</text>
       </register>
       <register name="-" type="4">
-        <text>dummy_model</text>
+        <text>train_child_talk</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfc2luZ2xlX2xheWVyX0xTVE1cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtb2RlbF90eXBlLnZhbHVlID09IE1vZGVsVHlwZS5TZXF1ZW5jZTEwMEhpZGRlbi52YWx1ZToKICAgICAgICAgICAgcmV0dXJuIE1vZGVsRmFjdG9yeS5nZXRfc2luZ2xlX2xheWVyX0xTVE0oaW5wdXRfc2hhcGU9aW5wdXRfc2hhcGUsIG5iX2NsYXNzZXM9bmJfY2xhc3NlcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3V0cHV0X2xlbmd0aD1vdXRwdXRfbGVuZ3RoLCBoaWRkZW5fdW5pdHM9MTAwKQo=</text>
+        <text encoding="base64">ZGVmIHRyYWluX3Jvd2xpbmcoKToKICAgIGNvbnZlcnNhdGlvbl9maWxlID0gJy4uL2RhdGEvamtyb3dsb3ByYWgudHh0JwogICAgcXVlcmllcyA9IFsnd2hvIGFyZSB5b3UnLCAnVGhhbmsgeW91JywgJ0J1dCB3aGF0IGRvIHlvdSBkbyddCiAgICBtb2RlbF9maWxlX25hbWUgPSAnLi4vbW9kZWxzL2prcm93bF8yMDAnCiAgICBzZW50ZW5jZV9sZW5ndGggPSA0MAogICAgcGFyYW1zID0gVHJhaW5QYXJhbWV0ZXJzKGNvbnZlcnNhdGlvbl9maWxlPWNvbnZlcnNhdGlvbl9maWxlLCBtb2RlbF9maWxlX25hbWU9bW9kZWxfZmlsZV9uYW1lLCBxdWVyaWVzPXF1ZXJpZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXBvY2hzPTEwLCBtb2RlbF90eXBlPU1vZGVsVHlwZS5TZXF1ZW5jZTIwMEhpZGRlbiwgc2VudGVuY2VfbGVuZ3RoPXNlbnRlbmNlX2xlbmd0aCkKICAgIHRyYWluX2Zyb21fcGFyYW1ldGVycyhwYXJhbXMpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRyYWluX3NpbXBsZV9jcmVhdGUoKQo=</text>

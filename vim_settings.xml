@@ -34,11 +34,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/repos/Socrates/src/Socrates.py" timestamp="1469828644314">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="26" />
-        <mark key="^" line="6" column="26" />
-        <mark key="." line="6" column="26" />
+      <file name="D:/repos/Socrates/src/Socrates.py" timestamp="1469829525162">
+        <mark key="'" line="29" column="74" />
+        <mark key="[" line="20" column="109" />
+        <mark key="]" line="22" column="7" />
+        <mark key="^" line="22" column="7" />
+        <mark key="." line="22" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/LSTMModelFitEpoch50.py" timestamp="1469334629999">
         <mark key="[" line="21" column="39" />
@@ -289,18 +290,15 @@
         <mark key="." line="5" column="82" />
         <mark key="^" line="5" column="82" />
       </file>
-      <file name="D:/repos/Socrates/src/Trainer.py" timestamp="1469828626872">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="77" />
-        <mark key="^" line="93" column="24" />
-        <mark key="." line="93" column="24" />
+      <file name="D:/repos/Socrates/src/Trainer.py" timestamp="1469829560708">
+        <mark key="'" line="182" column="4" />
+        <mark key="[" line="91" column="34" />
+        <mark key="]" line="91" column="42" />
+        <mark key="^" line="91" column="42" />
+        <mark key="." line="91" column="42" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
-      <jump line="39" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
-      <jump line="48" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
-      <jump line="55" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="120" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="174" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="177" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
@@ -312,7 +310,6 @@
       <jump line="121" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="100" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="83" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
-      <jump line="92" column="19" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="102" column="5" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="95" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="86" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
@@ -356,7 +353,6 @@
       <jump line="0" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="150" column="23" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="156" column="4" filename="D:/repos/Socrates/src/Trainer.py" />
-      <jump line="75" column="26" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="1" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="176" column="16" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="8" column="29" filename="D:/repos/Socrates/src/Trainer.py" />
@@ -393,50 +389,56 @@
       <jump line="3" column="22" filename="D:/repos/Socrates/src/Socrates.py" />
       <jump line="26" column="8" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="89" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
-      <jump line="57" column="3" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="60" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="79" column="32" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="78" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="92" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="57" column="10" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="59" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="75" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="13" column="74" filename="D:/repos/Socrates/src/Socrates.py" />
+      <jump line="105" column="42" filename="D:/repos/Socrates/src/Trainer.py" />
+      <jump line="182" column="4" filename="D:/repos/Socrates/src/Trainer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>conversation_file, model_file</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>conversation_file, model_file</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyYWluZXIsIHRleHRfcHJlZGljdG9yLCBsaW5lcyA9IFRyYWluZXIuZ2V0X3RyYWluZXJfYW5kX3ByZWRpY3RvcihwYXJhbXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb252ZXJzYXRpb25fZmlsZSA9IHBhcmFtcy5jb252ZXJzYXRpb25fZmlsZQogICAgICAgIGxpbmVzID0gQ29udmVyc2F0aW9uTG9hZGVyLmxvYWRfY29udmVyc2F0aW9uX2ZpbGUoY29udmVyc2F0aW9uX2ZpbGUsIHJldmVyc2U9RmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRyYWluZXIgPSBUcmFpbmVyKG1vZGVsX2ZpbGVfbmFtZT1tb2RlbF9maWxlLCkK</text>
+        <text encoding="base64">ICAgICAgICBjb252ZXJzYXRpb25fZmlsZSA9IHBhcmFtcy5jb252ZXJzYXRpb25fZmlsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHJhaW5fZnJvbV9wYXJhbWV0ZXJzKHBhcmFtcykK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBsaW5lcyA9IENvbnZlcnNhdGlvbkxvYWRlci5sb2FkX2NvbnZlcnNhdGlvbl9maWxlKGNvbnZlcnNhdGlvbl9maWxlLCByZXZlcnNlPUZhbHNlKQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb252ZXJzYXRpb25fZmlsZSA9IHBhcmFtcy5jb252ZXJzYXRpb25fZmlsZQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFpbihsaW5lcywgcGFyYW1zLCB0cCwgdHJhaW5lcikK</text>
+        <text encoding="base64">ICAgICAgICBsaW5lcyA9IENvbnZlcnNhdGlvbkxvYWRlci5sb2FkX2NvbnZlcnNhdGlvbl9maWxlKGNvbnZlcnNhdGlvbl9maWxlLCByZXZlcnNlPUZhbHNlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNlcXVlbmNlTW9kZWwuZG93bmxvYWRfZnJvbV9jbG91ZChwcmVfdHJhaW5lZF9tb2RlbCwganNvbl91cmwsIGg1X3VybCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGg1X3VybCA9ICJodHRwczovLzFkcnYubXMvdS9zIUFpemtBX1Bvb0JYU2t1VTFDRjA5UzZFSWJXMU5HdyIKICAgIGpzb25fdXJsID0gImh0dHBzOi8vMWRydi5tcy91L3MhQWl6a0FfUG9vQlhTa3VVMEdJX0VzM1lVNnBqUkFBIgo=</text>
+        <text encoding="base64">ICAgICAgICBUcmFpbnMgYmFzZWQgb24gcGFyYW1zIGZvciA1MDAgZXBvY2hzIGluIHRvdGFsLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGg1X3VybCA9ICJodHRwczovLzFkcnYubXMvdS9zIUFpemtBX1Bvb0JYU2t1VTFDRjA5UzZFSWJXMU5HdyIK</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBUcmFpbnMgYmFzZWQgb24gcGFyYW1zIGZvciA1MDAgZXBvY2hzIGluIHRvdGFsLgoKICAgICAgICA6dHlwZSBwYXJhbXM6IFRyYWluUGFyYW1ldGVycwogICAgICAgICIiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhdGggPSBnZXRfZmlsZSgnbmlldHpzY2hlLnR4dCcsIG9yaWdpbj1oNV91cmwpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRyYWluZXIgPSBUcmFpbmVyKG1vZGVsX2ZpbGVfbmFtZT1tb2RlbF9maWxlLCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhdGggPSBnZXRfZmlsZSgnbmlldHpzY2hlLnR4dCcsIG9yaWdpbj0iaHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaXprQV9Qb29CWFNrdVUxQ0YwOVM2RUliVzFOR3ciKQo=</text>
+        <text encoding="base64">dHJhaW5fZnJvbV9wYXJhbWV0ZXJzKHBhcmFtcykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

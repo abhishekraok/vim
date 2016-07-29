@@ -68,17 +68,11 @@
         <mark key="^" line="20" column="51" />
         <mark key="." line="20" column="51" />
       </file>
-      <file name="C:/Anaconda/Lib/site-packages/keras/models.py" timestamp="1469571946469">
-        <mark key="'" line="320" column="18" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/test_word_predictor.py" timestamp="1461343626625">
         <mark key="[" line="17" column="8" />
         <mark key="]" line="17" column="12" />
         <mark key="^" line="17" column="12" />
         <mark key="." line="17" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/keras/examples/pretrained_word_embeddings.py" timestamp="1469250175410">
-        <mark key="'" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/Word2Vec.py" timestamp="1469567957389">
         <mark key="'" line="22" column="31" />
@@ -93,9 +87,6 @@
         <mark key="]" line="62" column="105" />
         <mark key="." line="62" column="105" />
         <mark key="^" line="62" column="105" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/keras/examples/inception_v3.py" timestamp="1469297156631">
-        <mark key="'" line="5" column="0" />
       </file>
       <file name="D:/Github/EducationBot/Result.py" timestamp="1463631323829">
         <mark key="[" line="9" column="15" />
@@ -188,11 +179,25 @@
         <mark key="]" line="15" column="13" />
         <mark key="." line="15" column="13" />
       </file>
+      <file name="D:/repos/Socrates/src/Tests.py" timestamp="1469834503440">
+        <mark key="'" line="150" column="21" />
+        <mark key="[" line="150" column="29" />
+        <mark key="]" line="150" column="11" />
+        <mark key="^" line="150" column="11" />
+        <mark key="." line="150" column="11" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/Seq.py" timestamp="1469074565237">
         <mark key="[" line="14" column="2" />
         <mark key="]" line="16" column="5" />
         <mark key="^" line="16" column="5" />
         <mark key="." line="16" column="5" />
+      </file>
+      <file name="D:/repos/Socrates/.gitignore" timestamp="1469834949093">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="98" column="3" />
+        <mark key="]" line="98" column="7" />
+        <mark key="." line="98" column="7" />
+        <mark key="^" line="98" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" timestamp="1469491012490">
         <mark key="'" line="29" column="30" />
@@ -222,9 +227,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1469751556719">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/repos/Socrates/src/SequenceProcessor.py" timestamp="1469654656106">
-        <mark key="'" line="50" column="8" />
       </file>
       <file name="/code.py" timestamp="1469244021634">
         <mark key="[" line="0" column="0" />
@@ -299,9 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
-      <jump line="121" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
-      <jump line="100" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="83" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="102" column="5" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="95" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
@@ -399,16 +398,19 @@
       <jump line="47" column="4" filename="D:/repos/Socrates/src/Socrates.py" />
       <jump line="45" column="12" filename="D:/repos/Socrates/src/Socrates.py" />
       <jump line="0" column="0" filename="D:/repos/Socrates/src/Socrates.py" />
+      <jump line="150" column="21" filename="D:/repos/Socrates/src/Tests.py" />
+      <jump line="73" column="0" filename="D:/repos/Socrates/.gitignore" />
+      <jump line="98" column="0" filename="D:/repos/Socrates/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>json</text>
+        <text>\csrc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb252ZXJzYXRpb25fZmlsZSA9IHBhcmFtcy5jb252ZXJzYXRpb25fZmlsZQogICAgICAgIGxpbmVzID0gQ29udmVyc2F0aW9uTG9hZGVyLmxvYWRfY29udmVyc2F0aW9uX2ZpbGUoY29udmVyc2F0aW9uX2ZpbGUsIHJldmVyc2U9RmFsc2UpCg==</text>
@@ -445,9 +447,9 @@
       </register>
     </registers>
     <search>
-      <last-search>json</last-search>
+      <last-search>\csrc</last-search>
       <last-offset />
-      <last-pattern>json</last-pattern>
+      <last-pattern>\csrc</last-pattern>
       <last-replace>h5</last-replace>
       <last-substitute>json</last-substitute>
       <last-dir>1</last-dir>
@@ -455,7 +457,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clip</entry>
         <entry encoding="base64">XDxtZWFuX3NxdWFyZWRfZXJyb3JcPg==</entry>
         <entry encoding="base64">XDxjb3NpbmVfcHJveGltaXR5XD4=</entry>
         <entry encoding="base64">XDxqc29uX3N0cmluZ1w+</entry>
@@ -475,6 +476,7 @@
         <entry encoding="base64">XDxnZXRfZmlsZVw+</entry>
         <entry encoding="base64">XDxwYXRoXD4=</entry>
         <entry>json</entry>
+        <entry>\csrc</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>

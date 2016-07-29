@@ -273,6 +273,12 @@
         <mark key="^" line="47" column="33" />
         <mark key="." line="47" column="33" />
       </file>
+      <file name="D:/repos/Socrates/setup.py" timestamp="1469835920883">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="15" column="50" />
+        <mark key="." line="12" column="18" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" timestamp="1469558100560">
         <mark key="'" line="14" column="30" />
         <mark key="[" line="39" column="0" />
@@ -404,16 +410,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>https://github.com/farizrahman4u/seq2seq</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>https://github.com/farizrahman4u/seq2seq</text>
       </register>
       <register name="/" type="4">
         <text>\csrc</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb252ZXJzYXRpb25fZmlsZSA9IHBhcmFtcy5jb252ZXJzYXRpb25fZmlsZQogICAgICAgIGxpbmVzID0gQ29udmVyc2F0aW9uTG9hZGVyLmxvYWRfY29udmVyc2F0aW9uX2ZpbGUoY29udmVyc2F0aW9uX2ZpbGUsIHJldmVyc2U9RmFsc2UpCg==</text>
+      <register name="0" type="4">
+        <text>'seq2seq'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnZlcnNhdGlvbl9maWxlID0KICAgIG1vZGVsX2ZpbGVfbmFtZSA9Cg==</text>

@@ -27,6 +27,13 @@
         <mark key="." line="44" column="38" />
         <mark key="^" line="44" column="38" />
       </file>
+      <file name="D:/repos/Socrates/socrates/Trainer.py" timestamp="1469837588341">
+        <mark key="'" line="105" column="22" />
+        <mark key="[" line="181" column="4" />
+        <mark key="]" line="181" column="16" />
+        <mark key="^" line="181" column="16" />
+        <mark key="." line="181" column="16" />
+      </file>
       <file name="D:/repos/Socrates/src/unused/Socrates.py" timestamp="1469828054521">
         <mark key="'" line="3" column="22" />
         <mark key="[" line="0" column="0" />
@@ -307,7 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="102" column="5" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="95" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="86" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
@@ -407,13 +413,14 @@
       <jump line="150" column="21" filename="D:/repos/Socrates/src/Tests.py" />
       <jump line="73" column="0" filename="D:/repos/Socrates/.gitignore" />
       <jump line="98" column="0" filename="D:/repos/Socrates/.gitignore" />
+      <jump line="105" column="22" filename="D:/repos/Socrates/socrates/Trainer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://github.com/farizrahman4u/seq2seq</text>
+        <text>train_dummy()</text>
       </register>
       <register name="-" type="4">
-        <text>https://github.com/farizrahman4u/seq2seq</text>
+        <text>train_dummy()</text>
       </register>
       <register name="/" type="4">
         <text>\csrc</text>

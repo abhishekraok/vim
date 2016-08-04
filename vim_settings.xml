@@ -27,11 +27,12 @@
         <mark key="." line="44" column="38" />
         <mark key="^" line="44" column="38" />
       </file>
-      <file name="D:/repos/Socrates/socrates/Trainer.py" timestamp="1469837588341">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="16" />
-        <mark key="^" line="9" column="16" />
-        <mark key="." line="9" column="16" />
+      <file name="D:/repos/Socrates/socrates/Trainer.py" timestamp="1470328891273">
+        <mark key="'" line="181" column="4" />
+        <mark key="[" line="181" column="15" />
+        <mark key="]" line="181" column="14" />
+        <mark key="^" line="181" column="14" />
+        <mark key="." line="181" column="14" />
       </file>
       <file name="D:/repos/Socrates/src/unused/Socrates.py" timestamp="1469828054521">
         <mark key="'" line="3" column="22" />
@@ -156,10 +157,10 @@
         <mark key="." line="0" column="69" />
       </file>
       <file name="D:/repos/Socrates/socrates/TextPredictor.py" timestamp="1470328188424">
-        <mark key="[" line="45" column="35" />
-        <mark key="]" line="45" column="63" />
-        <mark key="." line="45" column="63" />
-        <mark key="^" line="45" column="63" />
+        <mark key="[" line="47" column="35" />
+        <mark key="]" line="47" column="63" />
+        <mark key="." line="47" column="63" />
+        <mark key="^" line="47" column="63" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/scratch/ConversationLoader.py" timestamp="1469558600345">
         <mark key="[" line="6" column="34" />
@@ -314,10 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="5" filename="D:/repos/Socrates/src/Trainer.py" />
-      <jump line="95" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
-      <jump line="86" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
-      <jump line="90" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="94" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="115" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="141" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
@@ -414,16 +411,20 @@
       <jump line="73" column="0" filename="D:/repos/Socrates/.gitignore" />
       <jump line="98" column="0" filename="D:/repos/Socrates/.gitignore" />
       <jump line="105" column="22" filename="D:/repos/Socrates/socrates/Trainer.py" />
+      <jump line="97" column="16" filename="D:/repos/Socrates/socrates/Trainer.py" />
+      <jump line="95" column="4" filename="D:/repos/Socrates/socrates/Trainer.py" />
+      <jump line="18" column="26" filename="D:/repos/Socrates/socrates/Trainer.py" />
+      <jump line="181" column="4" filename="D:/repos/Socrates/socrates/Trainer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dummy_model</text>
+        <text>train_dummy</text>
       </register>
       <register name="-" type="4">
-        <text>dummy_model</text>
+        <text>train_dummy</text>
       </register>
       <register name="/" type="4">
-        <text>\csrc</text>
+        <text encoding="base64">XDx0cmFpbl9tb3ZpZVw+</text>
       </register>
       <register name="0" type="4">
         <text>'seq2seq'</text>
@@ -460,9 +461,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\csrc</last-search>
+      <last-search encoding="base64">XDx0cmFpbl9tb3ZpZVw+</last-search>
       <last-offset />
-      <last-pattern>\csrc</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFpbl9tb3ZpZVw+</last-pattern>
       <last-replace>h5</last-replace>
       <last-substitute>json</last-substitute>
       <last-dir>1</last-dir>
@@ -470,7 +471,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZWFuX3NxdWFyZWRfZXJyb3JcPg==</entry>
         <entry encoding="base64">XDxjb3NpbmVfcHJveGltaXR5XD4=</entry>
         <entry encoding="base64">XDxqc29uX3N0cmluZ1w+</entry>
         <entry encoding="base64">XDxnZXRfMWtfc2VxdWVuY2VfbW9kZWxcPg==</entry>
@@ -490,6 +490,7 @@
         <entry encoding="base64">XDxwYXRoXD4=</entry>
         <entry>json</entry>
         <entry>\csrc</entry>
+        <entry encoding="base64">XDx0cmFpbl9tb3ZpZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>

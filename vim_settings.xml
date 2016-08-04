@@ -28,11 +28,10 @@
         <mark key="^" line="44" column="38" />
       </file>
       <file name="D:/repos/Socrates/socrates/Trainer.py" timestamp="1469837588341">
-        <mark key="'" line="105" column="22" />
-        <mark key="[" line="181" column="4" />
-        <mark key="]" line="181" column="16" />
-        <mark key="^" line="181" column="16" />
-        <mark key="." line="181" column="16" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="16" />
+        <mark key="^" line="9" column="16" />
+        <mark key="." line="9" column="16" />
       </file>
       <file name="D:/repos/Socrates/src/unused/Socrates.py" timestamp="1469828054521">
         <mark key="'" line="3" column="22" />
@@ -148,13 +147,19 @@
         <mark key="." line="16" column="91" />
         <mark key="^" line="16" column="91" />
       </file>
-      <file name="/Python Console" timestamp="1469750111160">
+      <file name="/Python Console" timestamp="1470327806808">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1469750188302">
-        <mark key="[" line="0" column="34" />
+      <file name="/fragment.py" timestamp="1470327316242">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
-        <mark key="." line="0" column="34" />
+        <mark key="." line="0" column="69" />
+      </file>
+      <file name="D:/repos/Socrates/socrates/TextPredictor.py" timestamp="1470328188424">
+        <mark key="[" line="45" column="35" />
+        <mark key="]" line="45" column="63" />
+        <mark key="." line="45" column="63" />
+        <mark key="^" line="45" column="63" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/scratch/ConversationLoader.py" timestamp="1469558600345">
         <mark key="[" line="6" column="34" />
@@ -180,11 +185,6 @@
         <mark key="]" line="10" column="20" />
         <mark key="^" line="10" column="20" />
         <mark key="." line="10" column="20" />
-      </file>
-      <file name="D:/repos/Socrates/src/EnumsCollection.py" timestamp="1469654707185">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="13" />
-        <mark key="." line="15" column="13" />
       </file>
       <file name="D:/repos/Socrates/src/Tests.py" timestamp="1469834503440">
         <mark key="'" line="150" column="21" />
@@ -417,10 +417,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>train_dummy()</text>
+        <text>dummy_model</text>
       </register>
       <register name="-" type="4">
-        <text>train_dummy()</text>
+        <text>dummy_model</text>
       </register>
       <register name="/" type="4">
         <text>\csrc</text>
@@ -429,31 +429,31 @@
         <text>'seq2seq'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnZlcnNhdGlvbl9maWxlID0KICAgIG1vZGVsX2ZpbGVfbmFtZSA9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiByZXBlYXRfbGF5ZXJbJ2NsYXNzX25hbWUnXSBpcyBub3QgOgogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oJ1JlcGVhdCBsYXllciBub3QgaW4gbGF5ZXIgbnVtYmVyIDIuIFBsZWFzZSBzcGVjaWZ5IHdvcmRzIGluIHNlbnRlbmNlIGluIGNvZGUnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0b3RhbF9pdGVyYXRpb25zID0gNTAwMCAvIHBhcmFtcy5lcG9jaHMK</text>
+        <text encoding="base64">ICAgIGNvbnZlcnNhdGlvbl9maWxlID0KICAgIG1vZGVsX2ZpbGVfbmFtZSA9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b3RhbF9pdGVyYXRpb25zID0gNTAwMCAvIHBhcmFtcy5lcG9jaHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAiIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDcmVhdGVzIHRoZSBjaGF0Ym90CgogICAgICAgIDp0eXBlIHBhcmFtczogVHJhaW5QYXJhbWV0ZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAiIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtcyA9IHBhcmFtcwo=</text>
+        <text encoding="base64">ICAgICAgICBDcmVhdGVzIHRoZSBjaGF0Ym90CgogICAgICAgIDp0eXBlIHBhcmFtczogVHJhaW5QYXJhbWV0ZXJzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSBUcmFpblBhcmFtZXRlcnMobW9kZWxfZmlsZT1tb2RlbF9maWxlLCBxdWVyaWVzPVtdLCBlcG9jaHM9KQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtcyA9IHBhcmFtcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXF1ZW5jZV9tb2RlbCA9IFNlcXVlbmNlTW9kZWwubG9hZChtb2RlbF9maWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSBUcmFpblBhcmFtZXRlcnMobW9kZWxfZmlsZT1tb2RlbF9maWxlLCBxdWVyaWVzPVtdLCBlcG9jaHM9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXF1ZW5jZV9tb2RlbCA9IFNlcXVlbmNlTW9kZWwubG9hZChtb2RlbF9maWxlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

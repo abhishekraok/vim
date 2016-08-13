@@ -273,6 +273,9 @@
       <file name="/a.regexp" timestamp="1460819554955">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Anaconda/Lib/site-packages/keras_rl-0.1-py2.7.egg!/rl/core.py" timestamp="1471126450932">
+        <mark key="'" line="173" column="30" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/Nodes.py" timestamp="1468617294289">
         <mark key="[" line="13" column="26" />
       </file>
@@ -327,10 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
-      <jump line="38" column="8" filename="D:/repos/Socrates/src/SequenceProcessor.py" />
-      <jump line="72" column="8" filename="D:/repos/Socrates/src/SequenceProcessor.py" />
-      <jump line="1" column="0" filename="D:/repos/Socrates/src/SequenceProcessor.py" />
       <jump line="50" column="8" filename="D:/repos/Socrates/src/SequenceProcessor.py" />
       <jump line="50" column="15" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="83" column="28" filename="D:/repos/Socrates/src/ModelFactory.py" />
@@ -427,6 +426,10 @@
       <jump line="69" column="20" filename="D:/repos/keras-rl/rl/agents/dqn.py" />
       <jump line="404" column="20" filename="D:/repos/keras-rl/rl/agents/dqn.py" />
       <jump line="14" column="4" filename="D:/repos/keras-rl/rl/agents/dqn.py" />
+      <jump line="46" column="0" filename="C:/Anaconda/Lib/site-packages/keras_rl-0.1-py2.7.egg!/rl/core.py" />
+      <jump line="77" column="30" filename="C:/Anaconda/Lib/site-packages/keras_rl-0.1-py2.7.egg!/rl/core.py" />
+      <jump line="199" column="8" filename="C:/Anaconda/Lib/site-packages/keras_rl-0.1-py2.7.egg!/rl/core.py" />
+      <jump line="173" column="30" filename="C:/Anaconda/Lib/site-packages/keras_rl-0.1-py2.7.egg!/rl/core.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -436,7 +439,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZWFuX3FcPg==</text>
+        <text>forward</text>
       </register>
       <register name="0" type="4">
         <text>'seq2seq'</text>
@@ -473,9 +476,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZWFuX3FcPg==</last-search>
+      <last-search>forward</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZWFuX3FcPg==</last-pattern>
+      <last-pattern>forward</last-pattern>
       <last-replace>h5</last-replace>
       <last-substitute>json</last-substitute>
       <last-dir>1</last-dir>
@@ -483,7 +486,6 @@
     </search>
     <history>
       <history-search>
-        <entry>os.</entry>
         <entry>2</entry>
         <entry encoding="base64">XDxnZXRfc2luZ2xlX2xheWVyX0xTVE1cPg==</entry>
         <entry encoding="base64">XDxnZXRfZnVsbF9maWxlX25hbWVzXD4=</entry>
@@ -503,6 +505,7 @@
         <entry encoding="base64">XDxCb2x0em1hbm5RUG9saWN5XD4=</entry>
         <entry encoding="base64">XDxEUU5BZ2VudFw+</entry>
         <entry encoding="base64">XDxtZWFuX3FcPg==</entry>
+        <entry>forward</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>

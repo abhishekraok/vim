@@ -132,6 +132,7 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
+      <file name="D:/repos/keras-rl/rl/callbacks.py" timestamp="1471125452651" />
       <file name="$USER_HOME$/PycharmProjects/KnowledgeGraph/Sample.py" timestamp="1467409913489">
         <mark key="[" line="9" column="9" />
         <mark key="]" line="9" column="26" />
@@ -150,7 +151,7 @@
         <mark key="." line="16" column="91" />
         <mark key="^" line="16" column="91" />
       </file>
-      <file name="/Python Console" timestamp="1471123586886">
+      <file name="/Python Console" timestamp="1471125907516">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1470327316242">
@@ -321,11 +322,11 @@
         <mark key="^" line="72" column="73" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="D:/repos/keras-rl/rl/agents/dqn.py" timestamp="1471125838177">
+        <mark key="'" line="14" column="4" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="D:/repos/Socrates/src/ModelFactory.py" />
-      <jump line="86" column="16" filename="D:/repos/Socrates/src/ModelFactory.py" />
-      <jump line="68" column="17" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="146" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="38" column="8" filename="D:/repos/Socrates/src/SequenceProcessor.py" />
       <jump line="72" column="8" filename="D:/repos/Socrates/src/SequenceProcessor.py" />
@@ -423,6 +424,9 @@
       <jump line="8" column="22" filename="D:/repos/keras-rl/examples/dqn_cartpole.py" />
       <jump line="38" column="6" filename="D:/repos/keras-rl/examples/dqn_cartpole.py" />
       <jump line="7" column="26" filename="D:/repos/keras-rl/examples/dqn_cartpole.py" />
+      <jump line="69" column="20" filename="D:/repos/keras-rl/rl/agents/dqn.py" />
+      <jump line="404" column="20" filename="D:/repos/keras-rl/rl/agents/dqn.py" />
+      <jump line="14" column="4" filename="D:/repos/keras-rl/rl/agents/dqn.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -432,7 +436,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEUU5BZ2VudFw+</text>
+        <text encoding="base64">XDxtZWFuX3FcPg==</text>
       </register>
       <register name="0" type="4">
         <text>'seq2seq'</text>
@@ -469,9 +473,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEUU5BZ2VudFw+</last-search>
+      <last-search encoding="base64">XDxtZWFuX3FcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEUU5BZ2VudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxtZWFuX3FcPg==</last-pattern>
       <last-replace>h5</last-replace>
       <last-substitute>json</last-substitute>
       <last-dir>1</last-dir>
@@ -479,7 +483,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTaW1wbGVTZXEyc2VxXD4=</entry>
         <entry>os.</entry>
         <entry>2</entry>
         <entry encoding="base64">XDxnZXRfc2luZ2xlX2xheWVyX0xTVE1cPg==</entry>
@@ -499,6 +502,7 @@
         <entry encoding="base64">XDxTZXF1ZW50aWFsTWVtb3J5XD4=</entry>
         <entry encoding="base64">XDxCb2x0em1hbm5RUG9saWN5XD4=</entry>
         <entry encoding="base64">XDxEUU5BZ2VudFw+</entry>
+        <entry encoding="base64">XDxtZWFuX3FcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>

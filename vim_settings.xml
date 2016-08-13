@@ -114,6 +114,7 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
+      <file name="C:/Anaconda/Lib/site-packages/keras_rl-0.1-py2.7.egg!/rl/agents/dqn.py" timestamp="1471127090750" />
       <file name="D:/repos/keras-rl/README.md" timestamp="1471123137791" />
       <file name="D:/repos/keras-rl/examples/cdqn_pendulum.py" timestamp="1471124114661" />
       <file name="/" timestamp="1469078526043">
@@ -138,11 +139,6 @@
         <mark key="]" line="9" column="26" />
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/keras/examples/lstm_text_generation.py" timestamp="1469750981650">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="94" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" timestamp="1469570100438">
         <mark key="'" line="31" column="0" />
@@ -273,7 +269,7 @@
       <file name="/a.regexp" timestamp="1460819554955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Anaconda/Lib/site-packages/keras_rl-0.1-py2.7.egg!/rl/core.py" timestamp="1471126450932">
+      <file name="C:/Anaconda/Lib/site-packages/keras_rl-0.1-py2.7.egg!/rl/core.py" timestamp="1471126965601">
         <mark key="'" line="173" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/Nodes.py" timestamp="1468617294289">

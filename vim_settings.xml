@@ -17,7 +17,7 @@
         <mark key="." line="53" column="21" />
         <mark key="^" line="53" column="21" />
       </file>
-      <file name="/a.dummy" timestamp="1469748697159">
+      <file name="/a.dummy" timestamp="1471651095492">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/repos/Socrates/src/unused/TPModel.py" timestamp="1469747881840">
@@ -114,9 +114,6 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="C:/Anaconda/Lib/site-packages/keras_rl-0.1-py2.7.egg!/rl/agents/dqn.py" timestamp="1471128249061" />
-      <file name="D:/repos/keras-rl/README.md" timestamp="1471123137791" />
-      <file name="D:/repos/keras-rl/examples/cdqn_pendulum.py" timestamp="1471124114661" />
       <file name="/" timestamp="1469078526043">
         <mark key="[" line="0" column="0" />
       </file>
@@ -133,7 +130,6 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="D:/repos/keras-rl/rl/callbacks.py" timestamp="1471125452651" />
       <file name="$USER_HOME$/PycharmProjects/KnowledgeGraph/Sample.py" timestamp="1467409913489">
         <mark key="[" line="9" column="9" />
         <mark key="]" line="9" column="26" />
@@ -185,6 +181,12 @@
         <mark key="]" line="10" column="20" />
         <mark key="^" line="10" column="20" />
         <mark key="." line="10" column="20" />
+      </file>
+      <file name="D:/repos/BoxSharpener/README.md" timestamp="1471650660507">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
       </file>
       <file name="D:/repos/keras-rl/examples/dqn_cartpole.py" timestamp="1471124673249">
         <mark key="'" line="7" column="26" />
@@ -266,6 +268,12 @@
         <mark key="^" line="2" column="92" />
         <mark key="." line="2" column="92" />
       </file>
+      <file name="D:/repos/BoxSharpener/boxSharpener/lib/boxSharpener.py" timestamp="1471651083999">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="21" column="39" />
+        <mark key="^" line="21" column="39" />
+      </file>
       <file name="/a.regexp" timestamp="1460819554955">
         <mark key="[" line="0" column="0" />
       </file>
@@ -295,7 +303,12 @@
         <mark key="^" line="15" column="50" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="D:/repos/keras-rl/rl/core.py" timestamp="1471130947741" />
+      <file name="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" timestamp="1471651236743">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="16" column="29" />
+        <mark key="^" line="16" column="29" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" timestamp="1469558100560">
         <mark key="'" line="14" column="30" />
         <mark key="[" line="39" column="0" />
@@ -430,43 +443,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZW52LnNlZWQoMTIzKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKDEsIHkxKQo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>MiniClassifier()</text>
       </register>
       <register name="/" type="4">
         <text>forward</text>
       </register>
-      <register name="0" type="4">
-        <text>'seq2seq'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKDEsIHkxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW52LnNlZWQoMTIzKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXBlYXRfbGF5ZXJbJ2NsYXNzX25hbWUnXSBpcyBub3QgOgogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oJ1JlcGVhdCBsYXllciBub3QgaW4gbGF5ZXIgbnVtYmVyIDIuIFBsZWFzZSBzcGVjaWZ5IHdvcmRzIGluIHNlbnRlbmNlIGluIGNvZGUnKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnZlcnNhdGlvbl9maWxlID0KICAgIG1vZGVsX2ZpbGVfbmFtZSA9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0b3RhbF9pdGVyYXRpb25zID0gNTAwMCAvIHBhcmFtcy5lcG9jaHMK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBib3gud2VpZ2h0cyA9IG5wLmFycmF5KFsxLDAsIDBdKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBucC5kb3Qoc2VsZi53ZWlnaHRzWzotMV0sIHgpCiAgICAgICAgeXAgPSBucC5hcnJheShyZXN1bHQgPiBzZWxmLndlaWdodHNbLTFdLCBkdHlwZT1ucC5pbnQxNikKICAgICAgICByZXR1cm4geXAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX3NldF9fKHNlbGYsIGluc3RhbmNlLCB2YWx1ZSk6Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmRpbWVuc2lvbiA9IE5vbmUK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndlaWdodHMgPSBOb25lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDcmVhdGVzIHRoZSBjaGF0Ym90CgogICAgICAgIDp0eXBlIHBhcmFtczogVHJhaW5QYXJhbWV0ZXJzCg==</text>
+        <text encoding="base64">ZW52LnNlZWQoMTIzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtcyA9IHBhcmFtcwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiByZXBlYXRfbGF5ZXJbJ2NsYXNzX25hbWUnXSBpcyBub3QgOgogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oJ1JlcGVhdCBsYXllciBub3QgaW4gbGF5ZXIgbnVtYmVyIDIuIFBsZWFzZSBzcGVjaWZ5IHdvcmRzIGluIHNlbnRlbmNlIGluIGNvZGUnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSBUcmFpblBhcmFtZXRlcnMobW9kZWxfZmlsZT1tb2RlbF9maWxlLCBxdWVyaWVzPVtdLCBlcG9jaHM9KQo=</text>
+        <text encoding="base64">ICAgIGNvbnZlcnNhdGlvbl9maWxlID0KICAgIG1vZGVsX2ZpbGVfbmFtZSA9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

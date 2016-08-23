@@ -143,7 +143,7 @@
         <mark key="." line="16" column="91" />
         <mark key="^" line="16" column="91" />
       </file>
-      <file name="/Python Console" timestamp="1471914515007">
+      <file name="/Python Console" timestamp="1471925277763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1471913363662">
@@ -303,12 +303,11 @@
         <mark key="^" line="15" column="50" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" timestamp="1471924400774">
-        <mark key="'" line="67" column="29" />
-        <mark key="[" line="67" column="13" />
-        <mark key="]" line="67" column="29" />
-        <mark key="." line="67" column="29" />
-        <mark key="^" line="67" column="29" />
+      <file name="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" timestamp="1471925148596">
+        <mark key="'" line="90" column="8" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" timestamp="1469558100560">
         <mark key="'" line="14" column="30" />
@@ -341,11 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="26" filename="D:/repos/Socrates/src/SequenceModel.py" />
-      <jump line="8" column="36" filename="D:/repos/Socrates/src/SequenceModel.py" />
-      <jump line="2" column="22" filename="D:/repos/Socrates/src/unused/Socrates.py" />
-      <jump line="3" column="22" filename="D:/repos/Socrates/src/Socrates.py" />
-      <jump line="26" column="8" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="89" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="60" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="79" column="32" filename="D:/repos/Socrates/src/Trainer.py" />
@@ -441,10 +435,15 @@
       <jump line="62" column="8" filename="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" />
       <jump line="64" column="8" filename="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" />
       <jump line="67" column="29" filename="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" />
+      <jump line="41" column="0" filename="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" />
+      <jump line="50" column="0" filename="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" />
+      <jump line="70" column="0" filename="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" />
+      <jump line="1" column="0" filename="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" />
+      <jump line="90" column="8" filename="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHNlbGY=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgRGlzdHJpYnV0aW9uX0NyZWF0b3I6CiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgawo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHNlbGY=</text>
@@ -453,37 +452,37 @@
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBib3gubGVmdF9jaGlsZC5pc19sZWFmID0gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFstMC4zLCAwLjJdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWlnaHRzX2Nob2ljZSA9IFstMSwgMCwgMV0K</text>
+        <text encoding="base64">Y2xhc3MgRGlzdHJpYnV0aW9uX0NyZWF0b3I6CiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBib3gucmlnaHRfY2hpbGQuaXNfbGVhZiA9IFRydWUK</text>
+        <text encoding="base64">ICAgICAgICBYCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib3gubGVmdF9jaGlsZC5pc19sZWFmID0gVHJ1ZQo=</text>
+        <text encoding="base64">ZWlnaHRzX2Nob2ljZSA9IFstMSwgMCwgMV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxlZnRfY2hpbGQgaXMgTm9uZSBhbmQgc2VsZi5yaWdodF9jaGlsZCBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4gc2VsZi5sYWJlbAo=</text>
+        <text encoding="base64">ICAgICAgICBib3gucmlnaHRfY2hpbGQuaXNfbGVhZiA9IFRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxlZnRfY2hpbGQgaXMgTm9uZSBvciBzZWxmLnJpZ2h0X2NoaWxkIGlzIE5vbmU6CiAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbignT25seSBvbmUgY2hpbGQgY2Fubm90IGJlIE5vbmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICBib3gubGVmdF9jaGlsZC5pc19sZWFmID0gVHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmNsYXNzaWZpZXIgaXMgTm9uZToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCdUaGlzIGNsYXNzaWZpZXIgaGFzIG5vdCBiZWVuIHRyYWluZWQgeWV0LiBOYW1lPScgKyBzZWxmLm5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxlZnRfY2hpbGQgaXMgTm9uZSBhbmQgc2VsZi5yaWdodF9jaGlsZCBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4gc2VsZi5sYWJlbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxlZnRfY2hpbGQgaXMgTm9uZSBvciBzZWxmLnJpZ2h0X2NoaWxkIGlzIE5vbmU6CiAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbignT25seSBvbmUgY2hpbGQgY2Fubm90IGJlIE5vbmUnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTaWduIGRldGVybWluZXMgc2hpZnRpbmcgcmVzdWx0IHRvIGxlZnQKICAgICAgICAoKykgb3IgcmlnaHQgKC0pCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmNsYXNzaWZpZXIgaXMgTm9uZToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCdUaGlzIGNsYXNzaWZpZXIgaGFzIG5vdCBiZWVuIHRyYWluZWQgeWV0LiBOYW1lPScgKyBzZWxmLm5hbWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUobnAuYWxsKHJpZ2h0X3kgPT0gbnAuYXJyYXkoWzJdKSkpCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKG5wLmFsbChsZWZ0X3ggPT0gbnAuYXJyYXkoW1stMC4zLCAwLjJdLFstMC43LCAwLjJdXSkpKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShucC5hbGwobGVmdF95ID09IG5wLmFycmF5KFszLDRdKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/self\.classifier_creator/TestBoxSharpener.classifier_creator/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -536,9 +535,9 @@
         <entry encoding="base64">JzwsJz5zL3JpZ2h0L2xlZnQvZw==</entry>
         <entry>s/right/left/g</entry>
         <entry>s/left/right/g</entry>
-        <entry>w</entry>
         <entry>%s/self.classifier_creator/TestBoxSharpener.classifier_creator/g</entry>
         <entry>%s/self\.classifier_creator/TestBoxSharpener.classifier_creator/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

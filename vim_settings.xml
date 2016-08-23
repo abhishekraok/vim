@@ -81,6 +81,12 @@
         <mark key="^" line="17" column="12" />
         <mark key="." line="17" column="12" />
       </file>
+      <file name="D:/repos/BoxSharpener/boxSharpener/lib/sample_creater.py" timestamp="1471925912653">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="21" column="4" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/Word2Vec.py" timestamp="1469567957389">
         <mark key="'" line="22" column="31" />
         <mark key="[" line="28" column="19" />
@@ -340,8 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
-      <jump line="60" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="79" column="32" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="78" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="92" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
@@ -440,55 +444,57 @@
       <jump line="70" column="0" filename="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" />
       <jump line="1" column="0" filename="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" />
       <jump line="90" column="8" filename="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" />
+      <jump line="23" column="4" filename="D:/repos/BoxSharpener/boxSharpener/lib/sample_creater.py" />
+      <jump line="2" column="0" filename="D:/repos/BoxSharpener/boxSharpener/lib/sample_creater.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgRGlzdHJpYnV0aW9uX0NyZWF0b3I6CiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgawo=</text>
+        <text encoding="base64">ZnJvbSBsaWIudmlzdWFsaXplIGltcG9ydCB2aXN1YWxpemVfMmQK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHNlbGY=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxmXD4=</text>
+        <text encoding="base64">XDx2aXN1YWxpemVfMmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFstMC4zLCAwLjJdLAo=</text>
+        <text encoding="base64">ICAgIHgsIHkgPSBjcmVhdGVfYm94ZWRfZGlzdHJpYnV0aW9uKGNsYXNzZXM9MiwgY2VudGVycz1ucC5hcnJheShbWy0wLjUsIC0wLjVdLCBbMC41LCAwLjVdXSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2FtcGxlc19wZXJfY2xhc3M9MTAwLCBkaW1lbnNpb249MikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgRGlzdHJpYnV0aW9uX0NyZWF0b3I6CiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgawo=</text>
+        <text encoding="base64">ZnJvbSBsaWIudmlzdWFsaXplIGltcG9ydCB2aXN1YWxpemVfMmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBYCg==</text>
+        <text encoding="base64">Y2xhc3MgRGlzdHJpYnV0aW9uX0NyZWF0b3I6CiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWlnaHRzX2Nob2ljZSA9IFstMSwgMCwgMV0K</text>
+        <text encoding="base64">ICAgICAgICBYCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBib3gucmlnaHRfY2hpbGQuaXNfbGVhZiA9IFRydWUK</text>
+        <text encoding="base64">ZWlnaHRzX2Nob2ljZSA9IFstMSwgMCwgMV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib3gubGVmdF9jaGlsZC5pc19sZWFmID0gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBib3gucmlnaHRfY2hpbGQuaXNfbGVhZiA9IFRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxlZnRfY2hpbGQgaXMgTm9uZSBhbmQgc2VsZi5yaWdodF9jaGlsZCBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4gc2VsZi5sYWJlbAo=</text>
+        <text encoding="base64">ICAgICAgICBib3gubGVmdF9jaGlsZC5pc19sZWFmID0gVHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxlZnRfY2hpbGQgaXMgTm9uZSBvciBzZWxmLnJpZ2h0X2NoaWxkIGlzIE5vbmU6CiAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbignT25seSBvbmUgY2hpbGQgY2Fubm90IGJlIE5vbmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxlZnRfY2hpbGQgaXMgTm9uZSBhbmQgc2VsZi5yaWdodF9jaGlsZCBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4gc2VsZi5sYWJlbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmNsYXNzaWZpZXIgaXMgTm9uZToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCdUaGlzIGNsYXNzaWZpZXIgaGFzIG5vdCBiZWVuIHRyYWluZWQgeWV0LiBOYW1lPScgKyBzZWxmLm5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxlZnRfY2hpbGQgaXMgTm9uZSBvciBzZWxmLnJpZ2h0X2NoaWxkIGlzIE5vbmU6CiAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbignT25seSBvbmUgY2hpbGQgY2Fubm90IGJlIE5vbmUnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmNsYXNzaWZpZXIgaXMgTm9uZToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCdUaGlzIGNsYXNzaWZpZXIgaGFzIG5vdCBiZWVuIHRyYWluZWQgeWV0LiBOYW1lPScgKyBzZWxmLm5hbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
+      <last-search encoding="base64">XDx2aXN1YWxpemVfMmRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx2aXN1YWxpemVfMmRcPg==</last-pattern>
       <last-replace>TestBoxSharpener.classifier_creator</last-replace>
       <last-substitute>self\.classifier_creator</last-substitute>
       <last-dir>1</last-dir>
@@ -496,7 +502,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZWFuX3FcPg==</entry>
         <entry>forward</entry>
         <entry encoding="base64">XDxwcmVkaWN0X3NpbmdsZVw+</entry>
         <entry encoding="base64">XDxwcmVkaWN0X3NpZ25sZVw+</entry>
@@ -516,6 +521,7 @@
         <entry>self.classifier_creator</entry>
         <entry>self\.classifier_creator</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry encoding="base64">XDx2aXN1YWxpemVfMmRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>

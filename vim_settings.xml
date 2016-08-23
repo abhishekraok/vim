@@ -120,6 +120,13 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
+      <file name="D:/repos/BoxSharpener/boxSharpener/examples/iris_example.py" timestamp="1471977531816">
+        <mark key="'" line="39" column="4" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="39" column="14" />
+        <mark key="." line="39" column="14" />
+        <mark key="^" line="39" column="14" />
+      </file>
       <file name="/" timestamp="1469078526043">
         <mark key="[" line="0" column="0" />
       </file>
@@ -149,7 +156,7 @@
         <mark key="." line="16" column="91" />
         <mark key="^" line="16" column="91" />
       </file>
-      <file name="/Python Console" timestamp="1471975790682">
+      <file name="/Python Console" timestamp="1471977593140">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1471913363662">
@@ -274,11 +281,11 @@
         <mark key="^" line="2" column="92" />
         <mark key="." line="2" column="92" />
       </file>
-      <file name="D:/repos/BoxSharpener/boxSharpener/lib/boxSharpener.py" timestamp="1471976247138">
-        <mark key="[" line="146" column="57" />
-        <mark key="]" line="146" column="64" />
-        <mark key="^" line="146" column="64" />
-        <mark key="." line="146" column="64" />
+      <file name="D:/repos/BoxSharpener/boxSharpener/lib/boxSharpener.py" timestamp="1471977808573">
+        <mark key="[" line="52" column="35" />
+        <mark key="]" line="52" column="34" />
+        <mark key="^" line="52" column="34" />
+        <mark key="." line="52" column="34" />
       </file>
       <file name="/a.regexp" timestamp="1471975764904">
         <mark key="[" line="0" column="0" />
@@ -329,10 +336,10 @@
         <mark key="." line="139" column="20" />
         <mark key="^" line="139" column="20" />
       </file>
-      <file name="D:/repos/BoxSharpener/boxSharpener/lib/visualize.py" timestamp="1471975784975">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
+      <file name="D:/repos/BoxSharpener/boxSharpener/lib/visualize.py" timestamp="1471977100140">
+        <mark key="'" line="48" column="15" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="81" column="17" />
         <mark key="." line="85" column="0" />
       </file>
       <file name="D:/repos/Socrates/src/Understander.py" timestamp="1469746510010">
@@ -353,13 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="4" filename="D:/repos/Socrates/socrates/Trainer.py" />
-      <jump line="18" column="26" filename="D:/repos/Socrates/socrates/Trainer.py" />
-      <jump line="181" column="4" filename="D:/repos/Socrates/socrates/Trainer.py" />
-      <jump line="36" column="9" filename="D:/repos/keras-rl/examples/dqn_cartpole.py" />
-      <jump line="9" column="22" filename="D:/repos/keras-rl/examples/dqn_cartpole.py" />
-      <jump line="37" column="9" filename="D:/repos/keras-rl/examples/dqn_cartpole.py" />
-      <jump line="8" column="22" filename="D:/repos/keras-rl/examples/dqn_cartpole.py" />
       <jump line="38" column="6" filename="D:/repos/keras-rl/examples/dqn_cartpole.py" />
       <jump line="7" column="26" filename="D:/repos/keras-rl/examples/dqn_cartpole.py" />
       <jump line="69" column="20" filename="D:/repos/keras-rl/rl/agents/dqn.py" />
@@ -453,55 +453,62 @@
       <jump line="79" column="0" filename="D:/repos/BoxSharpener/boxSharpener/lib/visualize.py" />
       <jump line="49" column="0" filename="D:/repos/BoxSharpener/boxSharpener/lib/visualize.py" />
       <jump line="15" column="33" filename="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" />
+      <jump line="48" column="15" filename="D:/repos/BoxSharpener/boxSharpener/lib/visualize.py" />
+      <jump line="0" column="0" filename="D:/repos/BoxSharpener/boxSharpener/examples/iris_example.py" />
+      <jump line="33" column="8" filename="D:/repos/BoxSharpener/boxSharpener/examples/iris_example.py" />
+      <jump line="36" column="8" filename="D:/repos/BoxSharpener/boxSharpener/examples/iris_example.py" />
+      <jump line="1" column="49" filename="D:/repos/BoxSharpener/boxSharpener/examples/iris_example.py" />
+      <jump line="37" column="8" filename="D:/repos/BoxSharpener/boxSharpener/examples/iris_example.py" />
+      <jump line="39" column="4" filename="D:/repos/BoxSharpener/boxSharpener/examples/iris_example.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2,2,2,2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZyb20gc2tsZWFybi50cmVlIGltcG9ydCBEZWNpc2lvblRyZWVDbGFzc2lmaWVyCg==</text>
       </register>
       <register name="-" type="4">
         <text>2,2,2,2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx5XD4=</text>
+        <text encoding="base64">XDxwbG90X2lyaXNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>np.array([2,2,2,2])</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIHBsb3RfaXJpcygpOgogICAgZ2xvYmFsIGlyaXMsIHBhaXIKICAgIGZyb20gc2tsZWFybi5kYXRhc2V0cyBpbXBvcnQgbG9hZF9pcmlzCiAgICBmcm9tIHNrbGVhcm4udHJlZSBpbXBvcnQgRGVjaXNpb25UcmVlQ2xhc3NpZmllcgogICAgIyBQYXJhbWV0ZXJzCiAgICBuX2NsYXNzZXMgPSAzCiAgICBwbG90X3N0ZXAgPSAwLjAyCiAgICAjIExvYWQgZGF0YQogICAgaXJpcyA9IGxvYWRfaXJpcygpCiAgICBmb3IgcGFpcmlkeCwgcGFpciBpbiBlbnVtZXJhdGUoW1swLCAxXSwgWzAsIDJdLCBbMCwgM10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsxLCAyXSwgWzEsIDNdLCBbMiwgM11dKToKICAgICAgICAjIFdlIG9ubHkgdGFrZSB0aGUgdHdvIGNvcnJlc3BvbmRpbmcgZmVhdHVyZXMKICAgICAgICBYID0gaXJpcy5kYXRhWzosIHBhaXJdCiAgICAgICAgeSA9IGlyaXMudGFyZ2V0CgogICAgICAgICMgU2h1ZmZsZQogICAgICAgIGlkeCA9IG5wLmFyYW5nZShYLnNoYXBlWzBdKQogICAgICAgIG5wLnJhbmRvbS5zZWVkKDEzKQogICAgICAgIG5wLnJhbmRvbS5zaHVmZmxlKGlkeCkKICAgICAgICBYID0gWFtpZHhdCiAgICAgICAgeSA9IHlbaWR4XQoKICAgICAgICAjIFN0YW5kYXJkaXplCiAgICAgICAgbWVhbiA9IFgubWVhbihheGlzPTApCiAgICAgICAgc3RkID0gWC5zdGQoYXhpcz0wKQogICAgICAgIFggPSAoWCAtIG1lYW4pIC8gc3RkCgogICAgICAgICMgVHJhaW4KICAgICAgICBjbGYgPSBEZWNpc2lvblRyZWVDbGFzc2lmaWVyKCkuZml0KFgsIHkpCgogICAgICAgIGxpbWl0cyA9IFtYWzosIDBdLm1pbigpIC0gMSwgWFs6LCAwXS5tYXgoKSArIDEsIFhbOiwgMV0ubWluKCkgLSAxLCBYWzosIDFdLm1heCgpICsgMV0KICAgICAgICAjIFBsb3QgdGhlIGRlY2lzaW9uIGJvdW5kYXJ5CiAgICAgICAgcGxvdF9jbGFzc2lmaWVyX2FuZF9kYXRhKGNsZiwgbGltaXRzLCBYLCB5KQogICAgICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZQo=</text>
+        <text encoding="base64">ICAgIGZyb20gc2tsZWFybi50cmVlIGltcG9ydCBEZWNpc2lvblRyZWVDbGFzc2lmaWVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KF9fZG9jX18pCg==</text>
+        <text encoding="base64">ICAgICMgUGFyYW1ldGVycwogICAgbl9jbGFzc2VzID0gMwogICAgcGxvdF9zdGVwID0gMC4wMgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgIHByaW50KF9fZG9jX18pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBsb3RfY29sb3JzID0gImJyeSIK</text>
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBpbXBvcnQgbnVtcHkgYXMgbnAKICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQuc3VicGxvdCgyLCAzLCBwYWlyaWR4ICsgMSkKCiAgICAgICAgeF9taW4sIHhfbWF4ID0gWFs6LCAwXS5taW4oKSAtIDEsIFhbOiwgMF0ubWF4KCkgKyAxCiAgICAgICAgeV9taW4sIHlfbWF4ID0gWFs6LCAxXS5taW4oKSAtIDEsIFhbOiwgMV0ubWF4KCkgKyAxCiAgICAgICAgeHgsIHl5ID0gbnAubWVzaGdyaWQobnAuYXJhbmdlKHhfbWluLCB4X21heCwgcGxvdF9zdGVwKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBucC5hcmFuZ2UoeV9taW4sIHlfbWF4LCBwbG90X3N0ZXApKQoKICAgICAgICBaID0gY2xmLnByZWRpY3QobnAuY19beHgucmF2ZWwoKSwgeXkucmF2ZWwoKV0pCiAgICAgICAgWiA9IFoucmVzaGFwZSh4eC5zaGFwZSkKICAgICAgICBjcyA9IHBsdC5jb250b3VyZih4eCwgeXksIFosIGNtYXA9cGx0LmNtLlBhaXJlZCkKCiAgICAgICAgcGx0LnhsYWJlbChpcmlzLmZlYXR1cmVfbmFtZXNbcGFpclswXV0pCiAgICAgICAgcGx0LnlsYWJlbChpcmlzLmZlYXR1cmVfbmFtZXNbcGFpclsxXV0pCiAgICAgICAgcGx0LmF4aXMoInRpZ2h0IikKCiAgICAgICAgIyBQbG90IHRoZSB0cmFpbmluZyBwb2ludHMKICAgICAgICBmb3IgaSwgY29sb3IgaW4gemlwKHJhbmdlKG5fY2xhc3NlcyksIHBsb3RfY29sb3JzKToKICAgICAgICAgICAgaWR4ID0gbnAud2hlcmUoeSA9PSBpKQogICAgICAgICAgICBwbHQuc2NhdHRlcihYW2lkeCwgMF0sIFhbaWR4LCAxXSwgYz1jb2xvciwgbGFiZWw9aXJpcy50YXJnZXRfbmFtZXNbaV0sCiAgICAgICAgICAgICAgICAgICAgICAgIGNtYXA9cGx0LmNtLlBhaXJlZCkKCiAgICAgICAgcGx0LmF4aXMoInRpZ2h0IikKCiAgICBwbHQuc3VwdGl0bGUoIkRlY2lzaW9uIHN1cmZhY2Ugb2YgYSBkZWNpc2lvbiB0cmVlIHVzaW5nIHBhaXJlZCBmZWF0dXJlcyIpCiAgICBwbHQubGVnZW5kKCkKICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgIHBsb3RfY29sb3JzID0gImJyeSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBpbXBvcnQgbnVtcHkgYXMgbnAKICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx5XD4=</last-search>
+      <last-search encoding="base64">XDxwbG90X2lyaXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwbG90X2lyaXNcPg==</last-pattern>
       <last-replace>TestBoxSharpener.classifier_creator</last-replace>
       <last-substitute>self\.classifier_creator</last-substitute>
       <last-dir>1</last-dir>
@@ -509,7 +516,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcGxpdFw+</entry>
         <entry encoding="base64">XDx4MVw+</entry>
         <entry>right</entry>
         <entry encoding="base64">XDx0cmFuc2Zvcm1cPg==</entry>
@@ -529,6 +535,7 @@
         <entry encoding="base64">XDxwYWlyaWR4XD4=</entry>
         <entry encoding="base64">XDxjbGZcPg==</entry>
         <entry encoding="base64">XDx5XD4=</entry>
+        <entry encoding="base64">XDxwbG90X2lyaXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>

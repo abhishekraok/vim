@@ -328,6 +328,9 @@
         <mark key="." line="139" column="20" />
         <mark key="^" line="139" column="20" />
       </file>
+      <file name="D:/repos/BoxSharpener/boxSharpener/lib/visualize.py" timestamp="1471974047610">
+        <mark key="'" line="3" column="22" />
+      </file>
       <file name="D:/repos/Socrates/src/Understander.py" timestamp="1469746510010">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="5" column="82" />
@@ -346,7 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="32" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="78" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="92" column="0" filename="D:/repos/Socrates/src/Trainer.py" />
       <jump line="57" column="10" filename="D:/repos/Socrates/src/Trainer.py" />
@@ -446,6 +448,7 @@
       <jump line="90" column="8" filename="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" />
       <jump line="23" column="4" filename="D:/repos/BoxSharpener/boxSharpener/lib/sample_creater.py" />
       <jump line="2" column="0" filename="D:/repos/BoxSharpener/boxSharpener/lib/sample_creater.py" />
+      <jump line="3" column="22" filename="D:/repos/BoxSharpener/boxSharpener/lib/visualize.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

@@ -274,11 +274,11 @@
         <mark key="^" line="2" column="92" />
         <mark key="." line="2" column="92" />
       </file>
-      <file name="D:/repos/BoxSharpener/boxSharpener/lib/boxSharpener.py" timestamp="1471975859383">
-        <mark key="[" line="143" column="35" />
-        <mark key="]" line="143" column="32" />
-        <mark key="^" line="143" column="32" />
-        <mark key="." line="143" column="32" />
+      <file name="D:/repos/BoxSharpener/boxSharpener/lib/boxSharpener.py" timestamp="1471976247138">
+        <mark key="[" line="146" column="57" />
+        <mark key="]" line="146" column="64" />
+        <mark key="^" line="146" column="64" />
+        <mark key="." line="146" column="64" />
       </file>
       <file name="/a.regexp" timestamp="1471975764904">
         <mark key="[" line="0" column="0" />
@@ -309,11 +309,12 @@
         <mark key="^" line="15" column="50" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" timestamp="1471925148596">
-        <mark key="'" line="90" column="8" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" timestamp="1471976545813">
+        <mark key="'" line="15" column="33" />
+        <mark key="[" line="96" column="36" />
+        <mark key="]" line="96" column="37" />
+        <mark key="." line="96" column="37" />
+        <mark key="^" line="97" column="78" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" timestamp="1469558100560">
         <mark key="'" line="14" column="30" />
@@ -352,7 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="16" filename="D:/repos/Socrates/socrates/Trainer.py" />
       <jump line="95" column="4" filename="D:/repos/Socrates/socrates/Trainer.py" />
       <jump line="18" column="26" filename="D:/repos/Socrates/socrates/Trainer.py" />
       <jump line="181" column="4" filename="D:/repos/Socrates/socrates/Trainer.py" />
@@ -452,46 +452,47 @@
       <jump line="76" column="0" filename="D:/repos/BoxSharpener/boxSharpener/lib/visualize.py" />
       <jump line="79" column="0" filename="D:/repos/BoxSharpener/boxSharpener/lib/visualize.py" />
       <jump line="49" column="0" filename="D:/repos/BoxSharpener/boxSharpener/lib/visualize.py" />
+      <jump line="15" column="33" filename="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KF9fZG9jX18pCg==</text>
+      <register name="&quot;" type="4">
+        <text>2,2,2,2</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>2,2,2,2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHgsIHkgPSBjcmVhdGVfYm94ZWRfZGlzdHJpYnV0aW9uKGNsYXNzZXM9MiwgY2VudGVycz1ucC5hcnJheShbWy0wLjUsIC0wLjVdLCBbMC41LCAwLjVdXSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2FtcGxlc19wZXJfY2xhc3M9MTAwLCBkaW1lbnNpb249MikK</text>
+      <register name="0" type="4">
+        <text>np.array([2,2,2,2])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KF9fZG9jX18pCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgIHByaW50KF9fZG9jX18pCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBsb3RfY29sb3JzID0gImJyeSIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICBpbXBvcnQgbnVtcHkgYXMgbnAKICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQuc3VicGxvdCgyLCAzLCBwYWlyaWR4ICsgMSkKCiAgICAgICAgeF9taW4sIHhfbWF4ID0gWFs6LCAwXS5taW4oKSAtIDEsIFhbOiwgMF0ubWF4KCkgKyAxCiAgICAgICAgeV9taW4sIHlfbWF4ID0gWFs6LCAxXS5taW4oKSAtIDEsIFhbOiwgMV0ubWF4KCkgKyAxCiAgICAgICAgeHgsIHl5ID0gbnAubWVzaGdyaWQobnAuYXJhbmdlKHhfbWluLCB4X21heCwgcGxvdF9zdGVwKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBucC5hcmFuZ2UoeV9taW4sIHlfbWF4LCBwbG90X3N0ZXApKQoKICAgICAgICBaID0gY2xmLnByZWRpY3QobnAuY19beHgucmF2ZWwoKSwgeXkucmF2ZWwoKV0pCiAgICAgICAgWiA9IFoucmVzaGFwZSh4eC5zaGFwZSkKICAgICAgICBjcyA9IHBsdC5jb250b3VyZih4eCwgeXksIFosIGNtYXA9cGx0LmNtLlBhaXJlZCkKCiAgICAgICAgcGx0LnhsYWJlbChpcmlzLmZlYXR1cmVfbmFtZXNbcGFpclswXV0pCiAgICAgICAgcGx0LnlsYWJlbChpcmlzLmZlYXR1cmVfbmFtZXNbcGFpclsxXV0pCiAgICAgICAgcGx0LmF4aXMoInRpZ2h0IikKCiAgICAgICAgIyBQbG90IHRoZSB0cmFpbmluZyBwb2ludHMKICAgICAgICBmb3IgaSwgY29sb3IgaW4gemlwKHJhbmdlKG5fY2xhc3NlcyksIHBsb3RfY29sb3JzKToKICAgICAgICAgICAgaWR4ID0gbnAud2hlcmUoeSA9PSBpKQogICAgICAgICAgICBwbHQuc2NhdHRlcihYW2lkeCwgMF0sIFhbaWR4LCAxXSwgYz1jb2xvciwgbGFiZWw9aXJpcy50YXJnZXRfbmFtZXNbaV0sCiAgICAgICAgICAgICAgICAgICAgICAgIGNtYXA9cGx0LmNtLlBhaXJlZCkKCiAgICAgICAgcGx0LmF4aXMoInRpZ2h0IikKCiAgICBwbHQuc3VwdGl0bGUoIkRlY2lzaW9uIHN1cmZhY2Ugb2YgYSBkZWNpc2lvbiB0cmVlIHVzaW5nIHBhaXJlZCBmZWF0dXJlcyIpCiAgICBwbHQubGVnZW5kKCkKICAgIHBsdC5zaG93KCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBsb3RfY29sb3JzID0gImJyeSIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICBpbXBvcnQgbnVtcHkgYXMgbnAKICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwbHQuc3VicGxvdCgyLCAzLCBwYWlyaWR4ICsgMSkKCiAgICAgICAgeF9taW4sIHhfbWF4ID0gWFs6LCAwXS5taW4oKSAtIDEsIFhbOiwgMF0ubWF4KCkgKyAxCiAgICAgICAgeV9taW4sIHlfbWF4ID0gWFs6LCAxXS5taW4oKSAtIDEsIFhbOiwgMV0ubWF4KCkgKyAxCiAgICAgICAgeHgsIHl5ID0gbnAubWVzaGdyaWQobnAuYXJhbmdlKHhfbWluLCB4X21heCwgcGxvdF9zdGVwKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBucC5hcmFuZ2UoeV9taW4sIHlfbWF4LCBwbG90X3N0ZXApKQoKICAgICAgICBaID0gY2xmLnByZWRpY3QobnAuY19beHgucmF2ZWwoKSwgeXkucmF2ZWwoKV0pCiAgICAgICAgWiA9IFoucmVzaGFwZSh4eC5zaGFwZSkKICAgICAgICBjcyA9IHBsdC5jb250b3VyZih4eCwgeXksIFosIGNtYXA9cGx0LmNtLlBhaXJlZCkKCiAgICAgICAgcGx0LnhsYWJlbChpcmlzLmZlYXR1cmVfbmFtZXNbcGFpclswXV0pCiAgICAgICAgcGx0LnlsYWJlbChpcmlzLmZlYXR1cmVfbmFtZXNbcGFpclsxXV0pCiAgICAgICAgcGx0LmF4aXMoInRpZ2h0IikKCiAgICAgICAgIyBQbG90IHRoZSB0cmFpbmluZyBwb2ludHMKICAgICAgICBmb3IgaSwgY29sb3IgaW4gemlwKHJhbmdlKG5fY2xhc3NlcyksIHBsb3RfY29sb3JzKToKICAgICAgICAgICAgaWR4ID0gbnAud2hlcmUoeSA9PSBpKQogICAgICAgICAgICBwbHQuc2NhdHRlcihYW2lkeCwgMF0sIFhbaWR4LCAxXSwgYz1jb2xvciwgbGFiZWw9aXJpcy50YXJnZXRfbmFtZXNbaV0sCiAgICAgICAgICAgICAgICAgICAgICAgIGNtYXA9cGx0LmNtLlBhaXJlZCkKCiAgICAgICAgcGx0LmF4aXMoInRpZ2h0IikKCiAgICBwbHQuc3VwdGl0bGUoIkRlY2lzaW9uIHN1cmZhY2Ugb2YgYSBkZWNpc2lvbiB0cmVlIHVzaW5nIHBhaXJlZCBmZWF0dXJlcyIpCiAgICBwbHQubGVnZW5kKCkKICAgIHBsdC5zaG93KCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBwYWlyaWR4LCBwYWlyIGluIGVudW1lcmF0ZShbWzAsIDFdLCBbMCwgMl0sIFswLCAzXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzEsIDJdLCBbMSwgM10sIFsyLCAzXV0pOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

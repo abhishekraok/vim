@@ -54,10 +54,9 @@
         <mark key="^" line="21" column="38" />
         <mark key="." line="21" column="38" />
       </file>
-      <file name="D:/repos/BoxSharpener/boxSharpener/lib/BoxTreeNode.py" timestamp="1472331311242">
+      <file name="D:/repos/BoxSharpener/boxSharpener/lib/BoxTreeNode.py" timestamp="1472332567051">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Source/Repos/promisigin-patterns/PersistencyMatrix/PersistencyMatrix/PythonClusteringApplication1/clustering.py" timestamp="1444611660951">
@@ -126,12 +125,12 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="D:/repos/BoxSharpener/boxSharpener/examples/iris_example.py" timestamp="1471992788890">
-        <mark key="'" line="43" column="4" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="43" column="14" />
-        <mark key="." line="43" column="14" />
-        <mark key="^" line="43" column="14" />
+      <file name="D:/repos/BoxSharpener/boxSharpener/examples/iris_example.py" timestamp="1472332490010">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="7" column="50" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="10" column="52" />
       </file>
       <file name="/" timestamp="1469078526043">
         <mark key="[" line="0" column="0" />
@@ -162,7 +161,7 @@
         <mark key="." line="16" column="91" />
         <mark key="^" line="16" column="91" />
       </file>
-      <file name="/Python Console" timestamp="1472331278113">
+      <file name="/Python Console" timestamp="1472332405363">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1471913363662">
@@ -259,7 +258,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471912046528">
+      <file name="/Dummy.txt" timestamp="1472332571834">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1469244021634">
@@ -418,7 +417,6 @@
       <jump line="79" column="0" filename="D:/repos/BoxSharpener/boxSharpener/lib/visualize.py" />
       <jump line="15" column="33" filename="D:/repos/BoxSharpener/boxSharpener/lib/test_boxSharpener.py" />
       <jump line="48" column="15" filename="D:/repos/BoxSharpener/boxSharpener/lib/visualize.py" />
-      <jump line="0" column="0" filename="D:/repos/BoxSharpener/boxSharpener/examples/iris_example.py" />
       <jump line="33" column="8" filename="D:/repos/BoxSharpener/boxSharpener/examples/iris_example.py" />
       <jump line="36" column="8" filename="D:/repos/BoxSharpener/boxSharpener/examples/iris_example.py" />
       <jump line="1" column="49" filename="D:/repos/BoxSharpener/boxSharpener/examples/iris_example.py" />
@@ -466,46 +464,47 @@
       <jump line="29" column="28" filename="D:/repos/BoxSharpener/boxSharpener/examples/compare_example.py" />
       <jump line="19" column="32" filename="D:/repos/BoxSharpener/boxSharpener/lib/boxSharpener.py" />
       <jump line="21" column="21" filename="D:/repos/BoxSharpener/boxSharpener/examples/compare_example.py" />
+      <jump line="0" column="0" filename="D:/repos/BoxSharpener/boxSharpener/examples/iris_example.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBib3hTaGFycGVuZXIubGliLk1pbmlDbGFzc2lmaWVyIGltcG9ydCBNaW5pQ2xhc3NpZmllcgo=</text>
+        <text encoding="base64">ZnJvbSBib3hTaGFycGVuZXIubGliLk1pbmlDbGFzc2lmaWVyIGltcG9ydCBNCg==</text>
       </register>
       <register name="-" type="4">
-        <text>transform</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>get_param</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0cmFuc2Zvcm1fZGltZW5zaW9uIGlzIE5vbmU6CiAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbgogICAgICAgIGlmIFguc2hhcGVbMF0gPT0gMDoKICAgICAgICAgICAgcmV0dXJuIFgKICAgICAgICBjb3BpZWRfWCA9IG5wLmNvcHkoWCkKICAgICAgICBjb3BpZWRfWFs6LCB0cmFuc2Zvcm1fZGltZW5zaW9uXSAqPSAyCiAgICAgICAgY29waWVkX1hbOiwgdHJhbnNmb3JtX2RpbWVuc2lvbl0gLT0gbnAuc2lnbihkaXJlY3Rpb24pCiAgICAgICAgcmV0dXJuIGNvcGllZF9YCg==</text>
+        <text encoding="base64">c3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguam9pbihkaXJuYW1lLCAiLi4vLi4iKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBib3hTaGFycGVuZXIubGliLk1pbmlDbGFzc2lmaWVyIGltcG9ydCBNaW5pQ2xhc3NpZmllcgo=</text>
+        <text encoding="base64">ZnJvbSBib3hTaGFycGVuZXIubGliLk1pbmlDbGFzc2lmaWVyIGltcG9ydCBNCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CjMKNAo1CjYKNwo4CjkKMTAKMTEKMTIKMTMKMTQKMTUKMTYKMTcKMTgKMTkKMjAKMjEKMjIKMjMKMjQKMjUKMjYKMjcKMjgKMjkKMzAKMzEKMzIKMzMKMzQKMzUKMzYKMzcKMzgKMzkKNDAKNDEKNDIKNDMKNDQKNDUKNDYKNDcK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmlnaHRfdHJhbnNmb3JtZWRfeCA9IEJveFNoYXJwZW5lckNsYXNzaWZpZXJOb2RlLnRyYW5zZm9ybShyaWdodF94LCBiZXN0X3NwbGl0X2RpbWVuc2lvbiwgMSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByaWdodF90cmFuc2Zvcm1lZF94ID0gQm94U2hhcnBlbmVyQ2xhc3NpZmllck5vZGUudHJhbnNmb3JtKHJpZ2h0X3gsIGJlc3Rfc3BsaXRfZGltZW5zaW9uLCAxKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZWZ0X3RyYW5zZm9ybWVkX3ggPSBCb3hTaGFycGVuZXJDbGFzc2lmaWVyTm9kZS50cmFuc2Zvcm0obGVmdF94LCBiZXN0X3NwbGl0X2RpbWVuc2lvbiwgLTEpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzeXMKZGlybmFtZSA9IG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXykKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguam9pbihkaXJuYW1lLCAiLi4vLi4vLi4iKSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzeXMKZGlybmFtZSA9IG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXykKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguam9pbihkaXJuYW1lLCAiLi4vLi4vLi4iKSkKZnJvbSBib3hTaGFycGVuZXIubGliLk1pbmlDbGFzc2lmaWVyIGltcG9ydCBNaW5pQ2xhc3NpZmllcgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBib3hTaGFycGVuZXIubGliLk1pbmlDbGFzc2lmaWVyIGltcG9ydCBNaW5pQ2xhc3NpZmllcgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsdC54bGFiZWwoaXJpcy5mZWF0dXJlX25hbWVzW3BhaXJbMF1dKQogICAgcGx0LnlsYWJlbChpcmlzLmZlYXR1cmVfbmFtZXNbcGFpclsxXV0pCiAgICBwbHQuYXhpcygidGlnaHQiKQo=</text>
+        <text encoding="base64">CjMKNAo1CjYKNwo4CjkKMTAKMTEKMTIKMTMKMTQKMTUKMTYKMTcKMTgKMTkKMjAKMjEKMjIKMjMKMjQKMjUKMjYKMjcKMjgKMjkKMzAKMzEKMzIKMzMKMzQKMzUKMzYKMzcKMzgKMzkKNDAKNDEKNDIKNDMKNDQKNDUKNDYKNDcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBsdC54bGFiZWwoaXJpcy5mZWF0dXJlX25hbWVzW3BhaXJbMF1dKQogICAgcGx0LnlsYWJlbChpcmlzLmZlYXR1cmVfbmFtZXNbcGFpclsxXV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmlnaHRfdHJhbnNmb3JtZWRfeCA9IEJveFNoYXJwZW5lckNsYXNzaWZpZXJOb2RlLnRyYW5zZm9ybShyaWdodF94LCBiZXN0X3NwbGl0X2RpbWVuc2lvbiwgMSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBpcmlzLCBwYWlyCg==</text>
+        <text encoding="base64">ICAgICAgICByaWdodF90cmFuc2Zvcm1lZF94ID0gQm94U2hhcnBlbmVyQ2xhc3NpZmllck5vZGUudHJhbnNmb3JtKHJpZ2h0X3gsIGJlc3Rfc3BsaXRfZGltZW5zaW9uLCAxKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

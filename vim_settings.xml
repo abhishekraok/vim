@@ -61,12 +61,12 @@
         <mark key="^" line="21" column="38" />
         <mark key="." line="21" column="38" />
       </file>
-      <file name="D:/repos/BoxSharpener/boxSharpener/lib/BoxTreeNode.py" timestamp="1472348807493">
-        <mark key="'" line="242" column="7" />
-        <mark key="[" line="237" column="34" />
-        <mark key="]" line="238" column="65" />
-        <mark key="." line="238" column="65" />
-        <mark key="^" line="238" column="65" />
+      <file name="D:/repos/BoxSharpener/boxSharpener/lib/BoxTreeNode.py" timestamp="1472350639709">
+        <mark key="'" line="241" column="7" />
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+        <mark key="^" line="12" column="28" />
       </file>
       <file name="$USER_HOME$/Source/Repos/promisigin-patterns/PersistencyMatrix/PersistencyMatrix/PythonClusteringApplication1/clustering.py" timestamp="1444611660951">
         <mark key="[" line="319" column="123" />
@@ -179,11 +179,11 @@
         <mark key="." line="16" column="91" />
         <mark key="^" line="16" column="91" />
       </file>
-      <file name="/Python Console" timestamp="1472348584597">
+      <file name="/Python Console" timestamp="1472350016976">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1472343286029">
-        <mark key="[" line="0" column="21" />
+      <file name="/fragment.py" timestamp="1472350144138">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="65" />
@@ -498,10 +498,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, names=names</text>
+        <text encoding="base64">bmFtZSwg</text>
       </register>
       <register name="-" type="4">
-        <text>, names=names</text>
+        <text encoding="base64">bmFtZSwg</text>
       </register>
       <register name="/" type="4">
         <text>self</text>

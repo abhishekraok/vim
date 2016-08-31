@@ -61,12 +61,12 @@
         <mark key="^" line="21" column="38" />
         <mark key="." line="21" column="38" />
       </file>
-      <file name="D:/repos/BoxSharpener/boxSharpener/lib/BoxTreeNode.py" timestamp="1472350639709">
-        <mark key="'" line="241" column="7" />
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="28" />
-        <mark key="." line="12" column="28" />
-        <mark key="^" line="12" column="28" />
+      <file name="D:/repos/BoxSharpener/boxSharpener/lib/BoxTreeNode.py" timestamp="1472686098441">
+        <mark key="'" line="239" column="7" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+        <mark key="^" line="137" column="37" />
       </file>
       <file name="$USER_HOME$/Source/Repos/promisigin-patterns/PersistencyMatrix/PersistencyMatrix/PythonClusteringApplication1/clustering.py" timestamp="1444611660951">
         <mark key="[" line="319" column="123" />
@@ -179,10 +179,10 @@
         <mark key="." line="16" column="91" />
         <mark key="^" line="16" column="91" />
       </file>
-      <file name="/Python Console" timestamp="1472350016976">
+      <file name="/Python Console" timestamp="1472686273886">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1472350144138">
+      <file name="/fragment.py" timestamp="1472686101321">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -251,9 +251,6 @@
         <mark key="." line="98" column="7" />
         <mark key="^" line="98" column="7" />
       </file>
-      <file name="D:/repos/BoxSharpener/boxSharpener/examples/pima_example.json" timestamp="1472348497410">
-        <mark key="'" line="20" column="22" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" timestamp="1469491012490">
         <mark key="'" line="29" column="30" />
         <mark key="[" line="89" column="0" />
@@ -261,7 +258,7 @@
         <mark key="." line="39" column="76" />
         <mark key="^" line="39" column="18" />
       </file>
-      <file name="D:/repos/BoxSharpener/boxSharpener/examples/pima_example.py" timestamp="1472348385367">
+      <file name="D:/repos/BoxSharpener/boxSharpener/examples/pima_example.py" timestamp="1472685062135">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="13" column="33" />
         <mark key="]" line="14" column="22" />
@@ -497,11 +494,11 @@
       <jump line="20" column="22" filename="D:/repos/BoxSharpener/boxSharpener/examples/pima_example.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bmFtZSwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdGFydF9pbXB1cml0eSA9IEJveFRyZWVOb2RlLmNhbGN1bGF0ZV9naW5pX2ltcHVyaXR5KFkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmFtZSwg</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
@@ -510,31 +507,31 @@
         <text encoding="base64">dXJsID0gImh0dHBzOi8vYXJjaGl2ZS5pY3MudWNpLmVkdS9tbC9tYWNoaW5lLWxlYXJuaW5nLWRhdGFiYXNlcy9waW1hLWluZGlhbnMtZGlhYmV0ZXMvcGltYS1pbmRpYW5zLWRpYWJldGVzLmRhdGEiCm5hbWVzID0gWydwcmVnJywgJ3BsYXMnLCAncHJlcycsICdza2luJywgJ3Rlc3QnLCAnbWFzcycsICdwZWRpJywgJ2FnZScsICdjbGFzcyddCmRhdGFmcmFtZSA9IHBhbmRhcy5yZWFkX2Nzdih1cmwsIG5hbWVzPW5hbWVzKQphcnJheSA9IGRhdGFmcmFtZS52YWx1ZXMKWCA9IGFycmF5WzosIDA6OF0KWSA9IGFycmF5WzosIDhdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5hbWVzID0gWydwcmVnJywgJ3BsYXMnLCAncHJlcycsICdza2luJywgJ3Rlc3QnLCAnbWFzcycsICdwZWRpJywgJ2FnZScsICdjbGFzcyddCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydF9pbXB1cml0eSA9IEJveFRyZWVOb2RlLmNhbGN1bGF0ZV9naW5pX2ltcHVyaXR5KFkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wdXJpdHlfZGVjcmVhc2UuYXBwZW5kKHN0YXJ0X2ltcHVyaXR5IC0gbmV3X2ltcHVyaXR5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ym94U2hhcnBlbmVyL2V4YW1wbGVzL2JveF8wLmpzb24KYm94U2hhcnBlbmVyL2V4YW1wbGVzL2JveF8xLmpzb24KYm94U2hhcnBlbmVyL2V4YW1wbGVzL2JveF8yLmpzb24K</text>
+        <text encoding="base64">ICAgIG5hbWVzID0gWydwcmVnJywgJ3BsYXMnLCAncHJlcycsICdza2luJywgJ3Rlc3QnLCAnbWFzcycsICdwZWRpJywgJ2FnZScsICdjbGFzcyddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGVzdF9maWxlLmpzb24K</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBkZWYgdGVzdF9sb2FkKHNlbGYpOgogICAgICAgIGJveCA9IHNlbGYuY2xhc3NpZmVyX2NyZWF0b3IoKQogICAgICAgIGJveC5zYXZlKCd0ZXN0X2ZpbGUuanNvbicpCiAgICAgICAgbmV3X2JveCA9IEJveFRyZWVOb2RlLmxvYWQoJ3Rlc3RfZmlsZS5qc29uJykKICAgICAgICBzZWxmLmFzc2VydFRydWUoYm94LmVxdWFscyhuZXdfYm94KSkK</text>
+        <text encoding="base64">Ym94U2hhcnBlbmVyL2V4YW1wbGVzL2JveF8wLmpzb24KYm94U2hhcnBlbmVyL2V4YW1wbGVzL2JveF8xLmpzb24KYm94U2hhcnBlbmVyL2V4YW1wbGVzL2JveF8yLmpzb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+        <text encoding="base64">dGVzdF9maWxlLmpzb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+        <text encoding="base64">CiAgICBkZWYgdGVzdF9sb2FkKHNlbGYpOgogICAgICAgIGJveCA9IHNlbGYuY2xhc3NpZmVyX2NyZWF0b3IoKQogICAgICAgIGJveC5zYXZlKCd0ZXN0X2ZpbGUuanNvbicpCiAgICAgICAgbmV3X2JveCA9IEJveFRyZWVOb2RlLmxvYWQoJ3Rlc3RfZmlsZS5qc29uJykKICAgICAgICBzZWxmLmFzc2VydFRydWUoYm94LmVxdWFscyhuZXdfYm94KSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBub2Rlc19saXN0ID0gW2kgZm9yIGkgaW4ganNvbi5sb2FkcyhzZXJpYWxpemVkX3N0cmluZylbJ25vZGVzX2xpc3QnXV0K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5nZQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -81,7 +81,7 @@ filetype off
 call pathogen#infect()
 call pathogen#helptags()
 
-"execute pathogen#infect()
+execute pathogen#infect()
 
 set foldmethod=indent
 set foldlevel=99

@@ -175,10 +175,10 @@
         <mark key="." line="16" column="91" />
         <mark key="^" line="16" column="91" />
       </file>
-      <file name="/Python Console" timestamp="1473393140493">
+      <file name="/Python Console" timestamp="1473395616647">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1472686101321">
+      <file name="/fragment.py" timestamp="1473395108759">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -386,15 +386,15 @@
         <mark key="^" line="72" column="73" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="D:/repos/BoxSharpener/boxSharpener/ImageTree/ImageTree.py" timestamp="1473395540287">
+        <mark key="'" line="95" column="18" />
+        <mark key="[" line="52" column="37" />
+        <mark key="]" line="52" column="37" />
+        <mark key="^" line="14" column="39" />
+        <mark key="." line="52" column="37" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="D:/repos/BoxSharpener/boxSharpener/lib/visualize.py" />
-      <jump line="34" column="15" filename="D:/repos/BoxSharpener/boxSharpener/lib/visualize.py" />
-      <jump line="56" column="4" filename="D:/repos/BoxSharpener/boxSharpener/lib/visualize.py" />
-      <jump line="49" column="11" filename="D:/repos/BoxSharpener/boxSharpener/lib/visualize.py" />
-      <jump line="35" column="15" filename="D:/repos/BoxSharpener/boxSharpener/lib/visualize.py" />
-      <jump line="64" column="41" filename="D:/repos/BoxSharpener/boxSharpener/lib/boxSharpener.py" />
-      <jump line="72" column="76" filename="D:/repos/BoxSharpener/boxSharpener/lib/boxSharpener.py" />
       <jump line="63" column="13" filename="D:/repos/BoxSharpener/boxSharpener/lib/boxSharpener.py" />
       <jump line="82" column="34" filename="D:/repos/BoxSharpener/boxSharpener/lib/boxSharpener.py" />
       <jump line="83" column="25" filename="D:/repos/BoxSharpener/boxSharpener/lib/boxSharpener.py" />
@@ -488,16 +488,23 @@
       <jump line="13" column="13" filename="D:/repos/BoxSharpener/boxSharpener/lib/BoxTreeNodeParams.py" />
       <jump line="70" column="63" filename="D:/repos/BoxSharpener/boxSharpener/lib/BoxTreeNodeParams.py" />
       <jump line="33" column="8" filename="D:/repos/BoxSharpener/boxSharpener/lib/BoxTreeNodeParams.py" />
+      <jump line="6" column="6" filename="D:/repos/BoxSharpener/boxSharpener/ImageTree/ImageTree.py" />
+      <jump line="37" column="15" filename="D:/repos/BoxSharpener/boxSharpener/ImageTree/ImageTree.py" />
+      <jump line="38" column="24" filename="D:/repos/BoxSharpener/boxSharpener/ImageTree/ImageTree.py" />
+      <jump line="63" column="15" filename="D:/repos/BoxSharpener/boxSharpener/ImageTree/ImageTree.py" />
+      <jump line="78" column="15" filename="D:/repos/BoxSharpener/boxSharpener/ImageTree/ImageTree.py" />
+      <jump line="92" column="15" filename="D:/repos/BoxSharpener/boxSharpener/ImageTree/ImageTree.py" />
+      <jump line="95" column="18" filename="D:/repos/BoxSharpener/boxSharpener/ImageTree/ImageTree.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>right_name</text>
+        <text>imarray</text>
       </register>
       <register name="-" type="4">
-        <text>right_name</text>
+        <text>imarray</text>
       </register>
       <register name="/" type="4">
-        <text>left</text>
+        <text encoding="base64">XDxJbWFnZVRyZWVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiB0cmVlTm9kZS5sZWZ0X2NoaWxkOgogICAgICAgICAgICBjaGlsZHJlbi5hcHBlbmQodHJlZU5vZGUubGVmdF9jaGlsZC5uYW1lKQo=</text>
@@ -534,9 +541,9 @@
       </register>
     </registers>
     <search>
-      <last-search>left</last-search>
+      <last-search encoding="base64">XDxJbWFnZVRyZWVcPg==</last-search>
       <last-offset />
-      <last-pattern>left</last-pattern>
+      <last-pattern encoding="base64">XDxJbWFnZVRyZWVcPg==</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -544,7 +551,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwbG90X2lyaXNcPg==</entry>
         <entry encoding="base64">XDxsZWZ0X3hcPg==</entry>
         <entry encoding="base64">XDxmaW5kX2Jlc3Rfc3BsaXRfZGltZW5zaW9uXD4=</entry>
         <entry>0</entry>
@@ -564,6 +570,7 @@
         <entry>self</entry>
         <entry encoding="base64">XDxsZWZ0X25hbWVcPg==</entry>
         <entry>left</entry>
+        <entry encoding="base64">XDxJbWFnZVRyZWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/\#.+\n//g</entry>

@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Github/Imagetree/imagetree/TileServer.py" timestamp="1474241748658">
-        <mark key="'" line="15" column="20" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="D:/Github/Imagetree/imagetree/TileServer.py" timestamp="1474316424216">
+        <mark key="'" line="19" column="106" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
         <mark key="^" line="5" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/test_basic.py" timestamp="1469503175283">
@@ -73,13 +73,6 @@
         <mark key="]" line="21" column="38" />
         <mark key="^" line="21" column="38" />
         <mark key="." line="21" column="38" />
-      </file>
-      <file name="D:/Github/Imagetree/imagetree/Utilities.py" timestamp="1474237167481">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="62" column="18" />
-        <mark key="]" line="63" column="16" />
-        <mark key="." line="63" column="16" />
-        <mark key="^" line="63" column="16" />
       </file>
       <file name="$USER_HOME$/Source/Repos/promisigin-patterns/PersistencyMatrix/PersistencyMatrix/PythonClusteringApplication1/clustering.py" timestamp="1444611660951">
         <mark key="[" line="319" column="123" />
@@ -233,10 +226,6 @@
       </file>
       <file name="D:/Github/Imagetree/templates/seadragon_viewer.html" timestamp="1474240658089">
         <mark key="'" line="62" column="0" />
-        <mark key="[" line="40" column="24" />
-        <mark key="]" line="40" column="22" />
-        <mark key="." line="40" column="22" />
-        <mark key="^" line="40" column="22" />
       </file>
       <file name="D:/Github/Imagetree/index.html" timestamp="1474226231141">
         <mark key="'" line="25" column="39" />
@@ -298,11 +287,9 @@
         <mark key="^" line="10" column="20" />
         <mark key="." line="10" column="20" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree/ImageTree.py" timestamp="1474241830679">
-        <mark key="'" line="72" column="8" />
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="8" />
-        <mark key="." line="199" column="8" />
+      <file name="D:/Github/Imagetree/imagetree/ImageTree.py" timestamp="1474316393457">
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="140" />
       </file>
       <file name="D:/repos/BoxSharpener/README.md" timestamp="1471650660507">
         <mark key="[" line="0" column="14" />
@@ -506,10 +493,6 @@
       </file>
       <file name="D:/Github/Imagetree/imagetree/TreeMap.py" timestamp="1474239895108">
         <mark key="'" line="3" column="7" />
-        <mark key="[" line="132" column="54" />
-        <mark key="]" line="132" column="63" />
-        <mark key="." line="132" column="63" />
-        <mark key="^" line="132" column="63" />
       </file>
       <file name="D:/repos/BoxSharpener/boxSharpener/ImageTree/ImageTree.py" timestamp="1473395540287">
         <mark key="'" line="95" column="18" />
@@ -520,7 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="25" filename="D:/Github/Imagetree/imagetree/ImageTree.py" />
       <jump line="149" column="26" filename="D:/Github/Imagetree/imagetree/ImageTree.py" />
       <jump line="78" column="35" filename="D:/Github/Imagetree/imagetree/TreeMap.py" />
       <jump line="108" column="39" filename="D:/Github/Imagetree/imagetree/TreeMap.py" />
@@ -620,46 +602,47 @@
       <jump line="56" column="36" filename="D:/Github/Imagetree/templates/500.html" />
       <jump line="28" column="15" filename="D:/Github/Imagetree/server_main.py" />
       <jump line="2" column="36" filename="D:/Github/Imagetree/server_main.py" />
+      <jump line="19" column="106" filename="D:/Github/Imagetree/imagetree/TileServer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC8gMg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFRyZWVHZW5lcmF0b3IK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8gMg==</text>
+        <text>Serializer.Serializer().load_node('https://artmapstore.blob.core.windows.net/firstnodes/worldmapsmall.jpg.json@worldmapsmall.jpg')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb2RlTm90Rm91bmRFeGNlcHRpb25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>render_template('404.html'), 404</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRyZWUgPSBTZXJpYWxpemVyLlNlcmlhbGl6ZXIoKS5sb2FkX25vZGUoJ2h0dHBzOi8vYXJ0bWFwc3RvcmUuYmxvYi5jb3JlLndpbmRvd3MubmV0L2ZpcnN0bm9kZXMvd29ybGRtYXBzbWFsbC5qcGcuanNvbkB3b3JsZG1hcHNtYWxsLmpwZycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">aW1wb3J0IFRyZWVHZW5lcmF0b3IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmVlID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSW1hZ2UuZnJvbWFycmF5KGRlc2NlbmRhbnQudG9faW1hZ2VfYXJyYXkocmVzb2x1dGlvbj1yZXNvbHV0aW9uKSkK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBpbWFnZXRyZWUuY3VzdG9tX2Vycm9ycyBpbXBvcnQgCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgTm9kZU5vdEZvdW5kRXhjZXB0aW9uOgogICAgICAgICAgICByZXR1cm4gSW1hZ2UubmV3KCJSR0IiLCAocmVzb2x1dGlvbiwgcmVzb2x1dGlvbiksICJibGFjayIpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSW1hZ2UuZnJvbWFycmF5KGRlc2NlbmRhbnQudG9faW1hZ2VfYXJyYXkocmVzb2x1dGlvbj1yZXNvbHV0aW9uKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ZnJvbSBpbWFnZXRyZWUuY3VzdG9tX2Vycm9ycyBpbXBvcnQgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBleGNlcHQgTm9kZU5vdEZvdW5kRXhjZXB0aW9uOgogICAgICAgICAgICByZXR1cm4gSW1hZ2UubmV3KCJSR0IiLCAocmVzb2x1dGlvbiwgcmVzb2x1dGlvbiksICJibGFjayIpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9Im9wZW5zZWFkcmFnb24xIiBzdHlsZT0id2lkdGg6IDgwMHB4OyBoZWlnaHQ6IDYwMHB4OyI+PC9kaXY+CiAgICA8c2NyaXB0IHNyYz0iLi4vc3RhdGljL2pzL29wZW5zZWFkcmFnb24uanMiPjwvc2NyaXB0PgogICAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgogICAgdmFyIHZpZXdlciA9IE9wZW5TZWFkcmFnb24oewogICAgICAgIGlkOiAib3BlbnNlYWRyYWdvbjEiLAogICAgICAgIHByZWZpeFVybDogIi9vcGVuc2VhZHJhZ29uL2ltYWdlcy8iLAogICAgICAgICAgICB0aWxlU291cmNlczogICB7CiAgICAgICAgICAgIGhlaWdodDogMTAyNCwKICAgICAgICAgICAgd2lkdGg6ICAxMDI0LAogICAgICAgICAgICB0aWxlU2l6ZTogMjU2LAogICAgICAgICAgICBtaW5MZXZlbDogMCwKICAgICAgICAgICAgbWF4TGV2ZWw6IDEyLAogICAgICAgICAgICBnZXRUaWxlVXJsOiBmdW5jdGlvbiggbGV2ZWwsIHgsIHkgKXsKICAgICAgICAgICAgICAgIHJldHVybiAiaHR0cDovL2xvY2FsaG9zdDo1MDAwL3RpbGUvIiArIGxldmVsICsgIi8iICsgeCArICAiLyIgKyB5OwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfSk7CiAgICA8L3NjcmlwdD4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgTm9kZU5vdEZvdW5kRXhjZXB0aW9uOgogICAgICAgICAgICByZXR1cm4gSW1hZ2UubmV3KCJSR0IiLCAocmVzb2x1dGlvbiwgcmVzb2x1dGlvbiksICJibGFjayIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

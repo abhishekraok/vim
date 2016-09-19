@@ -104,11 +104,11 @@
         <mark key="^" line="17" column="12" />
         <mark key="." line="17" column="12" />
       </file>
-      <file name="D:/Github/Imagetree/templates/about.html" timestamp="1474326782645">
-        <mark key="[" line="55" column="21" />
-        <mark key="]" line="55" column="20" />
-        <mark key="^" line="55" column="20" />
-        <mark key="." line="55" column="20" />
+      <file name="D:/Github/Imagetree/templates/about.html" timestamp="1474328474659">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="64" column="11" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="D:/Github/Imagetree/artmap/templates/index.html" timestamp="1474217927461">
         <mark key="[" line="34" column="23" />
@@ -123,11 +123,12 @@
         <mark key="^" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="D:/Github/Imagetree/server_main.py" timestamp="1474326258248">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="32" />
-        <mark key="^" line="1" column="32" />
-        <mark key="." line="1" column="32" />
+      <file name="D:/Github/Imagetree/server_main.py" timestamp="1474328549125">
+        <mark key="'" line="0" column="42" />
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="40" />
+        <mark key="^" line="23" column="40" />
+        <mark key="." line="23" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/Word2Vec.py" timestamp="1469567957389">
         <mark key="'" line="22" column="31" />
@@ -194,6 +195,12 @@
       </file>
       <file name="/" timestamp="1474159199000">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Github/Imagetree/imagetree/tileserver.py" timestamp="1474328271711">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+        <mark key="^" line="24" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/FirstLSTMModel.py" timestamp="1469381532846">
         <mark key="'" line="15" column="0" />
@@ -454,11 +461,11 @@
         <mark key="^" line="15" column="50" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="D:/Github/Imagetree/README.md" timestamp="1474226649368">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="11" />
+      <file name="D:/Github/Imagetree/README.md" timestamp="1474327845505">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="28" />
         <mark key="^" line="7" column="11" />
-        <mark key="." line="7" column="11" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPredictor.py" timestamp="1469558100560">
         <mark key="'" line="14" column="30" />
@@ -495,10 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="14" filename="D:/Github/Imagetree/artmap/TileGenerator.py" />
-      <jump line="13" column="18" filename="D:/Github/Imagetree/artmap/server_main.py" />
-      <jump line="12" column="6" filename="D:/Github/Imagetree/imagetree/ImageTree.py" />
-      <jump line="45" column="29" filename="D:/Github/Imagetree/index.html" />
       <jump line="25" column="39" filename="D:/Github/Imagetree/index.html" />
       <jump line="38" column="21" filename="D:/Github/Imagetree/imagetree/Serializer.py" />
       <jump line="29" column="0" filename="D:/Github/Imagetree/imagetree/Serializer.py" />
@@ -520,7 +523,6 @@
       <jump line="8" column="0" filename="D:/Github/Imagetree/artmap/server_main.py" />
       <jump line="8" column="13" filename="D:/Github/Imagetree/imagetree/TileServer.py" />
       <jump line="27" column="21" filename="D:/Github/Imagetree/server_main.py" />
-      <jump line="0" column="17" filename="D:/Github/Imagetree/server_main.py" />
       <jump line="1" column="42" filename="D:/Github/Imagetree/server_main.py" />
       <jump line="48" column="54" filename="D:/Github/Imagetree/imagetree/ImageTree.py" />
       <jump line="114" column="77" filename="D:/Github/Imagetree/imagetree/ImageTree.py" />
@@ -539,7 +541,6 @@
       <jump line="130" column="17" filename="D:/Github/Imagetree/imagetree/TreeMap.py" />
       <jump line="3" column="7" filename="D:/Github/Imagetree/imagetree/TreeMap.py" />
       <jump line="61" column="0" filename="D:/Github/Imagetree/templates/seadragon_viewer.html" />
-      <jump line="31" column="0" filename="D:/Github/Imagetree/server_main.py" />
       <jump line="56" column="36" filename="D:/Github/Imagetree/templates/500.html" />
       <jump line="28" column="15" filename="D:/Github/Imagetree/server_main.py" />
       <jump line="2" column="36" filename="D:/Github/Imagetree/server_main.py" />
@@ -595,55 +596,61 @@
       <jump line="110" column="22" filename="D:/Github/Imagetree/static/css/main.css" />
       <jump line="72" column="36" filename="D:/Github/Imagetree/static/css/main.css" />
       <jump line="77" column="28" filename="D:/Github/Imagetree/static/css/main.css" />
+      <jump line="47" column="4" filename="D:/Github/Imagetree/server_main.py" />
+      <jump line="24" column="11" filename="D:/Github/Imagetree/server_main.py" />
+      <jump line="31" column="15" filename="D:/Github/Imagetree/server_main.py" />
+      <jump line="33" column="15" filename="D:/Github/Imagetree/server_main.py" />
+      <jump line="19" column="13" filename="D:/Github/Imagetree/server_main.py" />
+      <jump line="0" column="42" filename="D:/Github/Imagetree/server_main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>e44</text>
+        <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgPGEgaHJlZj0iYWJoaXNoZWsucmFvLm9yZyI+QmxvZzwvYT4KICAgICAgICAgICAgPC9saT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBocmVmPSJsaW5rZGUiPkxpbmtlZGluPC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBQbGVhc2UgZW50ZXIgeW91ciBjb21tZW50IGhlcmU6CiAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWU9ImNvbW1lbnQiPgogICAgICAgIDxidXR0b24gdHlwZT0ic3VibWl0Ij5TdWJtaXQ8L2J1dHRvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBocmVmPSJsaW5rZGUiPkxpbmtlZGluPC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRyZWUgPSBzZXJpYWxpemVyLlNlcmlhbGl6ZXIoKS5sb2FkX25vZGUoCiAgICAgICAgICAgICdodHRwczovL2FydG1hcHN0b3JlLmJsb2IuY29yZS53aW5kb3dzLm5ldC9maXJzdG5vZGVzL3dvcmxkbWFwc21hbGwuanBnLmpzb25Ad29ybGRtYXBzbWFsbC5qcGcnKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIEhlcmUgaXMgYSBsaW5rIHRvIG15IGxpbmtlZGluIGFjY291bnQu</text>
+      <register name="4" type="2">
+        <text encoding="base64">LSBDbGVhbnVwIHRlbXBsYXRlcywgd2VicGFnZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzZWN0aW9uPgogICAgICAgIDxoMT4KICAgICAgICAgICAgTGV0IG1lIHNlZSBpdC4KICAgICAgICA8L2gxPgogICAgICAgIDxwPgogICAgICAgICAgICBDbGljayA8YSBocmVmPSJ7e3VybF9mb3IoJ3ZpZXcnKX19Ij5oZXJlPC9hPgogICAgICAgIDwvcD4KICAgIDwvc2VjdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICA8YSBocmVmPSJsaW5rZGUiPkxpbmtlZGluPC9hPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8dWw+CiAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgIEluZmluaXRlCiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgIEVkdWNhdGlvbmFsCiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgPC91bD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUaGUgZmVhdHVyZXMgYXJlIGl0IGlzCg==</text>
+        <text encoding="base64">ICAgICAgICA8YSBocmVmPSJsaW5rZGUiPkxpbmtlZGluPC9hPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIEhlcmUgaXMgYSBsaW5rIHRvIG15IGxpbmtlZGluIGFjY291bnQu</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzZWN0aW9uPgogICAgICAgIDxoMT4KICAgICAgICAgICAgTGV0IG1lIHNlZSBpdC4KICAgICAgICA8L2gxPgogICAgICAgIDxwPgogICAgICAgICAgICBDbGljayA8YSBocmVmPSJ7e3VybF9mb3IoJ3ZpZXcnKX19Ij5oZXJlPC9hPgogICAgICAgIDwvcD4KICAgIDwvc2VjdGlvbj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>e44</last-search>
+      <last-search encoding="base64">XDxyZXF1ZXN0XD4=</last-search>
       <last-offset />
-      <last-pattern>e44</last-pattern>
+      <last-pattern encoding="base64">XDxyZXF1ZXN0XD4=</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -651,8 +658,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJbWFnZVRyZWVcPg==</entry>
-        <entry encoding="base64">XDxjaGlsZHJlbl9wcml2YXRlXD4=</entry>
         <entry encoding="base64">XDxUaWxlU2VydmVyXD4=</entry>
         <entry encoding="base64">XDxkZWZhdWx0X2dyZXlfcGl4ZWxcPg==</entry>
         <entry encoding="base64">XDxkZXB0aF9saW1pdFw+</entry>
@@ -671,6 +676,8 @@
         <entry>block</entry>
         <entry>f16</entry>
         <entry>e44</entry>
+        <entry encoding="base64">XDx0aWxlX2dlbmVyYXRvclw+</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/\#.+\n//g</entry>

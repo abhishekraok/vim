@@ -297,12 +297,12 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree/test_imagetree.py" timestamp="1474223752452">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="150" column="73" />
-        <mark key="]" line="150" column="76" />
-        <mark key="." line="150" column="76" />
-        <mark key="^" line="150" column="76" />
+      <file name="D:/Github/Imagetree/imagetree/test_imagetree.py" timestamp="1474319753692">
+        <mark key="'" line="118" column="8" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="." line="163" column="0" />
+        <mark key="^" line="109" column="25" />
       </file>
       <file name="D:/repos/keras-rl/examples/dqn_cartpole.py" timestamp="1471124673249">
         <mark key="'" line="7" column="26" />
@@ -503,19 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="26" filename="D:/Github/Imagetree/imagetree/ImageTree.py" />
-      <jump line="78" column="35" filename="D:/Github/Imagetree/imagetree/TreeMap.py" />
-      <jump line="108" column="39" filename="D:/Github/Imagetree/imagetree/TreeMap.py" />
-      <jump line="74" column="74" filename="D:/Github/Imagetree/imagetree/TreeMap.py" />
-      <jump line="70" column="12" filename="D:/Github/Imagetree/imagetree/TreeMap.py" />
-      <jump line="76" column="8" filename="D:/Github/Imagetree/imagetree/test_imagetree.py" />
-      <jump line="117" column="0" filename="D:/Github/Imagetree/imagetree/test_imagetree.py" />
-      <jump line="126" column="18" filename="D:/Github/Imagetree/imagetree/test_imagetree.py" />
-      <jump line="7" column="15" filename="D:/Github/Imagetree/imagetree/test_imagetree.py" />
-      <jump line="137" column="36" filename="D:/Github/Imagetree/imagetree/ImageTree.py" />
-      <jump line="7" column="37" filename="D:/Github/Imagetree/imagetree/Serializer.py" />
-      <jump line="50" column="20" filename="D:/Github/Imagetree/imagetree/Utilities.py" />
-      <jump line="53" column="26" filename="D:/Github/Imagetree/imagetree/ImageTree.py" />
       <jump line="91" column="30" filename="D:/Github/Imagetree/imagetree/Utilities.py" />
       <jump line="3" column="0" filename="D:/Github/Imagetree/imagetree/Utilities.py" />
       <jump line="45" column="42" filename="D:/Github/Imagetree/imagetree/Serializer.py" />
@@ -603,55 +590,68 @@
       <jump line="28" column="15" filename="D:/Github/Imagetree/server_main.py" />
       <jump line="2" column="36" filename="D:/Github/Imagetree/server_main.py" />
       <jump line="19" column="106" filename="D:/Github/Imagetree/imagetree/TileServer.py" />
+      <jump line="18" column="28" filename="D:/Github/Imagetree/imagetree/test_imagetree.py" />
+      <jump line="142" column="15" filename="D:/Github/Imagetree/imagetree/test_imagetree.py" />
+      <jump line="8" column="7" filename="D:/Github/Imagetree/imagetree/test_imagetree.py" />
+      <jump line="136" column="13" filename="D:/Github/Imagetree/imagetree/test_imagetree.py" />
+      <jump line="134" column="13" filename="D:/Github/Imagetree/imagetree/test_imagetree.py" />
+      <jump line="137" column="16" filename="D:/Github/Imagetree/imagetree/test_imagetree.py" />
+      <jump line="105" column="13" filename="D:/Github/Imagetree/imagetree/test_imagetree.py" />
+      <jump line="110" column="13" filename="D:/Github/Imagetree/imagetree/test_imagetree.py" />
+      <jump line="114" column="13" filename="D:/Github/Imagetree/imagetree/test_imagetree.py" />
+      <jump line="152" column="17" filename="D:/Github/Imagetree/imagetree/test_imagetree.py" />
+      <jump line="109" column="0" filename="D:/Github/Imagetree/imagetree/test_imagetree.py" />
+      <jump line="111" column="13" filename="D:/Github/Imagetree/imagetree/test_imagetree.py" />
+      <jump line="118" column="8" filename="D:/Github/Imagetree/imagetree/test_imagetree.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFRyZWVHZW5lcmF0b3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJlZS5zYXZlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>Serializer.Serializer().load_node('https://artmapstore.blob.core.windows.net/firstnodes/worldmapsmall.jpg.json@worldmapsmall.jpg')</text>
+        <text>filename</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOb2RlTm90Rm91bmRFeGNlcHRpb25cPg==</text>
+        <text>save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyZWUgPSBTZXJpYWxpemVyLlNlcmlhbGl6ZXIoKS5sb2FkX25vZGUoJ2h0dHBzOi8vYXJ0bWFwc3RvcmUuYmxvYi5jb3JlLndpbmRvd3MubmV0L2ZpcnN0bm9kZXMvd29ybGRtYXBzbWFsbC5qcGcuanNvbkB3b3JsZG1hcHNtYWxsLmpwZycpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgY2ggaW4gc3ViX2ZpbGVzX3ByZWZpeDoKICAgICAgICAgICAgdHJlZS5zYXZlKGNoICsgZmlyc3RfdHJlZV9maWxlbmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFRyZWVHZW5lcmF0b3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJlZS5zYXZlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cmVlID0gCg==</text>
+        <text encoding="base64">aW1wb3J0IFRyZWVHZW5lcmF0b3IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmVlID0gCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSW1hZ2UuZnJvbWFycmF5KGRlc2NlbmRhbnQudG9faW1hZ2VfYXJyYXkocmVzb2x1dGlvbj1yZXNvbHV0aW9uKSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBpbWFnZXRyZWUuY3VzdG9tX2Vycm9ycyBpbXBvcnQgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgTm9kZU5vdEZvdW5kRXhjZXB0aW9uOgogICAgICAgICAgICByZXR1cm4gSW1hZ2UubmV3KCJSR0IiLCAocmVzb2x1dGlvbiwgcmVzb2x1dGlvbiksICJibGFjayIpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSW1hZ2UuZnJvbWFycmF5KGRlc2NlbmRhbnQudG9faW1hZ2VfYXJyYXkocmVzb2x1dGlvbj1yZXNvbHV0aW9uKSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBpbWFnZXRyZWUuY3VzdG9tX2Vycm9ycyBpbXBvcnQgCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBleGNlcHQgTm9kZU5vdEZvdW5kRXhjZXB0aW9uOgogICAgICAgICAgICByZXR1cm4gSW1hZ2UubmV3KCJSR0IiLCAocmVzb2x1dGlvbiwgcmVzb2x1dGlvbiksICJibGFjayIpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOb2RlTm90Rm91bmRFeGNlcHRpb25cPg==</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOb2RlTm90Rm91bmRFeGNlcHRpb25cPg==</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -659,10 +659,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaXN0X3BhcmFtc1w+</entry>
-        <entry encoding="base64">XDxhcHBlbmRfdG9fbWFwXD4=</entry>
-        <entry encoding="base64">XDxfX2luaXRfX1w+</entry>
-        <entry encoding="base64">XDxUcmVlTWFwXD4=</entry>
         <entry encoding="base64">XDxjaGlsZHJlblw+</entry>
         <entry encoding="base64">XDxJbWFnZVRyZWVQYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxjaGlsZHJlbl9saW5rc1w+</entry>
@@ -677,8 +673,12 @@
         <entry encoding="base64">XDxnZXRfcGl4ZWxfZGVwdGhfbGltaXRcPg==</entry>
         <entry encoding="base64">XDxkZXB0aFw+</entry>
         <entry encoding="base64">XDxpbWFnZV9hcnJheV9kZXB0aFw+</entry>
-        <entry encoding="base64">XDxvc1w+</entry>
         <entry encoding="base64">XDxOb2RlTm90Rm91bmRFeGNlcHRpb25cPg==</entry>
+        <entry>Open</entry>
+        <entry>open</entry>
+        <entry encoding="base64">XDxvc1w+</entry>
+        <entry encoding="base64">XDxvcGVuXD4=</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry>s/\#.+\n//g</entry>

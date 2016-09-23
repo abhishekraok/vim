@@ -294,12 +294,12 @@
         <mark key="^" line="10" column="20" />
         <mark key="." line="10" column="20" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree/test_imagetree.py" timestamp="1474587592382">
-        <mark key="'" line="187" column="16" />
-        <mark key="[" line="216" column="50" />
-        <mark key="]" line="216" column="48" />
-        <mark key="." line="216" column="48" />
-        <mark key="^" line="216" column="48" />
+      <file name="D:/Github/Imagetree/imagetree/test_imagetree.py" timestamp="1474648711608">
+        <mark key="'" line="218" column="0" />
+        <mark key="[" line="230" column="16" />
+        <mark key="]" line="230" column="45" />
+        <mark key="^" line="230" column="45" />
+        <mark key="." line="230" column="45" />
       </file>
       <file name="D:/repos/BoxSharpener/README.md" timestamp="1471650660507">
         <mark key="[" line="0" column="14" />
@@ -511,7 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="41" filename="D:/Github/Imagetree/artmap/TileGenerator.py" />
       <jump line="8" column="0" filename="D:/Github/Imagetree/artmap/server_main.py" />
       <jump line="8" column="13" filename="D:/Github/Imagetree/imagetree/TileServer.py" />
       <jump line="27" column="21" filename="D:/Github/Imagetree/server_main.py" />
@@ -611,6 +610,7 @@
       <jump line="15" column="7" filename="D:/Github/Imagetree/server_main.py" />
       <jump line="34" column="21" filename="D:/Github/Imagetree/server_main.py" />
       <jump line="187" column="16" filename="D:/Github/Imagetree/imagetree/test_imagetree.py" />
+      <jump line="218" column="0" filename="D:/Github/Imagetree/imagetree/test_imagetree.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

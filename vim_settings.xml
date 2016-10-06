@@ -136,6 +136,12 @@
         <mark key="." line="76" column="47" />
         <mark key="^" line="76" column="46" />
       </file>
+      <file name="D:/Github/Imagetree/imagetree_core/azure_image_tree.py" timestamp="1475712678877">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="51" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="D:/repos/Socrates/src/Understander.py" timestamp="1469746510010">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="5" column="82" />
@@ -299,7 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="13" filename="D:/Github/Imagetree/server_main.py" />
       <jump line="0" column="42" filename="D:/Github/Imagetree/server_main.py" />
       <jump line="20" column="11" filename="D:/Github/Imagetree/forms.py" />
       <jump line="2" column="0" filename="D:/Github/Imagetree/forms.py" />
@@ -399,10 +404,11 @@
       <jump line="24" column="34" filename="D:/Github/Imagetree/artmap_server/views.py" />
       <jump line="25" column="47" filename="D:/Github/Imagetree/artmap_server/views.py" />
       <jump line="8" column="26" filename="D:/Github/Imagetree/artmap_server/views.py" />
+      <jump line="3" column="0" filename="D:/Github/Imagetree/imagetree_core/azure_image_tree.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>port_to_try</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBhenVyZS5zdG9yYWdlLmJsb2IgaW1wb3J0IEJsb2NrQmxvYlNlcnZpY2UK</text>
       </register>
       <register name="-" type="4">
         <text>port_to_try</text>
@@ -414,31 +420,31 @@
         <text encoding="base64">ICAgIGRlZmF1bHRfZ3JleV9waXhlbCA9ICgxMjgsIDEyOCwgMTI4KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvcnQgPSA4MDgwCg==</text>
+        <text encoding="base64">ZnJvbSBhenVyZS5zdG9yYWdlLmJsb2IgaW1wb3J0IEJsb2NrQmxvYlNlcnZpY2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cG9ydF90b190cnkgPSA4MDgwCg==</text>
+        <text encoding="base64">ICAgIHBvcnQgPSA4MDgwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHZpZXdzCmFwcCA9IHZpZXdzLmFwcAo=</text>
+        <text encoding="base64">cG9ydF90b190cnkgPSA4MDgwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHZpZXdzCmFwcCA9IHZpZXdzLmFwcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFwcGVuZ2luZV9jb25maWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB2aWV3cyBpbXBvcnQgKgo=</text>
+        <text encoding="base64">aW1wb3J0IGFwcGVuZ2luZV9jb25maWcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBQT1JUCg==</text>
+        <text encoding="base64">ZnJvbSB2aWV3cyBpbXBvcnQgKgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIGdsb2JhbCBQT1JUCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBQT1JUCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

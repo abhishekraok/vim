@@ -332,6 +332,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="D:/Github/Imagetree/artmap_server/templates/viewer.html" timestamp="1475715981712">
+        <mark key="[" line="27" column="58" />
+        <mark key="]" line="27" column="58" />
+        <mark key="." line="27" column="58" />
+        <mark key="^" line="27" column="30" />
+      </file>
       <file name="D:/repos/Socrates/src/Socrates.py" timestamp="1469831012775">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="53" column="8" />
@@ -692,11 +698,11 @@
       <jump line="1" column="11" filename="D:/Github/Imagetree/artmap_server/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBQT1JUCg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>8080</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>view</text>

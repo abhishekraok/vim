@@ -41,11 +41,6 @@
       <file name="C:/Repos/octane/allReleases/ultracamgitrepo.py" timestamp="1461617209224">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/test_imagetree.py" timestamp="1475800441544">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="D:/Github/Imagetree/templates/about.html" timestamp="1474329211483">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
@@ -134,7 +129,7 @@
       <file name="/fragment.py" timestamp="1475798712508">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/tree_operator.py" timestamp="1475800519245">
+      <file name="D:/Github/Imagetree/imagetree_core/tree_operator.py" timestamp="1476062120379">
         <mark key="'" line="171" column="4" />
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
@@ -251,12 +246,12 @@
         <mark key="^" line="2" column="92" />
         <mark key="." line="2" column="92" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/serializer.py" timestamp="1475798352676">
-        <mark key="'" line="55" column="32" />
-        <mark key="[" line="122" column="123" />
-        <mark key="]" line="123" column="25" />
-        <mark key="." line="123" column="25" />
-        <mark key="^" line="123" column="25" />
+      <file name="D:/Github/Imagetree/imagetree_core/serializer.py" timestamp="1476062578918">
+        <mark key="'" line="57" column="32" />
+        <mark key="[" line="45" column="97" />
+        <mark key="]" line="46" column="97" />
+        <mark key="." line="46" column="97" />
+        <mark key="^" line="46" column="97" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/Nodes.py" timestamp="1468617294289">
         <mark key="[" line="13" column="26" />
@@ -430,11 +425,10 @@
         <mark key="." line="31" column="0" />
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/commander.py" timestamp="1475798318206">
-        <mark key="'" line="90" column="13" />
-        <mark key="[" line="129" column="92" />
-        <mark key="]" line="129" column="92" />
-        <mark key="^" line="129" column="78" />
-        <mark key="." line="129" column="92" />
+        <mark key="[" line="10" column="92" />
+        <mark key="]" line="10" column="92" />
+        <mark key="^" line="10" column="78" />
+        <mark key="." line="10" column="92" />
       </file>
       <file name="D:/Github/Imagetree/artmap_server/__init__.py" timestamp="1475714868496">
         <mark key="[" line="12" column="14" />

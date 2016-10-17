@@ -25,6 +25,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="D:/Github/Imagetree/artmap_server/views.py" timestamp="1476747044725" />
       <file name="$USER_HOME$/Source/Repos/promisigin-patterns/PersistencyMatrix/PersistencyMatrix/PythonClusteringApplication1/clustering.py" timestamp="1444611660951">
         <mark key="[" line="319" column="123" />
         <mark key="]" line="319" column="123" />
@@ -116,13 +117,13 @@
         <mark key="." line="18" column="34" />
         <mark key="^" line="18" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1476232378031">
+      <file name="/Python Console" timestamp="1476746758228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1476232415030">
+      <file name="/fragment.py" timestamp="1476747047031">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="15" />
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/tree_operator.py" timestamp="1476062120379">
@@ -329,10 +330,9 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="D:/Github/Imagetree/artmap_server/templates/viewer.html" timestamp="1476488811606">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="19" column="16" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="D:/repos/Socrates/src/Socrates.py" timestamp="1469831012775">
         <mark key="'" line="0" column="0" />
@@ -421,8 +421,8 @@
         <mark key="^" line="10" column="78" />
         <mark key="." line="10" column="92" />
       </file>
-      <file name="D:/Github/Imagetree/artmap_server/__init__.py" timestamp="1476231909758">
-        <mark key="'" line="31" column="11" />
+      <file name="D:/Github/Imagetree/artmap_server/__init__.py" timestamp="1476746267708">
+        <mark key="'" line="4" column="6" />
         <mark key="[" line="4" column="39" />
         <mark key="]" line="4" column="35" />
         <mark key="." line="4" column="35" />
@@ -595,7 +595,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="26" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="105" column="8" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="125" column="24" filename="D:/Github/Imagetree/imagetree_core/tile_disk_cache.py" />
       <jump line="141" column="16" filename="D:/Github/Imagetree/imagetree_core/tile_disk_cache.py" />
@@ -695,13 +694,14 @@
       <jump line="59" column="21" filename="D:/Github/Imagetree/artmap_server/views.py" />
       <jump line="153" column="79" filename="D:/Github/Imagetree/artmap_server/views.py" />
       <jump line="11" column="0" filename="D:/Github/Imagetree/artmap_server/views.py" />
+      <jump line="4" column="6" filename="D:/Github/Imagetree/artmap_server/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>imagetree</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW1hZ2V0cmVlX2NvcmUg</text>
+        <text>imagetree</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxST09UTElOS1w+</text>
@@ -709,29 +709,30 @@
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBpbWFnZXRyZWVfY29yZSBpbXBvcnQgY29uc3RhbnRzCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>except KeyError:
+    user_paths = []</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwpzeXMucGF0aC5pbnNlcnQoMCwnRDpcXEdpdGh1YlxcSW1hZ2V0cmVlXFxpbWFnZXRyZWVfY29yZScpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwpzeXMucGF0aC5pbnNlcnQoMCwnRDpcXEdpdGh1YlxcSW1hZ2V0cmVlXFxpbWFnZXRyZWVfY29yZScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBpbWFnZXRyZWVfY29yZS5jb25zdGFudHMgaW1wb3J0IFJPT1RMSU5LCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ZnJvbSBpbWFnZXRyZWVfY29yZS5jb25zdGFudHMgaW1wb3J0IFJPT1RMSU5LCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3lzLnBhdGguaW5zZXJ0KDEsICcuXFxpbWFnZXRyZWVfY29yZScpCg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBpbWFnZXRyZWVfY29yZSBpbXBvcnQgY29uc3RhbnRzCg==</text>
+        <text encoding="base64">c3lzLnBhdGguaW5zZXJ0KDEsICcuXFxpbWFnZXRyZWVfY29yZScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBpbWFnZXRyZWVfY29yZSBpbXBvcnQgY29uc3RhbnRzCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

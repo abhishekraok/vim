@@ -26,12 +26,11 @@
         <mark key="." line="3" column="45" />
         <mark key="^" line="3" column="45" />
       </file>
-      <file name="D:/Github/Imagetree/artmap_server/views.py" timestamp="1476748706930">
-        <mark key="'" line="166" column="4" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="12" />
-        <mark key="^" line="22" column="70" />
-        <mark key="." line="22" column="70" />
+      <file name="D:/Github/Imagetree/artmap_server/views.py" timestamp="1476750475586">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+        <mark key="^" line="21" column="14" />
       </file>
       <file name="$USER_HOME$/Source/Repos/promisigin-patterns/PersistencyMatrix/PersistencyMatrix/PythonClusteringApplication1/clustering.py" timestamp="1444611660951">
         <mark key="[" line="319" column="123" />
@@ -343,11 +342,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/Github/Imagetree/artmap_server/templates/viewer.html" timestamp="1476747916431">
+      <file name="D:/Github/Imagetree/artmap_server/templates/viewer.html" timestamp="1476750198882">
         <mark key="[" line="29" column="33" />
-        <mark key="]" line="29" column="41" />
-        <mark key="." line="29" column="41" />
-        <mark key="^" line="29" column="41" />
+        <mark key="]" line="29" column="43" />
+        <mark key="." line="29" column="43" />
+        <mark key="^" line="29" column="43" />
       </file>
       <file name="D:/repos/Socrates/src/Socrates.py" timestamp="1469831012775">
         <mark key="'" line="0" column="0" />
@@ -610,7 +609,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="8" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="76" column="5" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="77" column="8" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="34" column="90" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
@@ -702,7 +700,6 @@
       <jump line="153" column="79" filename="D:/Github/Imagetree/artmap_server/views.py" />
       <jump line="11" column="0" filename="D:/Github/Imagetree/artmap_server/views.py" />
       <jump line="4" column="6" filename="D:/Github/Imagetree/artmap_server/__init__.py" />
-      <jump line="18" column="11" filename="D:/Github/Imagetree/artmap_server/views.py" />
       <jump line="163" column="4" filename="D:/Github/Imagetree/artmap_server/views.py" />
       <jump line="36" column="8" filename="D:/Github/Imagetree/imagetree_core/tile_disk_cache.py" />
       <jump line="34" column="20" filename="D:/Github/Imagetree/imagetree_core/tile_disk_cache.py" />
@@ -710,56 +707,57 @@
       <jump line="42" column="0" filename="D:/Github/Imagetree/imagetree_core/tile_disk_cache.py" />
       <jump line="6" column="4" filename="D:/Github/Imagetree/runserver.py" />
       <jump line="28" column="0" filename="D:/Github/Imagetree/artmap_server/__init__.py" />
+      <jump line="23" column="39" filename="D:/Github/Imagetree/artmap_server/views.py" />
+      <jump line="18" column="0" filename="D:/Github/Imagetree/artmap_server/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNvY2tldAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="-" type="4">
-        <text>'localhost'</text>
+        <text>server_ip</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxST09UTElOS1w+</text>
+        <text encoding="base64">XDxjYWNoZV9kaXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHNvY2tldAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNvY2tldAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlcnZlcl9pcCA9IHNvY2tldC5nZXRob3N0YnluYW1lKHNvY2tldC5nZXRob3N0bmFtZSgpKQo=</text>
+        <text encoding="base64">dmlld190aWxlX3NlcnZlciA9IHRpbGVzZXJ2ZXIuTXVsdGlSb290VGlsZVNlcnZlcihpbWFnZV9jYWNoZT1pbWFnZV9jYWNoZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGdldF9zZXJ2ZXJfaXAoKToKICAgIHNvY2tldC5nZXRob3N0YnluYW1lKHNvY2tldC5nZXRob3N0bmFtZSgpKQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzb2NrZXQK</text>
+        <text encoding="base64">Y2FjaGVfZGlyID0gb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLnJlYWxwYXRoKF9fZmlsZV9fKSksICdjYWNoZScpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>except KeyError:
-    user_paths = []</text>
+      <register name="5" type="2">
+        <text encoding="base64">Y2FjaGVfZGlyID0gb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLnJlYWxwYXRoKF9fZmlsZV9fKSksICdjYWNoZScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwpzeXMucGF0aC5pbnNlcnQoMCwnRDpcXEdpdGh1YlxcSW1hZ2V0cmVlXFxpbWFnZXRyZWVfY29yZScpCg==</text>
+        <text encoding="base64">aW1wb3J0IHNvY2tldAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlcnZlcl9pcCA9IHNvY2tldC5nZXRob3N0YnluYW1lKHNvY2tldC5nZXRob3N0bmFtZSgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBpbWFnZXRyZWVfY29yZS5jb25zdGFudHMgaW1wb3J0IFJPT1RMSU5LCg==</text>
+        <text encoding="base64">ZGVmIGdldF9zZXJ2ZXJfaXAoKToKICAgIHNvY2tldC5nZXRob3N0YnluYW1lKHNvY2tldC5nZXRob3N0bmFtZSgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxST09UTElOS1w+</last-search>
+      <last-search encoding="base64">XDxjYWNoZV9kaXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxST09UTElOS1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjYWNoZV9kaXJcPg==</last-pattern>
       <last-replace>image_cache</last-replace>
       <last-substitute>test_tree.image_cache</last-substitute>
       <last-dir>1</last-dir>
@@ -767,7 +765,6 @@
     </search>
     <history>
       <history-search>
-        <entry>insert</entry>
         <entry encoding="base64">XDxpbnNlcnRfdHJlZV9saW5rXD4=</entry>
         <entry encoding="base64">XDxsYWJlbFw+</entry>
         <entry encoding="base64">XDx1cGxvYWRfZmlsZVw+</entry>
@@ -787,6 +784,7 @@
         <entry encoding="base64">XDxpbWFnZXRyZWVfY29yZVw+</entry>
         <entry encoding="base64">XDxjb25zdGFudHNcPg==</entry>
         <entry encoding="base64">XDxST09UTElOS1w+</entry>
+        <entry encoding="base64">XDxjYWNoZV9kaXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>;w</entry>

@@ -48,12 +48,6 @@
       <file name="C:/Repos/octane/allReleases/ultracamgitrepo.py" timestamp="1461617209224">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/test_imagetree.py" timestamp="1476920965326">
-        <mark key="[" line="355" column="105" />
-        <mark key="]" line="355" column="113" />
-        <mark key="." line="355" column="113" />
-        <mark key="^" line="355" column="113" />
-      </file>
       <file name="D:/Github/Imagetree/templates/about.html" timestamp="1474329211483">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
@@ -260,13 +254,6 @@
         <mark key="^" line="2" column="92" />
         <mark key="." line="2" column="92" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/serializer.py" timestamp="1476921123591">
-        <mark key="'" line="26" column="4" />
-        <mark key="[" line="123" column="38" />
-        <mark key="]" line="123" column="68" />
-        <mark key="^" line="123" column="68" />
-        <mark key="." line="123" column="68" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/Nodes.py" timestamp="1468617294289">
         <mark key="[" line="13" column="26" />
       </file>
@@ -350,11 +337,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/Github/Imagetree/artmap_server/templates/viewer.html" timestamp="1476828869995">
-        <mark key="[" line="26" column="23" />
-        <mark key="]" line="29" column="43" />
-        <mark key="." line="29" column="43" />
-        <mark key="^" line="29" column="43" />
+      <file name="D:/Github/Imagetree/artmap_server/templates/viewer.html" timestamp="1476981601405">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="20" />
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/serialization/protbuf_interface.py" timestamp="1476920673495">
         <mark key="'" line="79" column="46" />

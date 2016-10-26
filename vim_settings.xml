@@ -61,11 +61,8 @@
         <mark key="^" line="60" column="41" />
         <mark key="." line="60" column="41" />
       </file>
-      <file name="D:/Github/Imagetree/artmap_server/views.py" timestamp="1477094020962">
+      <file name="D:/Github/Imagetree/artmap_server/views.py" timestamp="1477501800988">
         <mark key="'" line="153" column="13" />
-        <mark key="[" line="173" column="81" />
-        <mark key="]" line="174" column="33" />
-        <mark key="." line="174" column="33" />
         <mark key="^" line="174" column="33" />
       </file>
       <file name="$USER_HOME$/Source/Repos/promisigin-patterns/PersistencyMatrix/PersistencyMatrix/PythonClusteringApplication1/clustering.py" timestamp="1444611660951">
@@ -159,11 +156,6 @@
         <mark key="]" line="91" column="36" />
         <mark key="." line="91" column="36" />
         <mark key="^" line="91" column="36" />
-      </file>
-      <file name="D:/Github/Imagetree/artmap_server/templates/user.html" timestamp="1477091943899">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="13" />
       </file>
       <file name="D:/repos/BoxSharpener/.gitignore" timestamp="1472347436390">
         <mark key="[" line="90" column="6" />
@@ -370,6 +362,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="D:/Github/Imagetree/artmap_server/templates/base.html" timestamp="1477501020921">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="86" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="D:/repos/Socrates/src/Understander.py" timestamp="1469746510010">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="5" column="82" />
@@ -437,12 +435,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="D:/Github/Imagetree/artmap_server/templates/viewer.html" timestamp="1476981601405">
-        <mark key="[" line="18" column="21" />
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="20" />
-        <mark key="^" line="18" column="20" />
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/serialization/protbuf_interface.py" timestamp="1477006235218">
         <mark key="'" line="38" column="10" />
@@ -576,6 +568,12 @@
         <mark key="." line="25" column="69" />
         <mark key="^" line="25" column="69" />
       </file>
+      <file name="D:/Github/Imagetree/artmap_server/forms.py" timestamp="1477501780575">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="19" column="19" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/SequenceModel.py" timestamp="1469570100438">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="16" column="87" />
@@ -621,7 +619,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475278637729">
+      <file name="/Dummy.txt" timestamp="1477502473730">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1469244021634">
@@ -824,46 +822,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdmFyIGlucHV0Tm9kZUxpbmsgPSAkKCIjY3VycmVudF9yb290X2lucHV0IikudmFsKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>node_link</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWFnZV9hdF9xdWFkX2tleVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlbmRlcmVkLnNpemUsICgxMjgsIDEyOCkpCiAgICAgICAgcmVuZGVyZWRfYXJyYXkgPSBucC5hcnJheShyZW5kZXJlZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdmFyIGlucHV0Tm9kZUxpbmsgPSAkKCIjY3VycmVudF9yb290X2lucHV0IikudmFsKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgLy9kbyBzb21lIHN0dWZmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYWxlcnQoICJIYW5kbGVyIGZvciAuY2xpY2soKSBjYWxsZWQgd2l0aCAiICsgaW5wdXROb2RlTGluayApOwogICAgICAgICAgICAgICAgICAgJC5wb3N0KAogICAgICAnLi4vdm90ZV9wbHVzLnBocCcsIHsKICAgICAgICB1c2VyOiAkKCdpbnB1dFtuYW1lPXVzZXJfaWRdJykudmFsKCksCiAgICAgICAgYWQ6ICAgJCgnaW5wdXRbbmFtZT1hZF9pZF0nKS52YWwoKSwKICAgICAgICBpcDogICAkKCdpbnB1dFtuYW1lPWlwX2FkZHJlc3NdJykudmFsKCkKICAgICAgfSwgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmlzX2xlYWYoKToKICAgICAgICAgICAgcmV0dXJuIGltX2FycmF5Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YnI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZW5kZXJlZF9hcnJheSA9IG5wLmFycmF5KHJlbmRlcmVkKQo=</text>
+        <text encoding="base64">ICAgICAgICA8YnI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlbmRlcmVkLnNpemUsICgxMjgsIDEyOCkpCg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJqcXVlcnktMS4xMi40Lm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzcwo=</text>
+        <text encoding="base64">ICAgICAgICA8L2g0Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9hcnJheSA9IG5wLmFycmF5KGltYWdldmFsdWUuZmV0Y2hfaW1hZ2VfZnJvbV91cmwoSW1hZ2VUZXN0cy53aWtpX2ltYWdlX3VybCkpCg==</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgY2xhc3M9ImlucHV0U2VhcmNoIiBzaXplPSI0MSIgbWF4bGVuZ3RoPSIyMDQ4IiBuYW1lPSJxIiB2YWx1ZT0iIj4KICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImpzLWJ0bi10b2dnbGVfc2VhcmNoIj5YIENsb3NlPC9idXR0b24+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -917,8 +915,8 @@
         <entry>s/child\d//g</entry>
         <entry>s/1/2/g</entry>
         <entry>s/2/3/g</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -965,6 +963,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

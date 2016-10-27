@@ -40,12 +40,12 @@
         <mark key="." line="3" column="45" />
         <mark key="^" line="3" column="45" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/utilities.py" timestamp="1477592243637">
+      <file name="D:/Github/Imagetree/imagetree_core/utilities.py" timestamp="1477592269924">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="262" column="32" />
-        <mark key="]" line="262" column="54" />
-        <mark key="." line="262" column="54" />
-        <mark key="^" line="262" column="54" />
+        <mark key="[" line="262" column="49" />
+        <mark key="]" line="262" column="56" />
+        <mark key="." line="262" column="56" />
+        <mark key="^" line="262" column="56" />
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/standard_pixel.py" timestamp="1477258112984">
         <mark key="'" line="81" column="8" />
@@ -534,12 +534,12 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/imagetree.py" timestamp="1477527714164">
-        <mark key="'" line="256" column="32" />
-        <mark key="[" line="277" column="58" />
-        <mark key="]" line="277" column="77" />
-        <mark key="^" line="277" column="77" />
-        <mark key="." line="277" column="77" />
+      <file name="D:/Github/Imagetree/imagetree_core/imagetree.py" timestamp="1477592360721">
+        <mark key="'" line="67" column="14" />
+        <mark key="[" line="63" column="91" />
+        <mark key="]" line="63" column="87" />
+        <mark key="^" line="63" column="87" />
+        <mark key="." line="63" column="87" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/Constants.py" timestamp="1469500733477">
         <mark key="[" line="1" column="22" />
@@ -633,12 +633,12 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="16" column="5" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/tree_creator.py" timestamp="1477592167601">
-        <mark key="'" line="2" column="15" />
-        <mark key="[" line="25" column="37" />
-        <mark key="]" line="25" column="37" />
-        <mark key="." line="25" column="37" />
-        <mark key="^" line="25" column="37" />
+      <file name="D:/Github/Imagetree/imagetree_core/tree_creator.py" timestamp="1477593022625">
+        <mark key="'" line="29" column="25" />
+        <mark key="[" line="38" column="95" />
+        <mark key="]" line="38" column="94" />
+        <mark key="." line="38" column="94" />
+        <mark key="^" line="38" column="94" />
       </file>
       <file name="D:/Github/Imagetree/artmap_project/tileserver/views.py" timestamp="1474139036550">
         <mark key="'" line="17" column="9" />
@@ -767,10 +767,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="421" column="24" filename="D:/Github/Imagetree/imagetree_core/test_imagetree.py" />
-      <jump line="425" column="103" filename="D:/Github/Imagetree/imagetree_core/test_imagetree.py" />
-      <jump line="412" column="7" filename="D:/Github/Imagetree/imagetree_core/test_imagetree.py" />
-      <jump line="413" column="0" filename="D:/Github/Imagetree/imagetree_core/test_imagetree.py" />
       <jump line="147" column="16" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="424" column="50" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="433" column="19" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
@@ -867,19 +863,24 @@
       <jump line="437" column="0" filename="D:/Github/Imagetree/imagetree_core/test_imagetree.py" />
       <jump line="24" column="11" filename="D:/Github/Imagetree/imagetree_core/tree_creator.py" />
       <jump line="2" column="15" filename="D:/Github/Imagetree/imagetree_core/tree_creator.py" />
+      <jump line="26" column="25" filename="D:/Github/Imagetree/imagetree_core/tree_creator.py" />
+      <jump line="277" column="77" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
+      <jump line="63" column="80" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
+      <jump line="67" column="14" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>image_value</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>image_value</text>
       </register>
       <register name="/" type="4">
-        <text>w</text>
+        <text encoding="base64">XDxjaGlsZHJlblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZXIgPSBzZXJpYWxpemVyLlNlcmlhbGl6ZXIoKQo=</text>
+      <register name="0" type="4">
+        <text>imagetree.ImageTree(name=name, input_image=image_value, children_links=[], children=[],
+                                       serializer=old_tree.serializer, filename=filename)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
@@ -913,17 +914,16 @@
       </register>
     </registers>
     <search>
-      <last-search>w</last-search>
+      <last-search encoding="base64">XDxjaGlsZHJlblw+</last-search>
       <last-offset />
-      <last-pattern>w</last-pattern>
+      <last-pattern encoding="base64">XDxjaGlsZHJlblw+</last-pattern>
       <last-replace>3</last-replace>
       <last-substitute>2</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb21tZW50Rm9ybVw+</entry>
         <entry>view</entry>
         <entry encoding="base64">XDxmb3JtXD4=</entry>
         <entry>form</entry>
@@ -943,6 +943,7 @@
         <entry encoding="base64">XDxsb2NhdGlvbk1lc3NhZ2VcPg==</entry>
         <entry>locationMe</entry>
         <entry>w</entry>
+        <entry encoding="base64">XDxjaGlsZHJlblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JpZ2h0L2xlZnQvZw==</entry>

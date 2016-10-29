@@ -381,8 +381,8 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="42" column="26" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/tree_viewer.py" timestamp="1477622686300">
-        <mark key="'" line="6" column="9" />
+      <file name="D:/Github/Imagetree/imagetree_core/tree_viewer.py" timestamp="1477758452223">
+        <mark key="'" line="88" column="7" />
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
@@ -778,7 +778,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="13" filename="D:/Github/Imagetree/artmap_server/views.py" />
       <jump line="56" column="16" filename="D:/Github/Imagetree/artmap_server/templates/creator.html" />
       <jump line="60" column="45" filename="D:/Github/Imagetree/artmap_server/templates/creator.html" />
       <jump line="52" column="70" filename="D:/Github/Imagetree/artmap_server/templates/creator.html" />
@@ -878,6 +877,7 @@
       <jump line="66" column="30" filename="D:/Github/Imagetree/imagetree_core/tree_viewer.py" />
       <jump line="83" column="4" filename="D:/Github/Imagetree/imagetree_core/tree_viewer.py" />
       <jump line="6" column="9" filename="D:/Github/Imagetree/imagetree_core/tree_viewer.py" />
+      <jump line="88" column="7" filename="D:/Github/Imagetree/imagetree_core/tree_viewer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

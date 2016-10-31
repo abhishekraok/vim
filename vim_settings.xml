@@ -34,6 +34,12 @@
       <file name="/a.dummy" timestamp="1477764778298">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Github/Imagetree/runserver.py" timestamp="1477873136979">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="45" />
+        <mark key="." line="3" column="45" />
+        <mark key="^" line="3" column="45" />
+      </file>
       <file name="D:/Github/Imagetree/imagetree_core/utilities.py" timestamp="1477785452535">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="281" column="30" />
@@ -70,18 +76,10 @@
         <mark key="^" line="31" column="49" />
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/test_imagetree.py" timestamp="1477870931682">
-        <mark key="'" line="464" column="0" />
-        <mark key="[" line="511" column="0" />
-        <mark key="]" line="512" column="42" />
-        <mark key="." line="511" column="0" />
         <mark key="^" line="546" column="36" />
       </file>
       <file name="D:/Github/Imagetree/test_server.py" timestamp="1477871283857">
         <mark key="'" line="34" column="8" />
-        <mark key="[" line="103" column="106" />
-        <mark key="]" line="103" column="106" />
-        <mark key="." line="103" column="106" />
-        <mark key="^" line="94" column="47" />
       </file>
       <file name="D:/Github/Imagetree/server_main.py" timestamp="1474332531381">
         <mark key="'" line="32" column="21" />
@@ -292,11 +290,9 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/azure_image_tree.py" timestamp="1477871643235">
-        <mark key="'" line="1" column="19" />
-        <mark key="[" line="40" column="112" />
-        <mark key="]" line="41" column="51" />
-        <mark key="." line="41" column="67" />
-        <mark key="^" line="41" column="51" />
+        <mark key="]" line="1" column="51" />
+        <mark key="." line="1" column="67" />
+        <mark key="^" line="1" column="51" />
       </file>
       <file name="D:/repos/Socrates/src/Trainer.py" timestamp="1469830794942">
         <mark key="'" line="181" column="4" />
@@ -478,13 +474,6 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="D:/Github/Imagetree/imagetree_core/tree_creator.py" timestamp="1477872016611">
-        <mark key="'" line="22" column="23" />
-        <mark key="[" line="25" column="50" />
-        <mark key="]" line="25" column="64" />
-        <mark key="^" line="25" column="64" />
-        <mark key="." line="25" column="64" />
       </file>
       <file name="D:/Github/Imagetree/artmap_project/tileserver/views.py" timestamp="1474139036550">
         <mark key="'" line="17" column="9" />

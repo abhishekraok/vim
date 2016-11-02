@@ -124,13 +124,6 @@
         <mark key="^" line="53" column="8" />
         <mark key="." line="53" column="8" />
       </file>
-      <file name="D:/Github/Imagetree/artmap_server/views.py" timestamp="1477941215524">
-        <mark key="'" line="59" column="83" />
-        <mark key="[" line="80" column="45" />
-        <mark key="]" line="80" column="49" />
-        <mark key="^" line="80" column="49" />
-        <mark key="." line="80" column="49" />
-      </file>
       <file name="C:/Repos/octane/allReleases/ultracamgitrepo.py" timestamp="1461617209224">
         <mark key="[" line="0" column="0" />
       </file>
@@ -192,12 +185,8 @@
         <mark key="^" line="24" column="20" />
         <mark key="." line="24" column="20" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/imagetree.py" timestamp="1477962328817">
-        <mark key="'" line="143" column="49" />
-        <mark key="[" line="413" column="53" />
-        <mark key="]" line="413" column="69" />
-        <mark key="^" line="413" column="69" />
-        <mark key="." line="413" column="69" />
+      <file name="D:/Github/Imagetree/imagetree_core/imagetree.py" timestamp="1478044399884">
+        <mark key="'" line="413" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" timestamp="1469497664455">
         <mark key="'" line="48" column="40" />
@@ -303,13 +292,6 @@
         <mark key="." line="29" column="11" />
         <mark key="^" line="29" column="11" />
       </file>
-      <file name="D:/Github/Imagetree/artmap_server/forms.py" timestamp="1477940546135">
-        <mark key="'" line="17" column="21" />
-        <mark key="[" line="20" column="55" />
-        <mark key="]" line="20" column="63" />
-        <mark key="^" line="20" column="63" />
-        <mark key="." line="20" column="63" />
-      </file>
       <file name="D:/Github/Imagetree/templates/seadragon_viewer.html" timestamp="1474325766930">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="29" column="0" />
@@ -375,13 +357,6 @@
         <mark key="." line="98" column="7" />
         <mark key="^" line="98" column="7" />
       </file>
-      <file name="D:/Github/Imagetree/artmap_server/static/js/openseadragon.js" timestamp="1477782275480">
-        <mark key="'" line="13" column="16" />
-        <mark key="[" line="19787" column="31" />
-        <mark key="]" line="19787" column="30" />
-        <mark key="." line="19787" column="30" />
-        <mark key="^" line="19787" column="30" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/TextPreProcessor.py" timestamp="1469491012490">
         <mark key="'" line="29" column="30" />
         <mark key="[" line="89" column="0" />
@@ -434,22 +409,12 @@
         <mark key="^" line="20" column="115" />
         <mark key="." line="20" column="115" />
       </file>
-      <file name="D:/Github/Imagetree/artmap_server/models.py" timestamp="1477940522419">
-        <mark key="^" line="12" column="40" />
-      </file>
       <file name="D:/Github/Imagetree/templates/base.html" timestamp="1474325168134">
         <mark key="'" line="5" column="33" />
         <mark key="[" line="39" column="12" />
         <mark key="]" line="39" column="11" />
         <mark key="^" line="39" column="11" />
         <mark key="." line="39" column="11" />
-      </file>
-      <file name="D:/Github/Imagetree/imagetree_core/tileserver.py" timestamp="1477959512613">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="109" column="25" />
       </file>
       <file name="D:/repos/Socrates/src/SequenceModel.py" timestamp="1469809410754">
         <mark key="'" line="8" column="36" />
@@ -525,10 +490,10 @@
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/constants.py" timestamp="1477940695957">
         <mark key="'" line="4" column="20" />
-        <mark key="[" line="15" column="76" />
-        <mark key="]" line="15" column="74" />
-        <mark key="." line="15" column="74" />
-        <mark key="^" line="15" column="74" />
+        <mark key="[" line="4" column="76" />
+        <mark key="]" line="4" column="74" />
+        <mark key="." line="4" column="74" />
+        <mark key="^" line="4" column="74" />
       </file>
       <file name="D:/Github/Imagetree/artmap_server/templates/base.html" timestamp="1477788855427">
         <mark key="[" line="27" column="0" />
@@ -559,7 +524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="452" column="4" filename="D:/Github/Imagetree/imagetree_core/test_imagetree.py" />
       <jump line="441" column="0" filename="D:/Github/Imagetree/imagetree_core/test_imagetree.py" />
       <jump line="482" column="0" filename="D:/Github/Imagetree/imagetree_core/test_imagetree.py" />
       <jump line="29" column="4" filename="D:/Github/Imagetree/imagetree_core/tree_creator.py" />
@@ -659,6 +623,7 @@
       <jump line="170" column="23" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="412" column="28" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="143" column="49" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
+      <jump line="413" column="47" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

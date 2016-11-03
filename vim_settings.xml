@@ -189,7 +189,13 @@
         <mark key="^" line="24" column="20" />
         <mark key="." line="24" column="20" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/imagetree.py" timestamp="1478112257316" />
+      <file name="D:/Github/Imagetree/imagetree_core/imagetree.py" timestamp="1478133825086">
+        <mark key="'" line="51" column="6" />
+        <mark key="[" line="452" column="72" />
+        <mark key="]" line="455" column="47" />
+        <mark key="." line="455" column="47" />
+        <mark key="^" line="455" column="47" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" timestamp="1469497664455">
         <mark key="'" line="48" column="40" />
         <mark key="[" line="25" column="77" />
@@ -394,6 +400,12 @@
         <mark key="." line="87" column="78" />
         <mark key="^" line="87" column="78" />
       </file>
+      <file name="D:/Github/Imagetree/imagetree_core/imagevalue.py" timestamp="1478133761734">
+        <mark key="[" line="61" column="47" />
+        <mark key="]" line="62" column="28" />
+        <mark key="^" line="62" column="28" />
+        <mark key="." line="62" column="28" />
+      </file>
       <file name="D:/Github/Imagetree/templates/500.html" timestamp="1474241671437">
         <mark key="'" line="56" column="36" />
         <mark key="[" line="4" column="11" />
@@ -526,7 +538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="4" filename="D:/Github/Imagetree/imagetree_core/tree_creator.py" />
       <jump line="33" column="0" filename="D:/Github/Imagetree/imagetree_core/tree_creator.py" />
       <jump line="60" column="0" filename="D:/Github/Imagetree/imagetree_core/tree_creator.py" />
       <jump line="80" column="0" filename="D:/Github/Imagetree/imagetree_core/tree_creator.py" />
@@ -626,19 +637,20 @@
       <jump line="413" column="47" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="465" column="28" filename="D:/Github/Imagetree/imagetree_core/test_imagetree.py" />
       <jump line="448" column="0" filename="D:/Github/Imagetree/imagetree_core/test_imagetree.py" />
+      <jump line="51" column="6" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcGlsX2ltYWdlX2F0X2Z1bGxfcmVzb2x1dGlvbihzZWxmKToK</text>
       </register>
       <register name="-" type="4">
-        <text>'333133'</text>
+        <text>get_np_array</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfbnBfYXJyYXlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb3dlc3RfcXVhZF9rZXlzID0gWyczMzMxMzMnLCAnMzEyMzEyJywgJzEzMTIzMSddCiAgICAgICAgZm9yIGxvd2VzdF9xdWFkX2tleSBpbiBsb3dlc3RfcXVhZF9rZXlzOgo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcGlsX2ltYWdlX2F0X2Z1bGxfcmVzb2x1dGlvbihzZWxmKToK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

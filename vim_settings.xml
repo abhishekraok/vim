@@ -189,12 +189,8 @@
         <mark key="^" line="24" column="20" />
         <mark key="." line="24" column="20" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/imagetree.py" timestamp="1478136114943">
-        <mark key="'" line="51" column="6" />
-        <mark key="[" line="409" column="84" />
-        <mark key="]" line="409" column="84" />
-        <mark key="." line="409" column="84" />
-        <mark key="^" line="409" column="84" />
+      <file name="D:/Github/Imagetree/imagetree_core/imagetree.py" timestamp="1478298311834">
+        <mark key="'" line="416" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Socrates/src/WordMap.py" timestamp="1469497664455">
         <mark key="'" line="48" column="40" />
@@ -538,8 +534,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="23" filename="D:/Github/Imagetree/imagetree_core/tree_creator.py" />
-      <jump line="21" column="0" filename="D:/Github/Imagetree/artmap_server/templates/viewer.html" />
       <jump line="93" column="0" filename="D:/Github/Imagetree/test_server.py" />
       <jump line="53" column="0" filename="D:/Github/Imagetree/test_server.py" />
       <jump line="131" column="31" filename="D:/Github/Imagetree/imagetree_core/serializer.py" />
@@ -596,7 +590,6 @@
       <jump line="415" column="15" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="159" column="36" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="35" column="0" filename="D:/Github/Imagetree/imagetree_core/tileserver.py" />
-      <jump line="47" column="11" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="414" column="15" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="422" column="23" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="3" column="16" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
@@ -606,7 +599,6 @@
       <jump line="46" column="15" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="43" column="12" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="426" column="19" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
-      <jump line="36" column="4" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="431" column="121" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="430" column="22" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="63" column="58" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
@@ -638,6 +630,10 @@
       <jump line="95" column="0" filename="D:/Github/Imagetree/imagetree_core/standard_pixel.py" />
       <jump line="89" column="0" filename="D:/Github/Imagetree/imagetree_core/standard_pixel.py" />
       <jump line="27" column="42" filename="D:/Github/Imagetree/artmap_server/templates/viewer.html" />
+      <jump line="36" column="4" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
+      <jump line="47" column="11" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
+      <jump line="403" column="8" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
+      <jump line="416" column="22" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -647,7 +643,7 @@
         <text>2**(maxDepth+8)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXhEZXB0aFw+</text>
+        <text encoding="base64">XDxnZXRfcGlsX2ltYWdlX2F0X3F1YWRrZXlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGltYWdlaGVpZ2h0ID0gTWF0aC5wb3coMiwgbWF4RGVwdGggKyA4KTsK</text>
@@ -685,9 +681,9 @@ p</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXhEZXB0aFw+</last-search>
+      <last-search encoding="base64">XDxnZXRfcGlsX2ltYWdlX2F0X3F1YWRrZXlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXhEZXB0aFw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfcGlsX2ltYWdlX2F0X3F1YWRrZXlcPg==</last-pattern>
       <last-replace>3</last-replace>
       <last-substitute>2</last-substitute>
       <last-dir>1</last-dir>
@@ -702,7 +698,6 @@ p</text>
         <entry>IO</entry>
         <entry encoding="base64">XDxjcmVhdGVfbmV3X2Zyb21fb2xkX2luc2VydF9qcGdcPg==</entry>
         <entry encoding="base64">XDxIVFRQRXJyb3JcPg==</entry>
-        <entry encoding="base64">XDxnZXRfcGlsX2ltYWdlX2F0X3F1YWRrZXlcPg==</entry>
         <entry encoding="base64">XDx1c2VybmFtZVw+</entry>
         <entry encoding="base64">XDxnZXRfbnBfYXJyYXlfYXRfcXVhZGtleVw+</entry>
         <entry>view</entry>
@@ -710,11 +705,12 @@ p</text>
         <entry encoding="base64">XDxmdWxsX2ZpbGVfbmFtZVw+</entry>
         <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
         <entry encoding="base64">XDxucFw+</entry>
-        <entry encoding="base64">XDxpbWFnZV9hdF9xdWFkX2tleVw+</entry>
         <entry encoding="base64">XDxjaGlsZF9pbWFnZVw+</entry>
         <entry encoding="base64">XDxjaGlsZF9hcnJheVw+</entry>
         <entry encoding="base64">XDxnZXRfbnBfYXJyYXlcPg==</entry>
         <entry encoding="base64">XDxtYXhEZXB0aFw+</entry>
+        <entry encoding="base64">XDxpbWFnZV9hdF9xdWFkX2tleVw+</entry>
+        <entry encoding="base64">XDxnZXRfcGlsX2ltYWdlX2F0X3F1YWRrZXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JpZ2h0L2xlZnQvZw==</entry>

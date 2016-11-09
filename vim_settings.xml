@@ -59,13 +59,6 @@
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/tree_creator.py" timestamp="1478537755338">
-        <mark key="'" line="166" column="0" />
-        <mark key="[" line="169" column="34" />
-        <mark key="]" line="169" column="34" />
-        <mark key="^" line="166" column="28" />
-        <mark key="." line="169" column="34" />
-      </file>
       <file name="D:/Github/Imagetree/imagetree_core/test_imagetree.py" timestamp="1478455960289">
         <mark key="'" line="22" column="7" />
         <mark key="[" line="420" column="77" />
@@ -106,6 +99,9 @@
         <mark key="." line="73" column="15" />
         <mark key="^" line="73" column="15" />
       </file>
+      <file name="D:/Github/Imagetree/imagetree_core/imagetree.py" timestamp="1478715896307">
+        <mark key="'" line="382" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1477502473730">
         <mark key="[" line="0" column="0" />
       </file>
@@ -118,6 +114,12 @@
       <file name="D:/Github/Imagetree/imagetree_core/serializer.py" timestamp="1478455571424">
         <mark key="'" line="5" column="0" />
         <mark key="^" line="88" column="20" />
+      </file>
+      <file name="D:/Github/Imagetree/imagetree_core/perf_tester.py" timestamp="1478716088155">
+        <mark key="'" line="127" column="42" />
+        <mark key="[" line="133" column="17" />
+        <mark key="]" line="133" column="17" />
+        <mark key="." line="133" column="17" />
       </file>
       <file name="/a.regexp" timestamp="1477758990880">
         <mark key="[" line="0" column="0" />
@@ -158,9 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="80" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="181" column="26" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="159" column="15" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
       <jump line="162" column="15" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
       <jump line="41" column="6" filename="D:/Github/Imagetree/imagetree_core/imagevalue.py" />
       <jump line="78" column="16" filename="D:/Github/Imagetree/imagetree_core/imagevalue.py" />
@@ -258,13 +257,16 @@
       <jump line="19" column="15" filename="D:/Github/Imagetree/imagetree_core/persistence_interface.py" />
       <jump line="1" column="12" filename="D:/Github/Imagetree/imagetree_core/persistence_interface.py" />
       <jump line="156" column="0" filename="D:/Github/Imagetree/imagetree_core/tree_creator.py" />
+      <jump line="382" column="0" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
+      <jump line="0" column="0" filename="D:/Github/Imagetree/imagetree_core/perf_tester.py" />
+      <jump line="127" column="42" filename="D:/Github/Imagetree/imagetree_core/perf_tester.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>insert_node_name,</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>insert_node_name,</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>root_name</text>

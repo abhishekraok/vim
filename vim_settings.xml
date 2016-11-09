@@ -115,11 +115,12 @@
         <mark key="'" line="5" column="0" />
         <mark key="^" line="88" column="20" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/perf_tester.py" timestamp="1478716088155">
-        <mark key="'" line="127" column="42" />
-        <mark key="[" line="133" column="17" />
-        <mark key="]" line="133" column="17" />
-        <mark key="." line="133" column="17" />
+      <file name="D:/Github/Imagetree/imagetree_core/perf_tester.py" timestamp="1478717520177">
+        <mark key="'" line="120" column="22" />
+        <mark key="[" line="118" column="85" />
+        <mark key="]" line="119" column="13" />
+        <mark key="." line="119" column="13" />
+        <mark key="^" line="119" column="13" />
       </file>
       <file name="/a.regexp" timestamp="1477758990880">
         <mark key="[" line="0" column="0" />
@@ -160,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="15" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
       <jump line="41" column="6" filename="D:/Github/Imagetree/imagetree_core/imagevalue.py" />
       <jump line="78" column="16" filename="D:/Github/Imagetree/imagetree_core/imagevalue.py" />
       <jump line="32" column="8" filename="D:/Github/Imagetree/imagetree_core/imagevalue.py" />
@@ -260,13 +260,14 @@
       <jump line="382" column="0" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="0" column="0" filename="D:/Github/Imagetree/imagetree_core/perf_tester.py" />
       <jump line="127" column="42" filename="D:/Github/Imagetree/imagetree_core/perf_tester.py" />
+      <jump line="118" column="22" filename="D:/Github/Imagetree/imagetree_core/perf_tester.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1heF9sb2QgPSAyMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">ICsgc2VsZi5ub2RlX2xpbms=</text>
       </register>
       <register name="/" type="4">
         <text>root_name</text>
@@ -275,31 +276,31 @@
         <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnNlcnRfbm9kZV9uYW1lPWluc2VydF9ub2RlX25hbWUsCg==</text>
+        <text encoding="base64">ICAgIG1heF9sb2QgPSAyMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnNlcnRfbm9kZV9uYW1lPWluc2VydF9ub2RlX25hbWUsCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHJldHVybiBOb25lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBOb25lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIgQ3JlYXRlcyBhIG5ldyB0cmVlIHdpdGggbmFtZSBuZXdfcm9vdCBieSBpbnNlcnRpbmcgZ2l2ZW4gaW5zZXJ0X25vZGVfbmFtZQogICAgICAgIGF0IGdpdmVuIHF1YWRfa2V5IGludG8gdGhlIHJvb3RfbmFtZSB0cmVlLgoKICAgICAgICA6cmV0cnVuczogUmVzdWx0IG9iamVjdCB3aXRoIG5ldyB2YWx1ZSA9IHJvb3QgbmFtZSIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0ZWRfdHJlZSA9IHNlbGYucGVyc2lzdGVuY2UuZ2V0X3RyZWUobm9kZV9uYW1lKQogICAgICAgIHJldHVybiByZXF1ZXN0ZWRfdHJlZS5nZXQK</text>
+        <text encoding="base64">ICAgICAgICAiIiIgQ3JlYXRlcyBhIG5ldyB0cmVlIHdpdGggbmFtZSBuZXdfcm9vdCBieSBpbnNlcnRpbmcgZ2l2ZW4gaW5zZXJ0X25vZGVfbmFtZQogICAgICAgIGF0IGdpdmVuIHF1YWRfa2V5IGludG8gdGhlIHJvb3RfbmFtZSB0cmVlLgoKICAgICAgICA6cmV0cnVuczogUmVzdWx0IG9iamVjdCB3aXRoIG5ldyB2YWx1ZSA9IHJvb3QgbmFtZSIiIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIgR2V0cyB0aGUgaW1hZ2UgZm9yIG5vZGUgd2l0aCBnaXZlbiBuYW1lIGF0IGdpdmVuIHJlc29sdXRpb24uCgogICAgICAgIDpyZXR1cm5zOiBBIFJlc3VsdCBvYmplY3Qgd2l0aCB2YWx1ZSA9IFBJTCBpbWFnZS4KICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0ZWRfdHJlZSA9IHNlbGYucGVyc2lzdGVuY2UuZ2V0X3RyZWUobm9kZV9uYW1lKQogICAgICAgIHJldHVybiByZXF1ZXN0ZWRfdHJlZS5nZXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCdUaGlzIGlzIGFuIGludGVyZmFjZScpCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIgR2V0cyB0aGUgaW1hZ2UgZm9yIG5vZGUgd2l0aCBnaXZlbiBuYW1lIGF0IGdpdmVuIHJlc29sdXRpb24uCgogICAgICAgIDpyZXR1cm5zOiBBIFJlc3VsdCBvYmplY3Qgd2l0aCB2YWx1ZSA9IFBJTCBpbWFnZS4KICAgICAgICAiIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCdUaGlzIGlzIGFuIGludGVyZmFjZScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

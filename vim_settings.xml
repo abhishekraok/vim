@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1478743659668">
+      <file name="/Python Console" timestamp="1478799689601">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1478455245954">
@@ -62,12 +62,12 @@
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/test_imagetree.py" timestamp="1478743656185">
-        <mark key="'" line="620" column="0" />
-        <mark key="[" line="632" column="24" />
-        <mark key="]" line="632" column="96" />
-        <mark key="." line="632" column="96" />
-        <mark key="^" line="632" column="96" />
+      <file name="D:/Github/Imagetree/imagetree_core/test_imagetree.py" timestamp="1478799701208">
+        <mark key="'" line="615" column="0" />
+        <mark key="[" line="623" column="27" />
+        <mark key="]" line="623" column="25" />
+        <mark key="^" line="623" column="25" />
+        <mark key="." line="623" column="25" />
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/persistence_interface.py" timestamp="1478460154610">
         <mark key="'" line="1" column="12" />
@@ -101,12 +101,6 @@
         <mark key="]" line="86" column="73" />
         <mark key="." line="86" column="73" />
         <mark key="^" line="86" column="73" />
-      </file>
-      <file name="D:/Github/Imagetree/imagetree_core/imagetree.py" timestamp="1478743819434">
-        <mark key="[" line="421" column="92" />
-        <mark key="]" line="422" column="23" />
-        <mark key="^" line="422" column="23" />
-        <mark key="." line="422" column="23" />
       </file>
       <file name="/Dummy.txt" timestamp="1477502473730">
         <mark key="[" line="0" column="0" />
@@ -171,24 +165,8 @@
         <mark key="^" line="30" column="47" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/azure_image_tree.py" timestamp="1478743601381">
-        <mark key="[" line="94" column="62" />
-        <mark key="]" line="95" column="40" />
-        <mark key="." line="95" column="40" />
-        <mark key="^" line="95" column="40" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="11" filename="D:/Github/Imagetree/imagetree_core/graph_map.py" />
-      <jump line="7" column="20" filename="D:/Github/Imagetree/imagetree_core/graph_map.py" />
-      <jump line="28" column="0" filename="D:/Github/Imagetree/imagetree_core/tree_creator.py" />
-      <jump line="12" column="27" filename="D:/Github/Imagetree/imagetree_core/graph_map.py" />
-      <jump line="11" column="25" filename="D:/Github/Imagetree/imagetree_core/graph_map.py" />
-      <jump line="33" column="8" filename="D:/Github/Imagetree/imagetree_core/graph_map.py" />
-      <jump line="22" column="37" filename="D:/Github/Imagetree/imagetree_core/graph_map.py" />
-      <jump line="24" column="32" filename="D:/Github/Imagetree/imagetree_core/graph_map.py" />
-      <jump line="3" column="0" filename="D:/Github/Imagetree/imagetree_core/persistence_interface.py" />
-      <jump line="31" column="38" filename="D:/Github/Imagetree/imagetree_core/graph_map.py" />
       <jump line="29" column="0" filename="D:/Github/Imagetree/imagetree_core/graph_map.py" />
       <jump line="32" column="8" filename="D:/Github/Imagetree/imagetree_core/graph_map.py" />
       <jump line="8" column="4" filename="D:/Github/Imagetree/imagetree_core/tree_creator.py" />
@@ -279,43 +257,53 @@
       <jump line="319" column="28" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="420" column="11" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
       <jump line="2" column="22" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
+      <jump line="614" column="8" filename="D:/Github/Imagetree/imagetree_core/test_imagetree.py" />
+      <jump line="616" column="0" filename="D:/Github/Imagetree/imagetree_core/test_imagetree.py" />
+      <jump line="615" column="0" filename="D:/Github/Imagetree/imagetree_core/test_imagetree.py" />
+      <jump line="457" column="28" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
+      <jump line="80" column="8" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
+      <jump line="87" column="8" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
+      <jump line="166" column="8" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
+      <jump line="169" column="8" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
+      <jump line="417" column="8" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
+      <jump line="78" column="47" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwaWxfaW1hZ2UgPSBJbWFnZS5mcm9tYXJyYXkoc2VsZi5nZXRfbnBfYXJyYXlfYXRfcXVhZF9rZXkocmVzb2x1dGlvbj1yZXNvbHV0aW9uLCBxdWFkX2tleT1xdWFkX2tleSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnR2V0dGluZyBwaWwgaW1hZ2UgZm9yIG5vZGUnLCBzZWxmLm5hbWUsICcgeHl6PScsIHgsIHksIHosICcgYXQgcmVzb2x1dGlvbiBvZiAnLCByZXNvbHV0aW9uKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>assertEqual</text>
       </register>
       <register name="/" type="4">
-        <text>azure</text>
+        <text>#</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydExlc3MoZGlmZmVyZW5jZSwgMC4xKQo=</text>
+        <text encoding="base64">ICAgICAgICBxdWFkX2tleSA9ICcwMDEwMjMwMjAwMzExMTAxMzEnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwaWxfaW1hZ2UgPSBJbWFnZS5mcm9tYXJyYXkoc2VsZi5nZXRfbnBfYXJyYXlfYXRfcXVhZF9rZXkocmVzb2x1dGlvbj1yZXNvbHV0aW9uLCBxdWFkX2tleT1xdWFkX2tleSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnR2V0dGluZyBwaWwgaW1hZ2UgZm9yIG5vZGUnLCBzZWxmLm5hbWUsICcgeHl6PScsIHgsIHksIHosICcgYXQgcmVzb2x1dGlvbiBvZiAnLCByZXNvbHV0aW9uKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIGZpbmQgdGhlIGxvd2VzdCBub2RlIHRoYXQgaXMgc2V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">ICAgICAgICBwaWxfaW1hZ2UgPSBJbWFnZS5mcm9tYXJyYXkoc2VsZi5nZXRfbnBfYXJyYXlfYXRfcXVhZF9rZXkocmVzb2x1dGlvbj1yZXNvbHV0aW9uLCBxdWFkX2tleT1xdWFkX2tleSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGF6dXJlX2ltYWdlX3RyZWUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNhbXBsZV9waWwgPSBJbWFnZS5uZXcoIlJHQiIsICgyNTYsIDI1NikpCiAgICBub2RlX2xpbmsgPSAnbGFqZmxhamZyb290QGh0dHBzOi8vYXJ0bWFwc3RvcmUuYmxvYi5jb3JlLndpbmRvd3MubmV0L2ZpcnN0bm9kZXMvdXNlci9hbm9ueW1vdXMva2FyLnZlcl8xLnRzdicKICAgIHB1dF90b19pbWFnZV9jYWNoZShzYW1wbGVfcGlsLCBub2RlX2xpbmssIHJlc29sdXRpb249MjU2KQogICAgcmV0cmlldmVkX3BpbCA9IGdldF9mcm9tX2ltYWdlX2NhY2hlKG5vZGVfbGluaywgcmVzb2x1dGlvbj0yNTYpCiAgICBwcmludCgnTVNFIGlzIHt9Jy5mb3JtYXQodXRpbGl0aWVzLm1zZShucC5hcnJheShzYW1wbGVfcGlsKSwgbnAuYXJyYXkocmV0cmlldmVkX3BpbCkpKSkK</text>
+        <text encoding="base64">aW1wb3J0IGF6dXJlX2ltYWdlX3RyZWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdTYXZlZCB0byBhenVyZSB0aGUgZmlsZSAnLCBmaWxlX3RvX3N0b3JlLCAnLiBSZW1vdGUgcGF0aCA9ICcsIGJsb2JfbmFtZSkK</text>
+        <text encoding="base64">ICAgIHNhbXBsZV9waWwgPSBJbWFnZS5uZXcoIlJHQiIsICgyNTYsIDI1NikpCiAgICBub2RlX2xpbmsgPSAnbGFqZmxhamZyb290QGh0dHBzOi8vYXJ0bWFwc3RvcmUuYmxvYi5jb3JlLndpbmRvd3MubmV0L2ZpcnN0bm9kZXMvdXNlci9hbm9ueW1vdXMva2FyLnZlcl8xLnRzdicKICAgIHB1dF90b19pbWFnZV9jYWNoZShzYW1wbGVfcGlsLCBub2RlX2xpbmssIHJlc29sdXRpb249MjU2KQogICAgcmV0cmlldmVkX3BpbCA9IGdldF9mcm9tX2ltYWdlX2NhY2hlKG5vZGVfbGluaywgcmVzb2x1dGlvbj0yNTYpCiAgICBwcmludCgnTVNFIGlzIHt9Jy5mb3JtYXQodXRpbGl0aWVzLm1zZShucC5hcnJheShzYW1wbGVfcGlsKSwgbnAuYXJyYXkocmV0cmlldmVkX3BpbCkpKSkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
@@ -325,9 +313,9 @@
       </register>
     </registers>
     <search>
-      <last-search>azure</last-search>
+      <last-search>#</last-search>
       <last-offset />
-      <last-pattern>azure</last-pattern>
+      <last-pattern>#</last-pattern>
       <last-replace>rv0</last-replace>
       <last-substitute>rv</last-substitute>
       <last-dir>1</last-dir>
@@ -335,7 +323,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1dGlsaXRpZXNcPg==</entry>
         <entry>pil_ima</entry>
         <entry encoding="base64">XDxuZXdfcmVsYXRpdmVfZmlsZW5hbWVcPg==</entry>
         <entry encoding="base64">XDxhZGRfbm9kZV9saW5rXD4=</entry>
@@ -355,6 +342,7 @@
         <entry encoding="base64">XDxhenVyZV9pbWFnZV90cmVlXD4=</entry>
         <entry>quad_key</entry>
         <entry>azure</entry>
+        <entry>#</entry>
       </history-search>
       <history-cmd>
         <entry>%s/self\.classifier_creator/TestBoxSharpener.classifier_creator/g</entry>

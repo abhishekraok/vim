@@ -49,9 +49,6 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="D:/Github/Imagetree/artmap_server/views.py" timestamp="1478884353441">
-        <mark key="'" line="62" column="12" />
-      </file>
       <file name="C:/Repos/octane/allReleases/ultracamgitrepo.py" timestamp="1461617209224">
         <mark key="[" line="0" column="0" />
       </file>
@@ -61,13 +58,6 @@
         <mark key="]" line="21" column="49" />
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
-      </file>
-      <file name="D:/Github/Imagetree/imagetree_core/test_imagetree.py" timestamp="1478799701208">
-        <mark key="'" line="615" column="0" />
-        <mark key="[" line="623" column="27" />
-        <mark key="]" line="623" column="25" />
-        <mark key="^" line="623" column="25" />
-        <mark key="." line="623" column="25" />
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/persistence_interface.py" timestamp="1478460154610">
         <mark key="'" line="1" column="12" />
@@ -95,13 +85,6 @@
         <mark key="^" line="24" column="20" />
         <mark key="." line="24" column="20" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/imagevalue.py" timestamp="1478741186237">
-        <mark key="'" line="86" column="12" />
-        <mark key="[" line="86" column="74" />
-        <mark key="]" line="86" column="73" />
-        <mark key="." line="86" column="73" />
-        <mark key="^" line="86" column="73" />
-      </file>
       <file name="/Dummy.txt" timestamp="1477502473730">
         <mark key="[" line="0" column="0" />
       </file>
@@ -110,16 +93,6 @@
         <mark key="]" line="55" column="42" />
         <mark key="." line="55" column="42" />
         <mark key="^" line="55" column="42" />
-      </file>
-      <file name="D:/Github/Imagetree/imagetree_core/commander.py" timestamp="1478720125905">
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="16" column="18" />
-        <mark key="." line="16" column="18" />
-        <mark key="^" line="16" column="18" />
-      </file>
-      <file name="D:/Github/Imagetree/imagetree_core/serializer.py" timestamp="1478455571424">
-        <mark key="'" line="5" column="0" />
-        <mark key="^" line="88" column="20" />
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/perf_tester.py" timestamp="1478717520177">
         <mark key="'" line="120" column="22" />

@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1479260576808">
+      <file name="/Python Console" timestamp="1479336156354">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1479230745899">
@@ -178,11 +178,12 @@
         <mark key="." line="4" column="74" />
         <mark key="^" line="4" column="74" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/test_graph_map.py" timestamp="1479260580747">
-        <mark key="[" line="10" column="99" />
-        <mark key="]" line="10" column="99" />
-        <mark key="." line="10" column="99" />
-        <mark key="^" line="10" column="99" />
+      <file name="D:/Github/Imagetree/imagetree_core/test_graph_map.py" timestamp="1479336173222">
+        <mark key="'" line="236" column="0" />
+        <mark key="[" line="164" column="61" />
+        <mark key="]" line="164" column="88" />
+        <mark key="." line="164" column="88" />
+        <mark key="^" line="164" column="88" />
       </file>
       <file name="D:/Github/Imagetree/artmap_server/templates/base.html" timestamp="1477788855427">
         <mark key="[" line="27" column="0" />
@@ -192,13 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="60" filename="D:/Github/Imagetree/imagetree_core/azure_image_tree.py" />
-      <jump line="10" column="19" filename="D:/Github/Imagetree/imagetree_core/azure_image_tree.py" />
-      <jump line="83" column="23" filename="D:/Github/Imagetree/imagetree_core/azure_image_tree.py" />
-      <jump line="91" column="41" filename="D:/Github/Imagetree/imagetree_core/azure_image_tree.py" />
-      <jump line="3" column="16" filename="D:/Github/Imagetree/imagetree_core/azure_image_tree.py" />
-      <jump line="54" column="5" filename="D:/Github/Imagetree/imagetree_core/azure_image_tree.py" />
-      <jump line="92" column="86" filename="D:/Github/Imagetree/imagetree_core/azure_image_tree.py" />
       <jump line="59" column="56" filename="D:/Github/Imagetree/imagetree_core/azure_image_tree.py" />
       <jump line="18" column="0" filename="D:/Github/Imagetree/imagetree_core/azure_image_tree.py" />
       <jump line="94" column="4" filename="D:/Github/Imagetree/imagetree_core/azure_image_tree.py" />
@@ -292,19 +286,26 @@
       <jump line="65" column="24" filename="D:/Github/Imagetree/imagetree_core/tree_creator.py" />
       <jump line="58" column="13" filename="D:/Github/Imagetree/imagetree_core/imagevalue.py" />
       <jump line="51" column="10" filename="D:/Github/Imagetree/imagetree_core/imagevalue.py" />
+      <jump line="207" column="19" filename="D:/Github/Imagetree/imagetree_core/test_graph_map.py" />
+      <jump line="209" column="0" filename="D:/Github/Imagetree/imagetree_core/test_graph_map.py" />
+      <jump line="212" column="0" filename="D:/Github/Imagetree/imagetree_core/test_graph_map.py" />
+      <jump line="228" column="0" filename="D:/Github/Imagetree/imagetree_core/test_graph_map.py" />
+      <jump line="229" column="0" filename="D:/Github/Imagetree/imagetree_core/test_graph_map.py" />
+      <jump line="231" column="0" filename="D:/Github/Imagetree/imagetree_core/test_graph_map.py" />
+      <jump line="236" column="0" filename="D:/Github/Imagetree/imagetree_core/test_graph_map.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHV0aWxpdGllcy5yZXNoYXBlX3Byb3BlcihucC5hcnJheShzZWxmLmdldF9waWxfaW1hZ2VfYXRfZnVsbF9yZXNvbHV0aW9uKCkpKSkK</text>
+      <register name="&quot;" type="4">
+        <text>first_node_link</text>
       </register>
       <register name="-" type="4">
-        <text>Image.fromarray(</text>
+        <text>first_node_link</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHJlc2hhcGVfcHJvcGVyX3BpbF9pbWFnZShwaWxfaW1hZ2UpOgo=</text>
+        <text encoding="base64">ICAgIEB1bml0dGVzdC5za2lwKCJ3aWxsIG1ha2UgcXVhZCBrZXkgYSBjbGFzcyBhbmQgY2hlY2sgdGhlcmUiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHV0aWxpdGllcy5yZXNoYXBlX3Byb3BlcihucC5hcnJheShzZWxmLmdldF9waWxfaW1hZ2VfYXRfZnVsbF9yZXNvbHV0aW9uKCkpKSkK</text>

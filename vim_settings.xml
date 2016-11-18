@@ -120,6 +120,9 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="72" column="112" />
       </file>
+      <file name="D:/Github/Imagetree/imagetree_core/graphmap/graph_map.py" timestamp="1479431518318">
+        <mark key="'" line="2" column="12" />
+      </file>
       <file name="D:/Github/Imagetree/imagetree_core/imagetree.py" timestamp="1479230872784">
         <mark key="'" line="375" column="33" />
         <mark key="[" line="260" column="60" />
@@ -188,8 +191,8 @@
       <file name="D:/repos/BoxSharpener/.gitignore" timestamp="1472347436390">
         <mark key="[" line="90" column="6" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/graphmap/serialization/protbuf_serializer.py" timestamp="1479405629516">
-        <mark key="'" line="88" column="4" />
+      <file name="D:/Github/Imagetree/imagetree_core/graphmap/serialization/protbuf_serializer.py" timestamp="1479430694392">
+        <mark key="'" line="35" column="4" />
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
@@ -209,12 +212,12 @@
         <mark key="." line="164" column="88" />
         <mark key="^" line="164" column="88" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/graphmap/memory_persistence.py" timestamp="1479405312532">
-        <mark key="'" line="39" column="37" />
-        <mark key="[" line="39" column="37" />
-        <mark key="]" line="39" column="37" />
-        <mark key="^" line="39" column="36" />
-        <mark key="." line="39" column="37" />
+      <file name="D:/Github/Imagetree/imagetree_core/graphmap/memory_persistence.py" timestamp="1479431298308">
+        <mark key="'" line="40" column="32" />
+        <mark key="[" line="40" column="73" />
+        <mark key="]" line="40" column="63" />
+        <mark key="^" line="40" column="63" />
+        <mark key="." line="40" column="63" />
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/graphmap/test_imagetree.py" timestamp="1479405408307">
         <mark key="'" line="422" column="42" />
@@ -230,10 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="0" filename="D:/Github/Imagetree/imagetree_core/imagetree.py" />
-      <jump line="178" column="26" filename="D:/Github/Imagetree/imagetree_core/serializer.py" />
-      <jump line="15" column="7" filename="D:/Github/Imagetree/imagetree_core/serializer.py" />
-      <jump line="99" column="11" filename="D:/Github/Imagetree/imagetree_core/tree_creator.py" />
       <jump line="77" column="22" filename="D:/Github/Imagetree/imagetree_core/tree_creator.py" />
       <jump line="7" column="7" filename="D:/Github/Imagetree/imagetree_core/tree_creator.py" />
       <jump line="22" column="6" filename="D:/Github/Imagetree/imagetree_core/tree_creator.py" />
@@ -330,6 +329,10 @@
       <jump line="9" column="43" filename="D:/Github/Imagetree/imagetree_core/graphmap/serialization/protbuf_serializer.py" />
       <jump line="0" column="0" filename="D:/Github/Imagetree/imagetree_core/graphmap/serialization/protbuf_serializer.py" />
       <jump line="88" column="4" filename="D:/Github/Imagetree/imagetree_core/graphmap/serialization/protbuf_serializer.py" />
+      <jump line="35" column="4" filename="D:/Github/Imagetree/imagetree_core/graphmap/serialization/protbuf_serializer.py" />
+      <jump line="20" column="38" filename="D:/Github/Imagetree/imagetree_core/graphmap/graph_map.py" />
+      <jump line="40" column="32" filename="D:/Github/Imagetree/imagetree_core/graphmap/memory_persistence.py" />
+      <jump line="2" column="12" filename="D:/Github/Imagetree/imagetree_core/graphmap/graph_map.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

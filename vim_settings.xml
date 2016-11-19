@@ -3,15 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1479597463869">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Github/GraphMap/graphmap/constants.py" timestamp="1479592934077">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1479593903588">
         <mark key="[" line="0" column="0" />
       </file>
@@ -41,11 +32,12 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="53" />
       </file>
-      <file name="D:/Github/Imagetree/artmap_server/manage.py" timestamp="1477937122754">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-        <mark key="^" line="4" column="16" />
+      <file name="D:/Github/GraphMap/tests/test_graph_map.py" timestamp="1479599090962">
+        <mark key="'" line="257" column="31" />
+        <mark key="[" line="280" column="65" />
+        <mark key="]" line="280" column="77" />
+        <mark key="^" line="280" column="77" />
+        <mark key="." line="280" column="77" />
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/result_file.py" timestamp="1479230237603">
         <mark key="[" line="23" column="25" />
@@ -58,12 +50,6 @@
         <mark key="[" line="143" column="0" />
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
-      </file>
-      <file name="D:/Github/Imagetree/imagetree_core/graph_helpers.py" timestamp="1479229474349">
-        <mark key="[" line="21" column="39" />
-        <mark key="]" line="22" column="28" />
-        <mark key="^" line="22" column="28" />
-        <mark key="." line="22" column="28" />
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/graphmap/serialization/tsv_serializer.py" timestamp="1479405105696">
         <mark key="'" line="70" column="8" />
@@ -78,13 +64,6 @@
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/tree_creator.py" timestamp="1479231301441">
-        <mark key="'" line="65" column="24" />
-        <mark key="[" line="96" column="71" />
-        <mark key="]" line="99" column="37" />
-        <mark key="." line="99" column="37" />
-        <mark key="^" line="99" column="37" />
-      </file>
       <file name="D:/Github/Imagetree/imagetree_core/persistence_interface.py" timestamp="1478460154610">
         <mark key="'" line="1" column="12" />
         <mark key="[" line="20" column="16" />
@@ -92,12 +71,128 @@
         <mark key="^" line="20" column="28" />
         <mark key="." line="20" column="28" />
       </file>
+      <file name="D:/Github/GraphMap/graphmap/imagetree.py" timestamp="1479597581922">
+        <mark key="[" line="368" column="17" />
+        <mark key="]" line="368" column="50" />
+        <mark key="." line="368" column="50" />
+        <mark key="^" line="368" column="50" />
+      </file>
       <file name="D:/Github/Imagetree/test_server.py" timestamp="1478737795412">
         <mark key="'" line="168" column="8" />
         <mark key="[" line="175" column="96" />
         <mark key="]" line="175" column="112" />
         <mark key="^" line="175" column="112" />
         <mark key="." line="175" column="112" />
+      </file>
+      <file name="D:/Github/Imagetree/artmap_server/static/js/imagetree_viewer.js" timestamp="1477963394401">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="24" column="20" />
+        <mark key="^" line="24" column="20" />
+        <mark key="." line="24" column="20" />
+      </file>
+      <file name="D:/Github/Imagetree/imagetree_core/graphmap/graph_map.py" timestamp="1479431518318">
+        <mark key="'" line="2" column="12" />
+      </file>
+      <file name="D:/Github/Imagetree/imagetree_core/imagetree.py" timestamp="1479230872784">
+        <mark key="'" line="375" column="33" />
+        <mark key="[" line="260" column="60" />
+        <mark key="]" line="248" column="23" />
+        <mark key="^" line="248" column="23" />
+        <mark key="." line="248" column="23" />
+      </file>
+      <file name="D:/Github/GraphMap/graphmap/serialization/samples.py" timestamp="1479592550805">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="D:/Github/Imagetree/imagetree_core/memory_persistence.py" timestamp="1479231686981">
+        <mark key="[" line="29" column="18" />
+        <mark key="]" line="29" column="26" />
+        <mark key="." line="29" column="26" />
+        <mark key="^" line="29" column="26" />
+      </file>
+      <file name="/" timestamp="1478743572926">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Github/Imagetree/imagetree_core/graph_map.py" timestamp="1479231845013">
+        <mark key="'" line="20" column="122" />
+        <mark key="[" line="78" column="36" />
+        <mark key="]" line="79" column="43" />
+        <mark key="." line="79" column="43" />
+        <mark key="^" line="79" column="43" />
+      </file>
+      <file name="D:/repos/BoxSharpener/.gitignore" timestamp="1472347436390">
+        <mark key="[" line="90" column="6" />
+      </file>
+      <file name="D:/Github/Imagetree/imagetree_core/graphmap/serialization/protbuf_serializer.py" timestamp="1479430694392">
+        <mark key="'" line="35" column="4" />
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+      </file>
+      <file name="D:/Github/Imagetree/imagetree_core/test_graph_map.py" timestamp="1479336173222">
+        <mark key="'" line="236" column="0" />
+        <mark key="[" line="164" column="61" />
+        <mark key="]" line="164" column="88" />
+        <mark key="." line="164" column="88" />
+        <mark key="^" line="164" column="88" />
+      </file>
+      <file name="D:/Github/Imagetree/imagetree_core/graphmap/memory_persistence.py" timestamp="1479431298308">
+        <mark key="'" line="40" column="32" />
+        <mark key="[" line="40" column="73" />
+        <mark key="]" line="40" column="63" />
+        <mark key="^" line="40" column="63" />
+        <mark key="." line="40" column="63" />
+      </file>
+      <file name="/Python Console" timestamp="1479599094248">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Github/GraphMap/graphmap/constants.py" timestamp="1479592934077">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="D:/Github/Imagetree/artmap_server/manage.py" timestamp="1477937122754">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+      </file>
+      <file name="D:/Github/Imagetree/imagetree_core/graph_helpers.py" timestamp="1479229474349">
+        <mark key="[" line="21" column="39" />
+        <mark key="]" line="22" column="28" />
+        <mark key="^" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+      </file>
+      <file name="D:/Github/GraphMap/graphmap/graphmap_main.py" timestamp="1479598531198">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="100" column="33" />
+        <mark key="]" line="101" column="50" />
+        <mark key="^" line="101" column="50" />
+        <mark key="." line="101" column="50" />
+      </file>
+      <file name="D:/Github/GraphMap/graphmap/persistence_interface.py" timestamp="1479598585683">
+        <mark key="'" line="21" column="8" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="31" column="39" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="D:/Github/Imagetree/imagetree_core/tree_creator.py" timestamp="1479231301441">
+        <mark key="'" line="65" column="24" />
+        <mark key="[" line="96" column="71" />
+        <mark key="]" line="99" column="37" />
+        <mark key="." line="99" column="37" />
+        <mark key="^" line="99" column="37" />
+      </file>
+      <file name="D:/Github/GraphMap/graphmap/tree_creator.py" timestamp="1479597790515">
+        <mark key="[" line="81" column="48" />
+        <mark key="]" line="81" column="77" />
+        <mark key="^" line="81" column="77" />
+        <mark key="." line="81" column="77" />
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/result.py" timestamp="1478460265666">
         <mark key="[" line="2" column="11" />
@@ -112,18 +207,12 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="28" />
       </file>
-      <file name="D:/Github/GraphMap/graphmap/memory_persistence.py" timestamp="1479594290825">
-        <mark key="'" line="47" column="15" />
-        <mark key="[" line="43" column="61" />
-        <mark key="]" line="43" column="83" />
-        <mark key="." line="43" column="83" />
-        <mark key="^" line="43" column="83" />
-      </file>
-      <file name="D:/Github/Imagetree/artmap_server/static/js/imagetree_viewer.js" timestamp="1477963394401">
-        <mark key="[" line="24" column="19" />
-        <mark key="]" line="24" column="20" />
-        <mark key="^" line="24" column="20" />
-        <mark key="." line="24" column="20" />
+      <file name="D:/Github/GraphMap/graphmap/memory_persistence.py" timestamp="1479598563742">
+        <mark key="'" line="49" column="15" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="32" />
+        <mark key="." line="54" column="41" />
+        <mark key="^" line="54" column="41" />
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/imagevalue.py" timestamp="1479260655385">
         <mark key="'" line="51" column="10" />
@@ -132,15 +221,11 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="72" column="112" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/graphmap/graph_map.py" timestamp="1479431518318">
-        <mark key="'" line="2" column="12" />
-      </file>
-      <file name="D:/Github/Imagetree/imagetree_core/imagetree.py" timestamp="1479230872784">
-        <mark key="'" line="375" column="33" />
-        <mark key="[" line="260" column="60" />
-        <mark key="]" line="248" column="23" />
-        <mark key="^" line="248" column="23" />
-        <mark key="." line="248" column="23" />
+      <file name="D:/Github/GraphMap/graphmap/standard_nodes.py" timestamp="1479598103907">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1477502473730">
         <mark key="[" line="0" column="0" />
@@ -156,24 +241,12 @@
         <mark key="." line="55" column="42" />
         <mark key="^" line="55" column="42" />
       </file>
-      <file name="D:/Github/GraphMap/graphmap/serialization/samples.py" timestamp="1479592550805">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
       <file name="D:/Github/Imagetree/imagetree_core/serializer.py" timestamp="1479230202961">
         <mark key="'" line="15" column="7" />
         <mark key="[" line="177" column="61" />
         <mark key="]" line="178" column="7" />
         <mark key="." line="178" column="7" />
         <mark key="^" line="178" column="7" />
-      </file>
-      <file name="D:/Github/Imagetree/imagetree_core/memory_persistence.py" timestamp="1479231686981">
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="29" column="26" />
-        <mark key="." line="29" column="26" />
-        <mark key="^" line="29" column="26" />
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/perf_tester.py" timestamp="1478717520177">
         <mark key="'" line="120" column="22" />
@@ -191,18 +264,8 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="/" timestamp="1478743572926">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/FunctionResolvers/src/Nodes.py" timestamp="1468617294289">
         <mark key="[" line="13" column="26" />
-      </file>
-      <file name="D:/Github/Imagetree/imagetree_core/graph_map.py" timestamp="1479231845013">
-        <mark key="'" line="20" column="122" />
-        <mark key="[" line="78" column="36" />
-        <mark key="]" line="79" column="43" />
-        <mark key="." line="79" column="43" />
-        <mark key="^" line="79" column="43" />
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/tests/test_imagetree.py" timestamp="1479405562745">
         <mark key="'" line="24" column="0" />
@@ -210,16 +273,6 @@
         <mark key="]" line="5" column="21" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="25" column="13" />
-      </file>
-      <file name="D:/repos/BoxSharpener/.gitignore" timestamp="1472347436390">
-        <mark key="[" line="90" column="6" />
-      </file>
-      <file name="D:/Github/Imagetree/imagetree_core/graphmap/serialization/protbuf_serializer.py" timestamp="1479430694392">
-        <mark key="'" line="35" column="4" />
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="1" column="14" />
-        <mark key="." line="1" column="14" />
-        <mark key="^" line="1" column="14" />
       </file>
       <file name="D:/Github/GraphMap/graphmap/samples.py" timestamp="1479592946051">
         <mark key="[" line="5" column="20" />
@@ -234,20 +287,6 @@
         <mark key="." line="4" column="74" />
         <mark key="^" line="4" column="74" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/test_graph_map.py" timestamp="1479336173222">
-        <mark key="'" line="236" column="0" />
-        <mark key="[" line="164" column="61" />
-        <mark key="]" line="164" column="88" />
-        <mark key="." line="164" column="88" />
-        <mark key="^" line="164" column="88" />
-      </file>
-      <file name="D:/Github/Imagetree/imagetree_core/graphmap/memory_persistence.py" timestamp="1479431298308">
-        <mark key="'" line="40" column="32" />
-        <mark key="[" line="40" column="73" />
-        <mark key="]" line="40" column="63" />
-        <mark key="^" line="40" column="63" />
-        <mark key="." line="40" column="63" />
-      </file>
       <file name="D:/Github/Imagetree/imagetree_core/graphmap/test_imagetree.py" timestamp="1479405408307">
         <mark key="'" line="422" column="42" />
         <mark key="[" line="208" column="14" />
@@ -260,26 +299,15 @@
         <mark key="^" line="30" column="47" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="D:/Github/GraphMap/graphmap/serializer.py" timestamp="1479593282643">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="183" column="89" />
+      <file name="D:/Github/GraphMap/graphmap/serializer.py" timestamp="1479598765199">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="187" column="16" />
+        <mark key="]" line="187" column="15" />
+        <mark key="^" line="187" column="15" />
+        <mark key="." line="187" column="15" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="295" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="287" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="283" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="278" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="271" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="265" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="254" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="248" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="244" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="235" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="216" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="210" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
       <jump line="207" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
       <jump line="198" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
       <jump line="187" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
@@ -367,55 +395,68 @@
       <jump line="6" column="19" filename="D:/Github/GraphMap/graphmap/memory_persistence.py" />
       <jump line="46" column="15" filename="D:/Github/GraphMap/graphmap/memory_persistence.py" />
       <jump line="0" column="0" filename="D:/Github/GraphMap/graphmap/utilities.py" />
+      <jump line="139" column="20" filename="D:/Github/GraphMap/tests/test_graph_map.py" />
+      <jump line="97" column="20" filename="D:/Github/GraphMap/tests/test_graph_map.py" />
+      <jump line="102" column="20" filename="D:/Github/GraphMap/tests/test_graph_map.py" />
+      <jump line="44" column="33" filename="D:/Github/GraphMap/graphmap/memory_persistence.py" />
+      <jump line="7" column="20" filename="D:/Github/GraphMap/graphmap/memory_persistence.py" />
+      <jump line="45" column="34" filename="D:/Github/GraphMap/graphmap/memory_persistence.py" />
+      <jump line="59" column="0" filename="D:/Github/GraphMap/graphmap/graphmap_main.py" />
+      <jump line="12" column="0" filename="D:/Github/GraphMap/graphmap/graphmap_main.py" />
+      <jump line="50" column="15" filename="D:/Github/GraphMap/graphmap/memory_persistence.py" />
+      <jump line="21" column="8" filename="D:/Github/GraphMap/graphmap/persistence_interface.py" />
+      <jump line="187" column="93" filename="D:/Github/GraphMap/graphmap/serializer.py" />
+      <jump line="96" column="0" filename="D:/Github/GraphMap/graphmap/serializer.py" />
+      <jump line="257" column="31" filename="D:/Github/GraphMap/tests/test_graph_map.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>requested_node_link.get_old_node_link_string()</text>
+        <text>assertEqual</text>
       </register>
       <register name="-" type="4">
-        <text>requested_node_link.get_old_node_link_string()</text>
+        <text>assertEqual</text>
       </register>
       <register name="/" type="4">
-        <text>Reshap</text>
+        <text encoding="base64">XDxzdGFuZGFyZF9cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiByZXN1bHRfZmlsZS5nb29kKHNlbGYubG9hZF9ub2RlKG5vZGVfbGluay5nZXRfb2xkX25vZGVfbGlua19zdHJpbmcoKSkpCiAgICAgICAgZXhjZXB0IGN1c3RvbV9lcnJvcnMuTm9kZU5vdEZvdW5kRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHJldHVybiByZXN1bHRfZmlsZS5mYWlsKHJlc3VsdF9maWxlLk5PREVfTElOS19OT1RfRk9VTkRfRVJST1JfQ09ERSwgZS5tZXNzYWdlKQo=</text>
+        <text encoding="base64">ICAgICAgICBHID0gZ3JhcGhtYXBfbWFpbi5HcmFwaE1hcChtZW1vcnlfcGVyc2lzdGVuY2UuTWVtb3J5UGVyc2lzdGVuY2UoKSkKICAgICAgICBzZWF0dGxlX3NreWxpbmVfaW1hZ2VfdXJsID0gJ2h0dHBzOi8vdXBsb2FkLndpa2ltZWRpYS5vcmcvd2lraXBlZGlhL2NvbW1vbnMvdGh1bWIvMi8yZi9TcGFjZV9OZWVkbGUwMDIuanBnLzY0MHB4LVNwYWNlX05lZWRsZTAwMi5qcGcnCiAgICAgICAgbXRfdGFjb21hX2ltYWdlX3VybCA9ICdodHRwczovL3VwbG9hZC53aWtpbWVkaWEub3JnL3dpa2lwZWRpYS9jb21tb25zL3RodW1iL2EvYTIvTW91bnRfUmFpbmllcl9mcm9tX3RoZV9TaWx2ZXJfUXVlZW5fUGVhay5qcGcvMTAyNHB4LU1vdW50X1JhaW5pZXJfZnJvbV90aGVfU2lsdmVyX1F1ZWVuX1BlYWsuanBnJwogICAgICAgIHNlYXR0bGVfbm9kZV9saW5rID0gTm9kZUxpbmsoJ3NlYXR0bGUnKQogICAgICAgIG10X3RhY29tYV9ub2RlX2xpbmsgPSBOb2RlTGluaygndGFjb21hJykKICAgICAgICBHLmNyZWF0ZV9ub2RlKHJvb3Rfbm9kZV9saW5rPXNlYXR0bGVfbm9kZV9saW5rLCBpbWFnZV92YWx1ZV9saW5rPXNlYXR0bGVfc2t5bGluZV9pbWFnZV91cmwpCiAgICAgICAgRy5jcmVhdGVfbm9kZShyb290X25vZGVfbGluaz1tdF90YWNvbWFfbm9kZV9saW5rLCBpbWFnZV92YWx1ZV9saW5rPW10X3RhY29tYV9pbWFnZV91cmwpCiAgICAgICAgaW5zZXJ0X3F1YWRfa2V5ID0gJzEzJwogICAgICAgIGNyZWF0ZWRfbm9kZV9saW5rX3Jlc3VsdCA9IEcuY29ubmVjdF9jaGlsZChyb290X25vZGVfbGluaz1zZWF0dGxlX25vZGVfbGluaywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBxdWFkX2tleT1pbnNlcnRfcXVhZF9rZXksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hpbGRfbm9kZV9saW5rPW10X3RhY29tYV9ub2RlX2xpbmspCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKGNyZWF0ZWRfbm9kZV9saW5rX3Jlc3VsdC5pc19zdWNjZXNzKCkpCiAgICAgICAgY3JlYXRlZF9ub2RlX2xpbmsgPSBjcmVhdGVkX25vZGVfbGlua19yZXN1bHQudmFsdWUKICAgICAgICBuZXdfc2VhdHRsZV9pbWFnZV9yZXN1bHQgPSBHLmdldF9pbWFnZV9hdF9xdWFkX2tleShjcmVhdGVkX25vZGVfbGluaywgcmVzb2x1dGlvbj0yNTYsIHF1YWRfa2V5PScnKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShuZXdfc2VhdHRsZV9pbWFnZV9yZXN1bHQuaXNfc3VjY2VzcygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdSZXNoYXBpbmcgIGZyb20gJywgaGVpZ2h0LCB3aWR0aCwgJyB0byAnLCBuZXdfaGVpZ2h0LCBuZXdfd2lkdGgsICcgcGl4ZWwgaW1hZ2UnKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5maWxlbmFtZV90cmVlbWFwX21hcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVyLgo=</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdF9maWxlLmZhaWwocmVzdWx0X2ZpbGUuTk9ERV9MSU5LX05PVF9GT1VORF9FUlJPUl9DT0RFLCBlLm1lc3NhZ2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUb2RvIG5lZWQgYSBiZXR0ZXIgd2F5LCBzaG91bGQgbm90IHJlbHkgb24gbmFtZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RlJVSVRTX05MSU5LID0gJ2ZydWl0c0BodHRwczovL2FydG1hcHN0b3JlLmJsb2IuY29yZS53aW5kb3dzLm5ldC9maXJzdG5vZGVzL2ZydWl0cy50c3YnCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdSZXNoYXBpbmcgIGZyb20gJywgaGVpZ2h0LCB3aWR0aCwgJyB0byAnLCBuZXdfaGVpZ2h0LCBuZXdfd2lkdGgsICcgcGl4ZWwgaW1hZ2UnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEcgPSBHcmFwaE1hcChNZW1vcnlQZXJzaXN0ZW5jZSgpKQogICAgRy4K</text>
+        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVyLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdF9maWxlLmZhaWwocmVzdWx0X2ZpbGUuTk9ERV9MSU5LX05PVF9GT1VORF9FUlJPUl9DT0RFLCBlLm1lc3NhZ2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHNlcmlhbGl6ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRpc2tfcGVyc2lzdGVuY2UgPSAK</text>
+        <text encoding="base64">RlJVSVRTX05MSU5LID0gJ2ZydWl0c0BodHRwczovL2FydG1hcHN0b3JlLmJsb2IuY29yZS53aW5kb3dzLm5ldC9maXJzdG5vZGVzL2ZydWl0cy50c3YnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Reshap</last-search>
+      <last-search encoding="base64">XDxzdGFuZGFyZF9cPg==</last-search>
       <last-offset />
-      <last-pattern>Reshap</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFuZGFyZF9cPg==</last-pattern>
       <last-replace>graphmap</last-replace>
       <last-substitute>imagetree_core</last-substitute>
       <last-dir>1</last-dir>
@@ -423,8 +464,6 @@
     </search>
     <history>
       <history-search>
-        <entry>quad_key</entry>
-        <entry>azure</entry>
         <entry>#</entry>
         <entry>create</entry>
         <entry encoding="base64">XDxOb2RlTGlua1w+</entry>
@@ -443,6 +482,8 @@
         <entry>imagetree_core</entry>
         <entry>fruit</entry>
         <entry>Reshap</entry>
+        <entry encoding="base64">XDw1MTJcPg==</entry>
+        <entry encoding="base64">XDxzdGFuZGFyZF9cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/0/1/g</entry>

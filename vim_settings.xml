@@ -13,7 +13,7 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1478298393924">
+      <file name="/a.dummy" timestamp="1479591768156">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Github/Imagetree/runserver.py" timestamp="1477873136979">
@@ -132,6 +132,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1477502473730">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code.py" timestamp="1479591887383">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="D:/Github/Imagetree/artmap_server/models.py" timestamp="1478456854278">
         <mark key="[" line="55" column="39" />
@@ -335,11 +340,11 @@
       <jump line="2" column="12" filename="D:/Github/Imagetree/imagetree_core/graphmap/graph_map.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>magetree_core.</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>imagetree_core</text>

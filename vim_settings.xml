@@ -220,6 +220,13 @@
         <mark key="." line="54" column="41" />
         <mark key="^" line="54" column="41" />
       </file>
+      <file name="D:/Github/mltry/mnist_start.py" timestamp="1485816315908">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="18" column="60" />
+        <mark key="." line="18" column="60" />
+        <mark key="^" line="18" column="60" />
+      </file>
       <file name="D:/Github/Imagetree/imagetree_core/imagevalue.py" timestamp="1479260655385">
         <mark key="'" line="51" column="10" />
         <mark key="[" line="73" column="0" />
@@ -314,12 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="198" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="187" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="184" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="171" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="167" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
       <jump line="147" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
       <jump line="130" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
       <jump line="119" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
@@ -414,10 +415,16 @@
       <jump line="187" column="93" filename="D:/Github/GraphMap/graphmap/serializer.py" />
       <jump line="96" column="0" filename="D:/Github/GraphMap/graphmap/serializer.py" />
       <jump line="257" column="31" filename="D:/Github/GraphMap/tests/test_graph_map.py" />
+      <jump line="4" column="0" filename="D:/Github/mltry/mnist_start.py" />
+      <jump line="19" column="81" filename="D:/Github/mltry/mnist_start.py" />
+      <jump line="3" column="0" filename="D:/Github/mltry/mnist_start.py" />
+      <jump line="31" column="0" filename="D:/Github/mltry/mnist_start.py" />
+      <jump line="2" column="0" filename="D:/Github/mltry/mnist_start.py" />
+      <jump line="7" column="0" filename="D:/Github/mltry/mnist_start.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>assertEqual</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIHdlaWdodF92YXJpYWJsZShzaGFwZSk6CiAgaW5pdGlhbCA9IHRmLnRydW5jYXRlZF9ub3JtYWwoc2hhcGUsIHN0ZGRldj0wLjEpCiAgcmV0dXJuIHRmLlZhcmlhYmxlKGluaXRpYWwpCgpkZWYgYmlhc192YXJpYWJsZShzaGFwZSk6CiAgaW5pdGlhbCA9IHRmLmNvbnN0YW50KDAuMSwgc2hhcGU9c2hhcGUpCiAgcmV0dXJuIHRmLlZhcmlhYmxlKGluaXRpYWwpCg==</text>
       </register>
       <register name="-" type="4">
         <text>assertEqual</text>
@@ -429,31 +436,31 @@
         <text encoding="base64">ICAgICAgICBHID0gZ3JhcGhtYXBfbWFpbi5HcmFwaE1hcChtZW1vcnlfcGVyc2lzdGVuY2UuTWVtb3J5UGVyc2lzdGVuY2UoKSkKICAgICAgICBzZWF0dGxlX3NreWxpbmVfaW1hZ2VfdXJsID0gJ2h0dHBzOi8vdXBsb2FkLndpa2ltZWRpYS5vcmcvd2lraXBlZGlhL2NvbW1vbnMvdGh1bWIvMi8yZi9TcGFjZV9OZWVkbGUwMDIuanBnLzY0MHB4LVNwYWNlX05lZWRsZTAwMi5qcGcnCiAgICAgICAgbXRfdGFjb21hX2ltYWdlX3VybCA9ICdodHRwczovL3VwbG9hZC53aWtpbWVkaWEub3JnL3dpa2lwZWRpYS9jb21tb25zL3RodW1iL2EvYTIvTW91bnRfUmFpbmllcl9mcm9tX3RoZV9TaWx2ZXJfUXVlZW5fUGVhay5qcGcvMTAyNHB4LU1vdW50X1JhaW5pZXJfZnJvbV90aGVfU2lsdmVyX1F1ZWVuX1BlYWsuanBnJwogICAgICAgIHNlYXR0bGVfbm9kZV9saW5rID0gTm9kZUxpbmsoJ3NlYXR0bGUnKQogICAgICAgIG10X3RhY29tYV9ub2RlX2xpbmsgPSBOb2RlTGluaygndGFjb21hJykKICAgICAgICBHLmNyZWF0ZV9ub2RlKHJvb3Rfbm9kZV9saW5rPXNlYXR0bGVfbm9kZV9saW5rLCBpbWFnZV92YWx1ZV9saW5rPXNlYXR0bGVfc2t5bGluZV9pbWFnZV91cmwpCiAgICAgICAgRy5jcmVhdGVfbm9kZShyb290X25vZGVfbGluaz1tdF90YWNvbWFfbm9kZV9saW5rLCBpbWFnZV92YWx1ZV9saW5rPW10X3RhY29tYV9pbWFnZV91cmwpCiAgICAgICAgaW5zZXJ0X3F1YWRfa2V5ID0gJzEzJwogICAgICAgIGNyZWF0ZWRfbm9kZV9saW5rX3Jlc3VsdCA9IEcuY29ubmVjdF9jaGlsZChyb290X25vZGVfbGluaz1zZWF0dGxlX25vZGVfbGluaywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBxdWFkX2tleT1pbnNlcnRfcXVhZF9rZXksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hpbGRfbm9kZV9saW5rPW10X3RhY29tYV9ub2RlX2xpbmspCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKGNyZWF0ZWRfbm9kZV9saW5rX3Jlc3VsdC5pc19zdWNjZXNzKCkpCiAgICAgICAgY3JlYXRlZF9ub2RlX2xpbmsgPSBjcmVhdGVkX25vZGVfbGlua19yZXN1bHQudmFsdWUKICAgICAgICBuZXdfc2VhdHRsZV9pbWFnZV9yZXN1bHQgPSBHLmdldF9pbWFnZV9hdF9xdWFkX2tleShjcmVhdGVkX25vZGVfbGluaywgcmVzb2x1dGlvbj0yNTYsIHF1YWRfa2V5PScnKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShuZXdfc2VhdHRsZV9pbWFnZV9yZXN1bHQuaXNfc3VjY2VzcygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5maWxlbmFtZV90cmVlbWFwX21hcAo=</text>
+        <text encoding="base64">ZGVmIHdlaWdodF92YXJpYWJsZShzaGFwZSk6CiAgaW5pdGlhbCA9IHRmLnRydW5jYXRlZF9ub3JtYWwoc2hhcGUsIHN0ZGRldj0wLjEpCiAgcmV0dXJuIHRmLlZhcmlhYmxlKGluaXRpYWwpCgpkZWYgYmlhc192YXJpYWJsZShzaGFwZSk6CiAgaW5pdGlhbCA9IHRmLmNvbnN0YW50KDAuMSwgc2hhcGU9c2hhcGUpCiAgcmV0dXJuIHRmLlZhcmlhYmxlKGluaXRpYWwpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUb2RvIG5lZWQgYSBiZXR0ZXIgd2F5LCBzaG91bGQgbm90IHJlbHkgb24gbmFtZQo=</text>
+        <text encoding="base64">bW5pc3QgPSBpbnB1dF9kYXRhLnJlYWRfZGF0YV9zZXRzKCdNTklTVF9kYXRhJywgb25lX2hvdD1UcnVlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdSZXNoYXBpbmcgIGZyb20gJywgaGVpZ2h0LCB3aWR0aCwgJyB0byAnLCBuZXdfaGVpZ2h0LCBuZXdfd2lkdGgsICcgcGl4ZWwgaW1hZ2UnKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5maWxlbmFtZV90cmVlbWFwX21hcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVyLgo=</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdF9maWxlLmZhaWwocmVzdWx0X2ZpbGUuTk9ERV9MSU5LX05PVF9GT1VORF9FUlJPUl9DT0RFLCBlLm1lc3NhZ2UpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBUb2RvIG5lZWQgYSBiZXR0ZXIgd2F5LCBzaG91bGQgbm90IHJlbHkgb24gbmFtZQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">RlJVSVRTX05MSU5LID0gJ2ZydWl0c0BodHRwczovL2FydG1hcHN0b3JlLmJsb2IuY29yZS53aW5kb3dzLm5ldC9maXJzdG5vZGVzL2ZydWl0cy50c3YnCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdSZXNoYXBpbmcgIGZyb20gJywgaGVpZ2h0LCB3aWR0aCwgJyB0byAnLCBuZXdfaGVpZ2h0LCBuZXdfd2lkdGgsICcgcGl4ZWwgaW1hZ2UnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

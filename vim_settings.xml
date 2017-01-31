@@ -6,7 +6,6 @@
       <file name="/a.dummy" timestamp="1479593903588">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/repos/Socrates/socrates/Trainer.py" timestamp="1485817145239" />
       <file name="D:/Github/Imagetree/runserver.py" timestamp="1477873136979">
         <mark key="[" line="3" column="35" />
         <mark key="]" line="3" column="45" />
@@ -52,9 +51,6 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="D:/Github/Imagetree/imagetree_core/graphmap/serialization/tsv_serializer.py" timestamp="1479405105696">
-        <mark key="'" line="70" column="8" />
-      </file>
       <file name="C:/Repos/octane/allReleases/ultracamgitrepo.py" timestamp="1461617209224">
         <mark key="[" line="0" column="0" />
       </file>
@@ -90,9 +86,6 @@
         <mark key="]" line="24" column="20" />
         <mark key="^" line="24" column="20" />
         <mark key="." line="24" column="20" />
-      </file>
-      <file name="D:/Github/Imagetree/imagetree_core/graphmap/graph_map.py" timestamp="1479431518318">
-        <mark key="'" line="2" column="12" />
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/imagetree.py" timestamp="1479230872784">
         <mark key="'" line="375" column="33" />
@@ -179,6 +172,11 @@
         <mark key="]" line="101" column="50" />
         <mark key="^" line="101" column="50" />
         <mark key="." line="101" column="50" />
+      </file>
+      <file name="D:/repos/MemN2N-tensorflow/main.py" timestamp="1485886590962">
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="16" column="32" />
+        <mark key="." line="16" column="32" />
       </file>
       <file name="D:/Github/GraphMap/graphmap/persistence_interface.py" timestamp="1479598585683">
         <mark key="'" line="21" column="8" />
@@ -429,11 +427,11 @@
       <jump line="7" column="0" filename="D:/Github/mltry/mnist_start.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBzaXgubW92ZXMgaW1wb3J0IHhyYW5nZSAgIyBweWxpbnQ6IGRpc2FibGU9cmVkZWZpbmVkLWJ1aWx0aW4K</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>assertEqual</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFuZGFyZF9cPg==</text>

@@ -145,7 +145,7 @@
         <mark key="^" line="40" column="63" />
         <mark key="." line="40" column="63" />
       </file>
-      <file name="/Python Console" timestamp="1479599094248">
+      <file name="/Python Console" timestamp="1485887221430">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Github/GraphMap/graphmap/constants.py" timestamp="1479592934077">
@@ -153,6 +153,9 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1485887680974">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Github/Imagetree/artmap_server/manage.py" timestamp="1477937122754">
         <mark key="[" line="4" column="21" />
@@ -173,7 +176,8 @@
         <mark key="^" line="101" column="50" />
         <mark key="." line="101" column="50" />
       </file>
-      <file name="D:/repos/MemN2N-tensorflow/main.py" timestamp="1485886590962">
+      <file name="D:/repos/MemN2N-tensorflow/main.py" timestamp="1485889042634">
+        <mark key="'" line="53" column="0" />
         <mark key="[" line="16" column="32" />
         <mark key="]" line="16" column="32" />
         <mark key="." line="16" column="32" />
@@ -184,6 +188,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="^" line="31" column="39" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="D:/repos/MemN2N-tensorflow/model.py" timestamp="1485889052688">
+        <mark key="'" line="9" column="13" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/Github/Imagetree/imagetree_core/tree_creator.py" timestamp="1479231301441">
         <mark key="'" line="65" column="24" />
@@ -325,10 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="130" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="119" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
-      <jump line="99" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
       <jump line="78" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
       <jump line="74" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
       <jump line="61" column="0" filename="D:/Github/Imagetree/imagetree_core/utilities.py" />
@@ -425,55 +431,59 @@
       <jump line="31" column="0" filename="D:/Github/mltry/mnist_start.py" />
       <jump line="2" column="0" filename="D:/Github/mltry/mnist_start.py" />
       <jump line="7" column="0" filename="D:/Github/mltry/mnist_start.py" />
+      <jump line="53" column="0" filename="D:/repos/MemN2N-tensorflow/main.py" />
+      <jump line="212" column="41" filename="D:/repos/MemN2N-tensorflow/model.py" />
+      <jump line="9" column="29" filename="D:/repos/MemN2N-tensorflow/model.py" />
+      <jump line="10" column="13" filename="D:/repos/MemN2N-tensorflow/model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm53b3JkcyA9IGNvbmZpZy5ud29yZHMK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGFuZGFyZF9cPg==</text>
+        <text encoding="base64">XDxud29yZHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBHID0gZ3JhcGhtYXBfbWFpbi5HcmFwaE1hcChtZW1vcnlfcGVyc2lzdGVuY2UuTWVtb3J5UGVyc2lzdGVuY2UoKSkKICAgICAgICBzZWF0dGxlX3NreWxpbmVfaW1hZ2VfdXJsID0gJ2h0dHBzOi8vdXBsb2FkLndpa2ltZWRpYS5vcmcvd2lraXBlZGlhL2NvbW1vbnMvdGh1bWIvMi8yZi9TcGFjZV9OZWVkbGUwMDIuanBnLzY0MHB4LVNwYWNlX05lZWRsZTAwMi5qcGcnCiAgICAgICAgbXRfdGFjb21hX2ltYWdlX3VybCA9ICdodHRwczovL3VwbG9hZC53aWtpbWVkaWEub3JnL3dpa2lwZWRpYS9jb21tb25zL3RodW1iL2EvYTIvTW91bnRfUmFpbmllcl9mcm9tX3RoZV9TaWx2ZXJfUXVlZW5fUGVhay5qcGcvMTAyNHB4LU1vdW50X1JhaW5pZXJfZnJvbV90aGVfU2lsdmVyX1F1ZWVuX1BlYWsuanBnJwogICAgICAgIHNlYXR0bGVfbm9kZV9saW5rID0gTm9kZUxpbmsoJ3NlYXR0bGUnKQogICAgICAgIG10X3RhY29tYV9ub2RlX2xpbmsgPSBOb2RlTGluaygndGFjb21hJykKICAgICAgICBHLmNyZWF0ZV9ub2RlKHJvb3Rfbm9kZV9saW5rPXNlYXR0bGVfbm9kZV9saW5rLCBpbWFnZV92YWx1ZV9saW5rPXNlYXR0bGVfc2t5bGluZV9pbWFnZV91cmwpCiAgICAgICAgRy5jcmVhdGVfbm9kZShyb290X25vZGVfbGluaz1tdF90YWNvbWFfbm9kZV9saW5rLCBpbWFnZV92YWx1ZV9saW5rPW10X3RhY29tYV9pbWFnZV91cmwpCiAgICAgICAgaW5zZXJ0X3F1YWRfa2V5ID0gJzEzJwogICAgICAgIGNyZWF0ZWRfbm9kZV9saW5rX3Jlc3VsdCA9IEcuY29ubmVjdF9jaGlsZChyb290X25vZGVfbGluaz1zZWF0dGxlX25vZGVfbGluaywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBxdWFkX2tleT1pbnNlcnRfcXVhZF9rZXksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hpbGRfbm9kZV9saW5rPW10X3RhY29tYV9ub2RlX2xpbmspCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKGNyZWF0ZWRfbm9kZV9saW5rX3Jlc3VsdC5pc19zdWNjZXNzKCkpCiAgICAgICAgY3JlYXRlZF9ub2RlX2xpbmsgPSBjcmVhdGVkX25vZGVfbGlua19yZXN1bHQudmFsdWUKICAgICAgICBuZXdfc2VhdHRsZV9pbWFnZV9yZXN1bHQgPSBHLmdldF9pbWFnZV9hdF9xdWFkX2tleShjcmVhdGVkX25vZGVfbGluaywgcmVzb2x1dGlvbj0yNTYsIHF1YWRfa2V5PScnKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShuZXdfc2VhdHRsZV9pbWFnZV9yZXN1bHQuaXNfc3VjY2VzcygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBzaXgubW92ZXMgaW1wb3J0IHhyYW5nZSAgIyBweWxpbnQ6IGRpc2FibGU9cmVkZWZpbmVkLWJ1aWx0aW4K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm53b3JkcyA9IGNvbmZpZy5ud29yZHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHdlaWdodF92YXJpYWJsZShzaGFwZSk6CiAgaW5pdGlhbCA9IHRmLnRydW5jYXRlZF9ub3JtYWwoc2hhcGUsIHN0ZGRldj0wLjEpCiAgcmV0dXJuIHRmLlZhcmlhYmxlKGluaXRpYWwpCgpkZWYgYmlhc192YXJpYWJsZShzaGFwZSk6CiAgaW5pdGlhbCA9IHRmLmNvbnN0YW50KDAuMSwgc2hhcGU9c2hhcGUpCiAgcmV0dXJuIHRmLlZhcmlhYmxlKGluaXRpYWwpCg==</text>
+        <text encoding="base64">ZnJvbSBzaXgubW92ZXMgaW1wb3J0IHhyYW5nZSAgIyBweWxpbnQ6IGRpc2FibGU9cmVkZWZpbmVkLWJ1aWx0aW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIHdlaWdodF92YXJpYWJsZShzaGFwZSk6CiAgaW5pdGlhbCA9IHRmLnRydW5jYXRlZF9ub3JtYWwoc2hhcGUsIHN0ZGRldj0wLjEpCiAgcmV0dXJuIHRmLlZhcmlhYmxlKGluaXRpYWwpCgpkZWYgYmlhc192YXJpYWJsZShzaGFwZSk6CiAgaW5pdGlhbCA9IHRmLmNvbnN0YW50KDAuMSwgc2hhcGU9c2hhcGUpCiAgcmV0dXJuIHRmLlZhcmlhYmxlKGluaXRpYWwpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bW5pc3QgPSBpbnB1dF9kYXRhLnJlYWRfZGF0YV9zZXRzKCdNTklTVF9kYXRhJywgb25lX2hvdD1UcnVlKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5maWxlbmFtZV90cmVlbWFwX21hcAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">bW5pc3QgPSBpbnB1dF9kYXRhLnJlYWRfZGF0YV9zZXRzKCdNTklTVF9kYXRhJywgb25lX2hvdD1UcnVlKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5maWxlbmFtZV90cmVlbWFwX21hcAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUb2RvIG5lZWQgYSBiZXR0ZXIgd2F5LCBzaG91bGQgbm90IHJlbHkgb24gbmFtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGFuZGFyZF9cPg==</last-search>
+      <last-search encoding="base64">XDxud29yZHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGFuZGFyZF9cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxud29yZHNcPg==</last-pattern>
       <last-replace>graphmap</last-replace>
       <last-substitute>imagetree_core</last-substitute>
       <last-dir>1</last-dir>
@@ -481,7 +491,6 @@
     </search>
     <history>
       <history-search>
-        <entry>#</entry>
         <entry>create</entry>
         <entry encoding="base64">XDxOb2RlTGlua1w+</entry>
         <entry>__str</entry>
@@ -501,6 +510,7 @@
         <entry>Reshap</entry>
         <entry encoding="base64">XDw1MTJcPg==</entry>
         <entry encoding="base64">XDxzdGFuZGFyZF9cPg==</entry>
+        <entry encoding="base64">XDxud29yZHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/0/1/g</entry>
